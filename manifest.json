@@ -6,13 +6,23 @@
   "action": {
     "default_popup": "/popup/popup.html"
   },
-  "permissions": ["storage"],
+  "permissions": [
+    "storage"
+  ],
   "content_scripts": [
     {
-      "matches": ["https://bazaardb.gg/*"],
-      "js": ["data.js", "content.js"],
+      "matches": [
+        "https://bazaardb.gg/*"
+      ],
+      "js": [
+        "data.js",
+        "content.js"
+      ],
       "run_at": "document_end"
     }
+  ],
+  "host_permissions": [
+    "https://bazaardb.gg/*"
   ],
   "icons": {
     "128": "icon128.png"
