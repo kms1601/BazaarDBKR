@@ -14,12 +14,6 @@
       "run_at": "document_end"
     }
   ],
-  "web_accessible_resources": [
-    {
-      "resources": ["icon32.png"],
-      "matches": ["<all_urls>"]
-    }
-  ],
   "icons": {
     "128": "icon128.png"
   }
