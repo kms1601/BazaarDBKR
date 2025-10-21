@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Options</title>
+    <style>
+        .icon {
+            position: relative;
+            display: flex;
+            justify-content: center;
+        }
+
+        .icon-text {
+            position: absolute;
+            font-size: 6px;
+            pointer-events: none;
+            top: 8px;
+        }
+
+        .wrap {
+            width: 200px; /* 충분히 넓게 지정 */
+            margin: 0 auto; /* 가운데 정렬 */
+            padding: 10px;
+            font-family: Arial, sans-serif;
+        }
+
+        h3.title {
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .radio-group {
+            display: flex;
+            flex-direction: column; /* 옵션들을 세로로 쌓기 */
+            gap: 6px; /* 옵션 간 간격 */
+        }
+
+        .radio-group label {
+            display: flex; /* 라디오 + 텍스트 가로 배치 */
+            align-items: center; /* 수직 중앙 정렬 */
+            cursor: pointer;
+        }
+
+        .radio-group label input[type="radio"] {
+            margin-right: 8px; /* 버튼과 텍스트 사이 간격 */
+        }
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <div class="icon">
+        <img src="icon.png" alt="아이콘" class="title-icon">
+        <span class="icon-text">KR</span>
+    </div>
+    <h3 class="title">설정</h3>
+    <div class="radio-group">
+        <label><input type="radio" name="option" value="en"> 영어</label>
+        <label><input type="radio" name="option" value="kr"> 한국어</label>
+        <label><input type="radio" name="option" value="en/kr" checked> 영어/한국어</label>
+        <label><input type="radio" name="option" value="kr/en"> 한국어/영어</label>
+    </div>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>

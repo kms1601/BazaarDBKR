@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "BazaarDB 비공식 한글패치",
+  "version": "1.0",
+  "action": {
+    "default_popup": "/popup/popup.html"
+  },
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["data.js", "content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["icon32.png"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png"
+  }
+}
