@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "BazaarDB 비공식 한글패치",
+  "name": "BazaarDBKR",
   "version": "1.0",
   "action": {
     "default_popup": "/popup/popup.html"
