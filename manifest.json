@@ -12,7 +12,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://bazaardb.gg/*"
+        "https://*.bazaardb.gg/*"
       ],
       "js": [
         "data.js",
@@ -22,7 +22,7 @@
     }
   ],
   "host_permissions": [
-    "https://bazaardb.gg/*"
+    "https://*.bazaardb.gg/*"
   ],
   "icons": {
     "128": "icon128.png"
