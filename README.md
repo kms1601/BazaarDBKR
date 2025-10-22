@@ -2,7 +2,15 @@
 
 BazaarDB의 이름 한글화 크롬 확장 기능입니다.
 
-https://bazaardb.gg/
+확장 프로그램 다운 받기
+
+>https://chromewebstore.google.com/detail/bazaardbkr/loacpjeegkdogkkjmnehnjnoenaemdhj
+
+적용 대상 사이트
+
+>https://bazaardb.gg/
+
+
 
 ## 설정
 
@@ -25,3 +33,11 @@ https://bazaardb.gg/
 4. 한국어/영어
 
 ![7.png](readme/7.png)
+
+## 업데이트 기록
+
+v1.0(2025-10-22)
+
+- 2025-10-22일자 번역 적용
+- Items, Skills, Merchants, Trainers, Monsters, Events 이름에 적용
+- 세부사항 이름에 적용
