@@ -33,13 +33,18 @@ def main():
         cards = json.load(f)
 
 
-
     for card in cards:
         translate(card, titles, tooltips, descriptions, quests)
 
-        RESULT[card["Localization"]["Title"]["Text"]] = card["Localization"]["Title"]["TextKR"] if "TextKR" in \
-                                                                                                   card["Localization"][
-                                                                                                       "Title"] else "텍스트 누락"
+        result = {}
+
+        en = card["Localization"]["Title"]["Text"]
+        kr = card["Localization"]["Title"]["TextKR"] if "TextKR" in card["Localization"]["Title"] else "한국어 텍스트 누락"
+
+        result["title"] = f"<span>{en}</span><span>{kr}</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>{en}</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>{kr}</span>"
+
+        key = f"{en}_{card["Type"]}"
+        RESULT[key] = result
 
     # JS 객체 문자열 만들기
     js_code = f"const DATA = {json.dumps(RESULT, ensure_ascii=False, indent=2)};"

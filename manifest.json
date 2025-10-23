@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "BazaarDBKR",
   "description": "BazaarDB의 이름 한글화 크롬 확장 기능입니다.",
-  "version": "1.1",
+  "version": "1.2",
   "action": {
     "default_popup": "/popup/popup.html"
   },
@@ -16,6 +16,7 @@
       ],
       "js": [
         "data.js",
+        "const.js",
         "content.js"
       ],
       "run_at": "document_end"

@@ -1,6 +1,9 @@
 let currentLang = "en/kr";
 let show = [];
-const PROCESSED_ATTR = "bdbkr-processed";
+
+const PROCESSED_ATTR = "bazaardbkr-processed";
+const CARD = "._aj";
+const DETAIL = "._aH"
 
 // 표시 인덱스 설정
 function showIndex() {
@@ -13,79 +16,93 @@ function showIndex() {
     show = map[currentLang] || [0, 3];
 }
 
+function getTypeFromCard(card) {
+    if (card.querySelector("._aB")) return "Skill";
+    else if (card.querySelectorAll("._b").length === 3) return "CombatEncounter";
+    else if ([1, 2].includes(card.querySelectorAll("._bi").length) && card.querySelector("._aF")) return "EventEncounter";
+    else if (card.querySelector("._aC")) return "EncounterStep";
+    else return "Item";
+}
+
+function getTypeFromDetail(card) {
+    if (card.querySelectorAll("h2")[1]?.textContent === "Monster InfoInferred") return "CombatEncounter";
+    else if (card.querySelector("._aF")) return "EventEncounter";
+    else if (card.querySelector("._aB")) return "Skill";
+    else return "Item";
+}
+
 function safeText(node) {
     return node?.textContent?.trim() || "";
 }
 
-/* ---------- 공통 제목 처리 함수 ---------- */
-function addTitleGeneric(item, key, size, addEN = false) {
-    const titleKRText = DATA[key];
-    if (!titleKRText) {
-        // console.log(`${key}에 해당하는 값이 없음`);
-        return;
+/* ---------- 공통 제목 처리 ---------- */
+function setTitle(title, html, size) {
+    title.innerHTML = html.replaceAll("__FONT_SIZE__", size);
+    title.setAttribute(PROCESSED_ATTR, "1"); // 처리 완료 표시
+    setVisible(title);
+}
+
+/* ---------- 카드 처리 ---------- */
+function handleCard(card) {
+    let title = card.querySelector("._an");
+    if (!title) title = card.querySelector("h3 span");
+    if (!title) return;
+
+    // 원본 텍스트 저장
+    let originalText = title.getAttribute("data-original-text");
+    if (!originalText) {
+        originalText = safeText(title);
+        title.setAttribute("data-original-text", originalText);
     }
 
-    // 중복 방지
-    if (item.hasAttribute(PROCESSED_ATTR)) return;
+    const key = `${originalText}_${getTypeFromCard(card)}`;
+    const data = DATA[key];
+    if (!data) return;
 
-    // 이미 같은 구조가 들어가 있으면 추가하지 않음
-    if (Array.from(item.children).some((c) => safeText(c) === titleKRText)) return;
+    // 이미 처리된 경우는 setVisible만 수행
+    if (title.hasAttribute(PROCESSED_ATTR)) {
+        setVisible(title);
+    } else {
+        setTitle(title, data.title, "12px");
+        title.setAttribute(PROCESSED_ATTR, "1");
+    }
+}
 
-    // 영어 원본
-    if (addEN) {
-        const titleEN = document.createElement("span");
-        titleEN.textContent = key;
-        item.appendChild(titleEN);
+function handleDetailCard(card, data) {
+    const cardTitle = card.querySelector("span");
+    setTitle(cardTitle, data.title, "12px");
+}
+
+function handleDetail(detail) {
+    const title = detail.querySelector("h1");
+    if (!title) return;
+
+    // 원본 텍스트 저장 및 불러오기
+    let originalText = title.getAttribute("data-original-text");
+    if (!originalText) {
+        originalText = safeText(title);
+        title.setAttribute("data-original-text", originalText);
     }
 
-    // 한국어 큰 제목
-    const titleKR = document.createElement("span");
-    titleKR.textContent = titleKRText;
+    const key = `${originalText}_${getTypeFromDetail(detail)}`;
+    const data = DATA[key];
+    if (!data) return;
 
-    // 영어 작은 제목
-    const titleENSmall = document.createElement("span");
-    titleENSmall.textContent = key;
-    titleENSmall.style.opacity = "50%";
-    titleENSmall.style.fontSize = size;
+    // 이미 처리된 경우 → setVisible만
+    if (title.hasAttribute(PROCESSED_ATTR)) {
+        setVisible(title);
+    } else {
+        setTitle(title, data.title, "20px");
+        title.setAttribute(PROCESSED_ATTR, "1");
+    }
 
-    // 한국어 작은 제목
-    const titleKRSmall = document.createElement("span");
-    titleKRSmall.textContent = titleKRText;
-    titleKRSmall.style.opacity = "50%";
-    titleKRSmall.style.fontSize = size;
-
-    // 추가
-    item.append(titleKR, titleENSmall, titleKRSmall);
-
-    // 기존 텍스트 노드 제거
-    Array.from(item.childNodes).forEach((node) => {
-        if (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== "") {
-            node.remove();
-        }
-    });
-
-    item.setAttribute(PROCESSED_ATTR, "1");
-    setVisible(item);
+    // 세부 카드 처리
+    const card = detail.querySelector("._d");
+    if (card) {
+        handleDetailCard(card, data);
+    }
 }
 
-/* ---------- 요소별 처리 ---------- */
-function handleH1(item) {
-    const key = safeText(item);
-    if (!key) return;
-    addTitleGeneric(item, key, "20px", true);
-}
-
-function handleCard(item) {
-    const key = safeText(item.children[0]);
-    if (!key) return;
-    addTitleGeneric(item, key, "12px");
-}
-
-function handleFhSpan(item) {
-    const key = safeText(item);
-    if (!key) return;
-    addTitleGeneric(item, key, "12px", true);
-}
 
 /* ---------- 표시 토글 ---------- */
 function setVisible(item) {
@@ -96,11 +113,8 @@ function setVisible(item) {
 
 /* ---------- 전체 처리 ---------- */
 function processAllOnce() {
-    document.querySelectorAll("h1").forEach(handleH1);
-    document.querySelectorAll("._an").forEach(handleCard);
-
-    const fh = document.querySelector("._b._d");
-    if (fh?.children[0]) handleFhSpan(fh.children[0]);
+    document.querySelectorAll(CARD).forEach(handleCard);
+    document.querySelectorAll(DETAIL).forEach(handleDetail);
 }
 
 /* ---------- Mutation Observer ---------- */
@@ -109,40 +123,15 @@ const observer = new MutationObserver((mutations) => {
         // 새로 추가된 노드 처리
         mutation.addedNodes?.forEach((node) => {
             if (node.nodeType !== 1) return;
-
-            if (node.tagName === "H1") handleH1(node);
-            node.querySelectorAll?.("h1").forEach(handleH1);
-            node.querySelectorAll?.("._an").forEach(handleCard);
-
-            const fh = node.querySelector("._b._d");
-            if (fh?.children[0]) handleFhSpan(fh.children[0]);
+            node.querySelectorAll?.(CARD).forEach(handleCard);
+            node.querySelectorAll?.(DETAIL).forEach(handleDetail);
         });
-
-        // 텍스트 변경 감지 → 부모 재처리
-        if (mutation.type === "characterData") {
-            const parent = mutation.target.parentNode;
-            if (parent?.tagName === "H1") {
-                parent.removeAttribute(PROCESSED_ATTR);
-                handleH1(parent);
-            }
-        }
-
-        // 속성 변경 감지
-        if (mutation.type === "attributes") {
-            const target = mutation.target;
-            if (target?.tagName === "H1") {
-                target.removeAttribute(PROCESSED_ATTR);
-                handleH1(target);
-            }
-        }
     }
 });
 
 observer.observe(document.body, {
     childList: true,
     subtree: true,
-    characterData: true,
-    attributes: true,
 });
 
 /* ---------- Storage 변경 감지 ---------- */
@@ -157,18 +146,13 @@ chrome.storage.onChanged.addListener((changes, area) => {
         currentLang = changes.selectedOption.newValue;
         showIndex();
 
-        document.querySelectorAll("._an, h1").forEach(setVisible);
-
-        const fh = document.querySelector("._b._d");
-        if (fh?.children[0]) setVisible(fh.children[0]);
+        document.querySelectorAll(CARD).forEach(handleCard);
+        document.querySelectorAll(DETAIL).forEach(handleDetail);
     }
 });
 
 /* ---------- SPA 이동 감지 ---------- */
 function reprocessAfterNavigation() {
-    document.querySelectorAll("h1, ._an").forEach((el) =>
-        el.removeAttribute(PROCESSED_ATTR)
-    );
     setTimeout(processAllOnce, 50);
 }
 
