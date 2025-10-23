@@ -99,7 +99,7 @@ function processAllOnce() {
     document.querySelectorAll("h1").forEach(handleH1);
     document.querySelectorAll("._an").forEach(handleCard);
 
-    const fh = document.querySelector("._f._h");
+    const fh = document.querySelector("._b._d");
     if (fh?.children[0]) handleFhSpan(fh.children[0]);
 }
 
@@ -114,7 +114,7 @@ const observer = new MutationObserver((mutations) => {
             node.querySelectorAll?.("h1").forEach(handleH1);
             node.querySelectorAll?.("._an").forEach(handleCard);
 
-            const fh = node.querySelector("._f._h");
+            const fh = node.querySelector("._b._d");
             if (fh?.children[0]) handleFhSpan(fh.children[0]);
         });
 
@@ -159,7 +159,7 @@ chrome.storage.onChanged.addListener((changes, area) => {
 
         document.querySelectorAll("._an, h1").forEach(setVisible);
 
-        const fh = document.querySelector("._f._h");
+        const fh = document.querySelector("._b._d");
         if (fh?.children[0]) setVisible(fh.children[0]);
     }
 });
