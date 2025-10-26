@@ -37,23 +37,7 @@ def main():
         translate(card, titles, tooltips, descriptions, quests)
 
         result = {
-            "title": "",
-            "tooltips": [],
-            "enchantments": {
-                "Golden": {},
-                "Heavy": {},
-                "Icy": {},
-                "Turbo": {},
-                "Shielded": {},
-                "Restorative": {},
-                "Toxic": {},
-                "Fiery": {},
-                "Shiny": {},
-                "Deadly": {},
-                "Radiant": {},
-                "Obsidian": {},
-            },
-            "quests": [],
+            "title": [],
         }
 
         en = card["Localization"]["Title"]["Text"]
