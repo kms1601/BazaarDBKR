@@ -36,7 +36,25 @@ def main():
     for card in cards:
         translate(card, titles, tooltips, descriptions, quests)
 
-        result = {}
+        result = {
+            "title": "",
+            "tooltips": [],
+            "enchantments": {
+                "Golden": {},
+                "Heavy": {},
+                "Icy": {},
+                "Turbo": {},
+                "Shielded": {},
+                "Restorative": {},
+                "Toxic": {},
+                "Fiery": {},
+                "Shiny": {},
+                "Deadly": {},
+                "Radiant": {},
+                "Obsidian": {},
+            },
+            "quests": [],
+        }
 
         en = card["Localization"]["Title"]["Text"]
         kr = card["Localization"]["Title"]["TextKR"] if "TextKR" in card["Localization"]["Title"] else "한국어 텍스트 누락"

@@ -1,10 +1,6 @@
 let currentLang = "en/kr";
 let show = [];
 
-const PROCESSED_ATTR = "bazaardbkr-processed";
-const CARD = "._aj";
-const DETAIL = "._aH"
-
 // 표시 인덱스 설정
 function showIndex() {
     const map = {
@@ -17,17 +13,17 @@ function showIndex() {
 }
 
 function getTypeFromCard(card) {
-    if (card.querySelector("._aB")) return "Skill";
-    else if (card.querySelectorAll("._b").length === 3) return "CombatEncounter";
-    else if ([1, 2].includes(card.querySelectorAll("._bi").length) && card.querySelector("._aF")) return "EventEncounter";
-    else if (card.querySelector("._aC")) return "EncounterStep";
+    if (card.querySelector(SKILL_CARD_IMAGE)) return "Skill";
+    else if (card.querySelectorAll(MONSTER_CARD_COUNT).length === 3) return "CombatEncounter";
+    else if (card.querySelector(EVENT_CARD_IMAGE)) return "EventEncounter";
+    else if (card.querySelector(EVENT_STEP_IMAGE)) return "EncounterStep";
     else return "Item";
 }
 
 function getTypeFromDetail(card) {
     if (card.querySelectorAll("h2")[1]?.textContent === "Monster InfoInferred") return "CombatEncounter";
-    else if (card.querySelector("._aF")) return "EventEncounter";
-    else if (card.querySelector("._aB")) return "Skill";
+    else if (card.querySelector(EVENT_CARD_IMAGE)) return "EventEncounter";
+    else if (card.querySelector(SKILL_CARD_IMAGE)) return "Skill";
     else return "Item";
 }
 
@@ -44,7 +40,7 @@ function setTitle(title, html, size) {
 
 /* ---------- 카드 처리 ---------- */
 function handleCard(card) {
-    let title = card.querySelector("._an");
+    let title = card.querySelector(CARD_TITLE);
     if (!title) title = card.querySelector("h3 span");
     if (!title) return;
 
@@ -56,6 +52,7 @@ function handleCard(card) {
     }
 
     const key = `${originalText}_${getTypeFromCard(card)}`;
+
     const data = DATA[key];
     if (!data) return;
 
@@ -97,7 +94,7 @@ function handleDetail(detail) {
     }
 
     // 세부 카드 처리
-    const card = detail.querySelector("._d");
+    const card = detail.querySelector(CARD_DETAIL);
     if (card) {
         handleDetailCard(card, data);
     }
