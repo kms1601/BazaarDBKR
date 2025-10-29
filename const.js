@@ -1,14 +1,13 @@
 const PROCESSED_ATTR = "bazaardbkr-processed";
 
-const CARD = "._as"; // after █ _xx element
-const CARD_TITLE = "._aw"; // h3 element
+const CARD = ".█ > div";
     
-const SKILL_CARD_IMAGE = "._ah._ai";
-const EVENT_CARD_IMAGE = "._ah._ak";
-const EVENT_STEP_IMAGE = "._ah._aj";
+const SKILL_CARD_IMAGE = "img[src*=\"skill/\"]";
+const EVENT_CARD_IMAGE = "img[src*=\"encounter/\"], [style*=\"encounter/\"]";
+const ITEM_CARD_IMAGE = "img[src*=\"item/\"]"
     
-const MONSTER_CARD_COUNT = "._a"; // tooltip
+const MONSTER_HEALTH = "use[href*=\"/icon/keyword_sprites.svg?10#xp\"]";
     
-const DETAIL = "._aJ"; // after first element
-const CARD_DETAIL = "._aa"; // first element
+const DETAIL = "div[style*=\"display: flex\"][style*=\"flex-direction: column\"][style*=\"gap: 12px\"]";
+const CARD_DETAIL = "div > div:nth-child(3)";
     

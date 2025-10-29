@@ -13,11 +13,11 @@ function showIndex() {
 }
 
 function getTypeFromCard(card) {
-    if (card.querySelector(SKILL_CARD_IMAGE)) return "Skill";
-    else if (card.querySelectorAll(MONSTER_CARD_COUNT).length === 3) return "CombatEncounter";
+    if (card.querySelector(MONSTER_HEALTH)) return "CombatEncounter";
     else if (card.querySelector(EVENT_CARD_IMAGE)) return "EventEncounter";
-    else if (card.querySelector(EVENT_STEP_IMAGE)) return "EncounterStep";
-    else return "Item";
+    else if (card.querySelector(ITEM_CARD_IMAGE)) return "Item";
+    else if (card.querySelector(SKILL_CARD_IMAGE)) return "Skill";
+    else return "EncounterStep";
 }
 
 function getTypeFromDetail(card) {
@@ -40,8 +40,7 @@ function setTitle(title, html, size) {
 
 /* ---------- 카드 처리 ---------- */
 function handleCard(card) {
-    let title = card.querySelector(CARD_TITLE);
-    if (!title) title = card.querySelector("h3 span");
+    let title = card.querySelector("h3");
     if (!title) return;
 
     // 원본 텍스트 저장
@@ -54,7 +53,10 @@ function handleCard(card) {
     const key = `${originalText}_${getTypeFromCard(card)}`;
 
     const data = DATA[key];
-    if (!data) return;
+    if (!data) {
+        console.log(`${key} 데이터 없음`)
+        return;
+    }
 
     // 이미 처리된 경우는 setVisible만 수행
     if (title.hasAttribute(PROCESSED_ATTR)) {
@@ -83,7 +85,10 @@ function handleDetail(detail) {
 
     const key = `${originalText}_${getTypeFromDetail(detail)}`;
     const data = DATA[key];
-    if (!data) return;
+    if (!data) {
+        console.log(`${key} 데이터 없음`)
+        return;
+    }
 
     // 이미 처리된 경우 → setVisible만
     if (title.hasAttribute(PROCESSED_ATTR)) {

@@ -5,7 +5,6 @@ import sys
 
 from const import CWD, TITLE_ID, TIPS_ID, DESCRIPTION_ID, QUESTS_ID
 from data.fetch_translate_data import fetch_translate_data
-from data.get_class_name import get_class_name
 from data.make_zip_file import make_zip_file
 from fetch_game_data import fetch_game_data
 from translate import translate
@@ -63,7 +62,6 @@ def main():
 
     print("data.js 파일 생성 완료!")
 
-    get_class_name()
     make_zip_file()
 
 if __name__ == "__main__":
