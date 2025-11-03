@@ -8,6 +8,6 @@ const ITEM_CARD_IMAGE = "img[src*=\"item/\"]"
     
 const MONSTER_HEALTH = "use[href*=\"/icon/keyword_sprites.svg?10#xp\"]";
     
-const DETAIL = "div[style*=\"display: flex\"][style*=\"flex-direction: column\"][style*=\"gap: 12px\"]";
+const DETAIL = "div[style*=\"display: flex\"][style*=\"flex-direction: column\"][style*=\"gap: 12px\"], div[style*=\"display:flex\"][style*=\"flex-direction:column\"][style*=\"gap:12px\"]";
 const CARD_DETAIL = "div > div:nth-child(3)";
     
