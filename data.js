@@ -3153,7 +3153,7 @@ const DATA = {
     "title": "<span>Capital Gains</span><span>자본 이득</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Capital Gains</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>자본 이득</span>"
   },
   "Grill_Item": {
-    "title": "<span>Grill</span><span>그릴</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Grill</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>그릴</span>"
+    "title": "<span>Grill</span><span>그릴</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Grill</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>석쇠</span>"
   },
   "Void Golem_CombatEncounter": {
     "title": "<span>Void Golem</span><span>공허의 골렘</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Void Golem</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>공허의 골렘</span>"
