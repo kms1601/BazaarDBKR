@@ -1,0 +1,1210 @@
+[
+    {
+        "id": 753414159,
+        "key": "7e673d2770f8cd32b66c5650f6b69cd5",
+        "original": "When Sold:",
+        "translation": "판매 시:",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414160,
+        "key": "d41d8cd98f00b204e9800998ecf8427e",
+        "original": "",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414161,
+        "key": "517349a3cdc1acf50617693e3ba33988",
+        "original": "Charge",
+        "translation": "충전",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414162,
+        "key": "5141b4e8452ff4b0a426c19987a138ad",
+        "original": "Immediately advances an item's Cooldown.",
+        "translation": "아이템의 재사용 대기시간을 즉시 진행시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414163,
+        "key": "1f08d08fd864b99cbeebd88b9a0784a7",
+        "original": "Income",
+        "translation": "수입",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414164,
+        "key": "811e932447ba0ff402685bfe37a80b39",
+        "original": "The amount of Gold you gain at the start of each day.",
+        "translation": "하루를 시작할 때 얻는 골드의 양입니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414165,
+        "key": "4bbb8f967da6d1a610596d7257179c2b",
+        "original": "Invalid",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414166,
+        "key": "eb5c1399a871211c7e7ed732d15e3a8b",
+        "original": "small",
+        "translation": "소형",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414167,
+        "key": "f4f7253661dc3bf12544fc82fdcf4efb",
+        "original": "Haste",
+        "translation": "가속",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414168,
+        "key": "64af6951954168341a98a4960729d038",
+        "original": "Items with Haste charge twice as fast.",
+        "translation": "가속된 아이템은 두 배 빠르게 충전됩니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414169,
+        "key": "001fac16354832d913f2d4332048d14b",
+        "original": "Max Health",
+        "translation": "최대 체력",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414170,
+        "key": "11635778f116ce6922f6068638a39028",
+        "original": "Burn",
+        "translation": "화상",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414171,
+        "key": "fcc7a0c98e3af8f455c7ee0448117e0c",
+        "original": "Damages Players twice per second. Every time Burn deals Damage it decreases by one.",
+        "translation": "초당 두번 플레이어에게 피해를 입힙니다. 화상이 피해를 입힐 때마다 1씩 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414172,
+        "key": "9d82a0f406f346bcb6fcd036e1b98175",
+        "original": "Lifesteal",
+        "translation": "생명력흡수",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414173,
+        "key": "39af4dd8a22594afda10a26c7fc611a9",
+        "original": "When dealing Damage, recover Health equal to the amount of Damage dealt.",
+        "translation": "피해를 입힐 때, 입힌 피해량만큼 체력을 회복합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414174,
+        "key": "5b9cca31b21c9c04c3d6f9ecbcc3ffc8",
+        "original": "Cooldown",
+        "translation": "재사용 대기시간",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414175,
+        "key": "80dd330a5c08653498c49a219a124543",
+        "original": "Healing",
+        "translation": "회복",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414176,
+        "key": "42217914f4f5e7b0a3796190a8e850a0",
+        "original": "Recover your Health, up to your Max Health. Cleanses 5% Poison and Burn.",
+        "translation": "내 최대 체력까지만 체력을 회복합니다. 중독과 화상을 5% 제거합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414177,
+        "key": "26087341433e59614e8a48d71b91f72e",
+        "original": "Burned",
+        "translation": "화상 입음",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414178,
+        "key": "eb45bd2725cb8ac50d0795432a918f86",
+        "original": "Bank",
+        "translation": "은행",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414179,
+        "key": "e5897af8fa76f8be40e8e0c84261c357",
+        "original": "The amount of Gold you currently have.",
+        "translation": "현재 가지고 있는 골드의 양입니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414180,
+        "key": "f357105e6becc3076a3da9b43465051a",
+        "original": "Heal",
+        "translation": "회복",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414181,
+        "key": "afacdb0a401ccdf6b48551bbc00e8a74",
+        "original": "large",
+        "translation": "대형",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414182,
+        "key": "ae26b3d8e556703291282149e3ae894f",
+        "original": "upgrade",
+        "translation": "강화",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414183,
+        "key": "3458f865795d162f5d808b78c01e11d6",
+        "original": "Increases an item's tier, which improves its effectiveness and value.",
+        "translation": "아이템의 등급을 높여 효과와 가치를 향상시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414184,
+        "key": "ef888f22750159936410b666f2ea7e22",
+        "original": "Reroll",
+        "translation": "새로고침",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414185,
+        "key": "cfb251cffa9da3f1dbbc9baae9138b1a",
+        "original": "Reroll this Merchant's supply.",
+        "translation": "이 상인의 품목을 새로고침합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414186,
+        "key": "8535f2edd686f479b56e8b758e0c9ca5",
+        "original": "Aquatic",
+        "translation": "수중",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414187,
+        "key": "444733081a578880ba8a563d3c59d22d",
+        "original": "Flying",
+        "translation": "비행",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414188,
+        "key": "e5e3a18b02606974c2145d588732b623",
+        "original": "Flying items are affected by Freeze and Slow for half as long.",
+        "translation": "비행 중인 아이템은 빙결과 둔화의 영향을 절반만 받습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414189,
+        "key": "5fb1f955b45e38e31789286a1790398d",
+        "original": "ALL",
+        "translation": "모두",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414190,
+        "key": "f0761464a8dfe74b93919b6667a5aa90",
+        "original": "Tricast",
+        "translation": "삼중시전",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414191,
+        "key": "98c3a177f24583bd6cba7cb7b06c4cac",
+        "original": "Non-",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414192,
+        "key": "26307ecc02f0e3cb30346d1f28d4c225",
+        "original": "Joy",
+        "translation": "기쁨",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414193,
+        "key": "70522789d74adff6279faf66d1ea72a2",
+        "original": "Blocks all Damage. If you fill your Health bar with Joy you win the fight.",
+        "translation": "모든 피해를 막습니다. 내 체력 바를 기쁨으로 채우면 전투에서 승리합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414194,
+        "key": "0a553ed1f13f3a58c86a3ba00d78f67a",
+        "original": "CritChance",
+        "translation": "치명타 확률",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414195,
+        "key": "58c2bab2f3f8dd3d3252dad5b6c0b7a8",
+        "original": "The chance for an item with a Cooldown to critically hit, doubling its Damage, Heal, Shield, Regen, Burn and Poison active effects.",
+        "translation": "재사용 대기시간이 있는 아이템이 치명타를 가한 경우, 해당 아이템의 피해, 회복, 보호막, 재생, 화상, 중독 효과가 두 배가 됩니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 753414196,
+        "key": "9fc2d28c05ed9eb1d75ba4465abf15a9",
+        "original": "Properties",
+        "translation": "자산",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414197,
+        "key": "4ff41d834b93368894d99a423fff7395",
+        "original": "Leave Encounter",
+        "translation": "조우 종료",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414198,
+        "key": "a5c3a08500d08e88cc6b5025c7081e5f",
+        "original": "Exit this encounter.",
+        "translation": "이 조우를 종료합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414199,
+        "key": "c92a86ef9dceabc5bf5ec6eb9bfd1318",
+        "original": "Ammo",
+        "translation": "탄약",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414200,
+        "key": "b9788db3b27967a8ed7accfc8de00bf2",
+        "original": "When an item runs out of Ammo, it can no longer fire. Ammo refills after each fight.",
+        "translation": "아이템의 탄약이 떨어지면 더 이상 발사할 수 없습니다. 탄약은 각 전투 후에 보충됩니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414201,
+        "key": "533ddf198ed1163ad815ad0e4a2445f2",
+        "original": "NoSpace",
+        "translation": "공간 없음",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414202,
+        "key": "6d49138e5e1bdf9f76e41d17130f0ba5",
+        "original": "You have no space for that.",
+        "translation": "이 아이템을 놓을 공간이 없습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414203,
+        "key": "cb6223a7cd1781989a12b9073e926891",
+        "original": "Victories: <size=150%><color=#EB9E50>{1}</size></color>",
+        "translation": "승리 횟수: <size=150%><color=#EB9E50>{1}</size></color>",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414204,
+        "key": "a354b66db707e6800d46ae519a6c95b7",
+        "original": "You are playing Normal mode. Gain {0} victories to complete your run! Earn chests at 4, 7, and {0} victories.",
+        "translation": "일반 모드를 플레이 중입니다. 여정을 완료하려면 {0}번 승리하세요! 4, 7, {0}승에서 상자를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414205,
+        "key": "feb4755e8b827e87b522a13489c141b2",
+        "original": "You are playing Ranked mode. Gain {0} victories to complete your run! Earn chests at 4, 7, and {0} victories.",
+        "translation": "랭크 모드를 플레이 중입니다. 여정을 완료하려면 {0}번 승리하세요! 4, 7, {0}승에서 상자를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414206,
+        "key": "8625e1de7be14c39b1d14dc03d822497",
+        "original": "Tools",
+        "translation": "도구",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414207,
+        "key": "4038d5a85906029f46137a4164c51073",
+        "original": "Experience",
+        "translation": "경험치",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414208,
+        "key": "2e1ca529c84835b287f5e4bb7addd6b5",
+        "original": "Collect 8 XP to gain a level. New levels provide Max Health, board slots, and special rewards.",
+        "translation": "레벨을 올리려면 8 경험치를 얻으세요. 레벨이 오르면 최대 체력, 보드 슬롯, 특별 보상을 제공합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414209,
+        "key": "82923e487459c820c515058ccbd887b0",
+        "original": "unsellable",
+        "translation": "판매 불가",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414210,
+        "key": "9e80b8210b5a63ea4692b25b5cf4e26c",
+        "original": "This item cannot be sold.",
+        "translation": "이 아이템은 판매할 수 없습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414211,
+        "key": "83168e6cb289d732cc78427b51f93153",
+        "original": "Core",
+        "translation": "코어",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414212,
+        "key": "9c62de7ee81b9df6b969556408129d94",
+        "original": "Prestige: <size=150%><color=#EB9E50>{1}</size></color><color=#a0845b>/{0}</color>",
+        "translation": "명성: <size=150%><color=#EB9E50>{1}</size></color><color=#a0845b>/{0}</color>",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414213,
+        "key": "185581df6f6a6af5b15d5d05a3803dd3",
+        "original": "Losing fights against Players results in prestige loss equal to the day. If your prestige hits zero, your run ends.",
+        "translation": "플레이어와의 전투에서 패배하면 현재 일차만큼 명성을 잃습니다. 명성이 0이 되면 여정이 종료됩니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414214,
+        "key": "8a90c0eea4a6a26a919d1936e06b4920",
+        "original": "Weapons",
+        "translation": "무기",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414215,
+        "key": "b9f24e83531326204197015b2f43a93f",
+        "original": "Damage",
+        "translation": "피해",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414216,
+        "key": "efa5397985b8609a5dbeb430a4bcadd3",
+        "original": "Slow",
+        "translation": "둔화",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414217,
+        "key": "8deae8f4868735fea7781f9505be67e0",
+        "original": "Items with Slow charge half as fast.",
+        "translation": "둔화된 아이템은 충전 속도가 절반이 됩니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414218,
+        "key": "1a6ffb8b497d13b4474eb07843ee213e",
+        "original": "Quadcast",
+        "translation": "사중시전",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414219,
+        "key": "4d1c8263ba1036754f8db14a98f9f006",
+        "original": "Reload",
+        "translation": "재장전",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414220,
+        "key": "67837239917008c31fa04cb035071ac8",
+        "original": "Enchant",
+        "translation": "마법 부여",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414221,
+        "key": "168c1b3c8555cc881dd0cc933c368c21",
+        "original": "Adds a unique new effect to the item.",
+        "translation": "아이템에 고유한 새 효과를 추가합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414222,
+        "key": "5ad234cb2cde4266195252a23ca7d84e",
+        "original": "Property",
+        "translation": "자산",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414223,
+        "key": "f7f5d540f521d6d642502a9d459e7b16",
+        "original": "Potion",
+        "translation": "물약",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414224,
+        "key": "d421fd439cd14456726791338b3b397e",
+        "original": "Tool",
+        "translation": "도구",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414225,
+        "key": "d6af9c1eaff2a89ebd3f8d0c542be12b",
+        "original": "Vehicle",
+        "translation": "탈것",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414226,
+        "key": "0a38e7286ebbb560354992b3ce62be67",
+        "original": "Food",
+        "translation": "음식",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414227,
+        "key": "18c83669920215a818638ad0e5421e4b",
+        "original": "Weapon",
+        "translation": "무기",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414228,
+        "key": "8e1bde3c3d303163521522cf1d62f21f",
+        "original": "ANY",
+        "translation": "임의의",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414229,
+        "key": "973db28a2b6f5a9ea8698e607eb69fee",
+        "original": "Dualcast",
+        "translation": "이중시전",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414230,
+        "key": "896c55cc5e46fab38ce9f51ebf7bfcd3",
+        "original": "hour",
+        "translation": "시간",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414231,
+        "key": "8d4db8ec8ce70e0e46907c0c96a9fa47",
+        "original": "NestedCardEffect",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414232,
+        "key": "80352da55ee36cf398ec7cd8509ba1ed",
+        "original": "Card Effects",
+        "translation": "카드 효과",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414233,
+        "key": "3a9d1818d0d7f5646e63465baf7d366f",
+        "original": "Poison",
+        "translation": "중독",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414234,
+        "key": "f79b8efabdd0d82e3dc9de5160b7a23a",
+        "original": "Damages Players every second.",
+        "translation": "매 초마다 플레이어에게 피해를 입힙니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414235,
+        "key": "075a3e36a0a52dcbc568c05788e8a713",
+        "original": "medium",
+        "translation": "중형",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414236,
+        "key": "6328e5e3186c227a021ef2ff77e40197",
+        "original": "BOTH",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414237,
+        "key": "59198347aa8a409ad9e4f0ccd56950eb",
+        "original": "Ingredient",
+        "translation": "재료",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414238,
+        "key": "930a91848917f92cf7e2f8d744fa4177",
+        "original": "Friend",
+        "translation": "친구",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414239,
+        "key": "a1ec2ef9f8a7e438b82a6ec519caae7f",
+        "original": "CritText",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414240,
+        "key": "d4939fda6b04a871dc63c652bbef33ad",
+        "original": "Crit Chance",
+        "translation": "치명타 확률",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414241,
+        "key": "896890bfb700eac98300d639ca970f2b",
+        "original": "Merchant",
+        "translation": "상인",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414242,
+        "key": "628b7db04235f228d40adc671413a8c8",
+        "original": "day",
+        "translation": "일차",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414243,
+        "key": "689202409e48743b914713f96d93947c",
+        "original": "Value",
+        "translation": "가치",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414244,
+        "key": "fa7950e5107ccdaeb6d3dda370405541",
+        "original": "Time/Day",
+        "translation": "시간/일차",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414245,
+        "key": "ab0acb2225287f94482e8cea8fa50d50",
+        "original": "It is currently <color=#FED5AC>hour {0}</color> on <color=#FED5AC>day {1}</color>.",
+        "translation": "현재 <color=#FED5AC>{1}일차</color>의 <color=#FED5AC>{0}시</color>입니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414246,
+        "key": "a3bdbf2434870a6548df06309bb536b1",
+        "original": "Poisoned",
+        "translation": "중독됨",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414247,
+        "key": "93fb94ede88fe65704d75647dfc6595f",
+        "original": "Regeneration",
+        "translation": "재생",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414248,
+        "key": "05821f06064185c48359f6031df0b705",
+        "original": "Adds Health equal to your Regen every second.",
+        "translation": "매 초마다 재생만큼 체력을 추가합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414249,
+        "key": "5bb2990fc95ada8c7bbb0e6f3036e6b3",
+        "original": "stash",
+        "translation": "보관함",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414250,
+        "key": "00be7699a1390287de58ab86412fed09",
+        "original": "CannotAfford",
+        "translation": "구매 불가",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414251,
+        "key": "94e0c44239059ebf4f0127623ac97a63",
+        "original": "You can't afford that.",
+        "translation": "그것을 구매할 여유가 없습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414252,
+        "key": "68abcc3d0869f8a52c2b286b3c511dd3",
+        "original": "Frozen",
+        "translation": "빙결됨",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414253,
+        "key": "605669cab962bf944d99ce89cf9e58d9",
+        "original": "Health",
+        "translation": "체력",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414254,
+        "key": "1fdcdcdd927bb7ee97be7fdf0d238d6b",
+        "original": "NestedTooltipBase",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414255,
+        "key": "095a1b43effec73955e31e790438de49",
+        "original": "Base",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 753414256,
+        "key": "65467087a19145f43129bba42781aea0",
+        "original": "Freeze",
+        "translation": "빙결",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414257,
+        "key": "765517bd3a9a137621adafacc24b0fda",
+        "original": "Frozen items cannot activate.",
+        "translation": "빙결된 아이템은 발동할 수 없습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414258,
+        "key": "970da5f1f2e32aeb9e488dd017160ab4",
+        "original": "Shield",
+        "translation": "보호막",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414259,
+        "key": "03d422300d96fc34ddece3e0f9786699",
+        "original": "Blocks Damage. Ignored by Poison and reduces Burn Damage by 50%.",
+        "translation": "피해를 막습니다. 중독 피해는 막지 못하며 화상 피해를 50% 감소시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414260,
+        "key": "e505b469ee74fccb9f6fbbbd83c3b390",
+        "original": "JustPurchased",
+        "translation": "방금 구매함",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414261,
+        "key": "99a8a735b6e9b35f7fa40a813676764a",
+        "original": "They don't want to buy this item.",
+        "translation": "그들은 이 아이템을 사고 싶어하지 않습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414262,
+        "key": "f98714815862cc6a2f47e6a3e6f045a5",
+        "original": "Multicast",
+        "translation": "다중시전",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414263,
+        "key": "674d0006cddefcfbaac5a455bed70406",
+        "original": "When you use this item, its effect happens multiple times.",
+        "translation": "이 아이템을 사용하면 효과가 여러 번 발생합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414264,
+        "key": "ab3991ec36ac9afb97d0378e7629d35c",
+        "original": "Shielding",
+        "translation": "보호 중",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414265,
+        "key": "9406e3c325bfc9873426e5eda4ba6e18",
+        "original": "Ray",
+        "translation": "레이",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414266,
+        "key": "583f4be146b6127f9e4f3f036ce7df43",
+        "original": "Dragon",
+        "translation": "드래곤",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414267,
+        "key": "6794e7b16f55b952b04e118ec3a7cc78",
+        "original": "Loot",
+        "translation": "전리품",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414268,
+        "key": "756fe9011ebbc81c00d59fcd846ef2ca",
+        "original": "Dinosaur",
+        "translation": "공룡",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414269,
+        "key": "fc43e587e3df077329b354a6ef05dd29",
+        "original": "Apparel",
+        "translation": "의류",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414270,
+        "key": "0f8102b6411cb34b509858e7d17dc3f4",
+        "original": "Toy",
+        "translation": "장난감",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414271,
+        "key": "575e0dc3e4b24d90d2a216d4dc5d0f09",
+        "original": "Tech",
+        "translation": "테크",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414272,
+        "key": "2ff4148554480a37f85efd299df04850",
+        "original": "Transform",
+        "translation": "변환",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 753414273,
+        "key": "052ed477f41cc5507b79c106429d2d34",
+        "original": "Changes an item into a new form. Retains tier and Enchantments if able. Legendaries cannot be transformed.",
+        "translation": "아이템을 새로운 형태로 바꿉니다. 등급과 마법 부여는 가능하면 유지됩니다. 전설 등급은 변환할 수 없습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 790736972,
+        "key": "f332fb0a2b3936b4ac2bf6527da99d8c",
+        "original": "Hastes",
+        "translation": "가속",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736973,
+        "key": "e0c1c085f86ee1c49f3d2f0e02ca2725",
+        "original": "Cooldowns",
+        "translation": "재사용 대기시간",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736974,
+        "key": "d2f30b1c892a3d6583022a3762031ca5",
+        "original": "Heals",
+        "translation": "회복",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736975,
+        "key": "c3771c0880763ce9ede0505555ef8b19",
+        "original": "Flying items are affected by Freezes and Slow for half as long.",
+        "translation": "비행 중인 아이템은 빙결과 둔화의 영향을 절반만 받습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736976,
+        "key": "a56fd7f38ed715d38e2831cb68c94bad",
+        "original": "Crits",
+        "translation": "치명타",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736977,
+        "key": "232bcc9fa550bd178f1a1076d7474050",
+        "original": "No Space",
+        "translation": "공간 없음",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736978,
+        "key": "1313a173dc6786ca730a4d7e61960dcf",
+        "original": "Collect 8 XP to gain a level. New levels provide Max Health and special rewards.",
+        "translation": "레벨을 올리려면 8의 경험치를 모으세요. 레벨이 오르면 최대 체력과 특별 보상을 제공합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736979,
+        "key": "b7746e16f4e1b124f298460259ec4456",
+        "original": "Slows",
+        "translation": "둔화",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736980,
+        "key": "1a14f9660e66ccadce4ebcf0bab0b628",
+        "original": "Potions",
+        "translation": "물약",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736981,
+        "key": "83467144e8aa33bf67ff729d1540fa81",
+        "original": "Vehicles",
+        "translation": "탈것",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736982,
+        "key": "172957b9734ad75b008c148978d2fbda",
+        "original": "Poisons",
+        "translation": "중독",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736983,
+        "key": "3d594614f445f6b00014e9b77730b833",
+        "original": "Friends",
+        "translation": "친구",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736984,
+        "key": "76b89bb870f441a9c97f98cbfa8b924a",
+        "original": "Regen",
+        "translation": "재생",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736985,
+        "key": "a1b8f92d9392115e81ecc9d13a079b0c",
+        "original": "Regens",
+        "translation": "재생",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736986,
+        "key": "8a8672a03859fe581ea24e83b84d1d54",
+        "original": "Cannot Afford",
+        "translation": "구매 불가",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736987,
+        "key": "84b6f033c9c87710bb2972a464a87abb",
+        "original": "Freezes",
+        "translation": "빙결",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736988,
+        "key": "d779cd1cdd9e2a325226d850611764aa",
+        "original": "Shields",
+        "translation": "보호막",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736989,
+        "key": "ad5f1fe6853ccc340e3e8b1f5611806b",
+        "original": "Just Purchased",
+        "translation": "방금 구매함",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736990,
+        "key": "faaa76a4cae642a0f3bdd5a46be267cd",
+        "original": "Rays",
+        "translation": "레이",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736991,
+        "key": "b5f8d525950cbc0c11fd13b34de6db6b",
+        "original": "Dinosaurs",
+        "translation": "공룡",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736992,
+        "key": "66d0af2d5da0109dc2aae67829f7d4d4",
+        "original": "Toys",
+        "translation": "장난감",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736993,
+        "key": "5e5aa5cf1b19396842f8d82f26038065",
+        "original": "Transforms",
+        "translation": "변환",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736994,
+        "key": "590655ab1dc95c58689bf8963609fe2c",
+        "original": "heated",
+        "translation": "가열",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736995,
+        "key": "03878d3ed38373b08b1bdcaa7d108024",
+        "original": "chilled",
+        "translation": "냉각",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736996,
+        "key": "3c6e0b8a9c15224a8228b9a98ca1531d",
+        "original": "key",
+        "translation": "열쇠",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736997,
+        "key": "14f802e1fba977727845e8872c1743a7",
+        "original": "keys",
+        "translation": "열쇠",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736998,
+        "key": "46f3ea056caa3126b91f3f70beea068c",
+        "original": "Map",
+        "translation": "지도",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736999,
+        "key": "af51fdf94adbb4b6fe4f1275b07df10d",
+        "original": "Maps",
+        "translation": "지도",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737000,
+        "key": "2b72b3c21788d609137b28e6007bf608",
+        "original": "Reagents",
+        "translation": "시약",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737001,
+        "key": "4aea602c9c5add7899f8f7b49f2060de",
+        "original": "Reagent",
+        "translation": "시약",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737002,
+        "key": "0e181f89f47654b86f3beb42f5cc08b8",
+        "original": "Destroy",
+        "translation": "파괴",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737003,
+        "key": "b3305e295616db8787fd7ac6b411ad90",
+        "original": "Destroys",
+        "translation": "파괴",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737004,
+        "key": "a178914dea39e23c117e164b05b43995",
+        "original": "Drone",
+        "translation": "드론",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737005,
+        "key": "f75b7fa0c07a9210ccd155f8b2a31212",
+        "original": "Drones",
+        "translation": "드론",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737006,
+        "key": "95bacd099548cd6ef0c33642a7a43ccf",
+        "original": "Relic",
+        "translation": "유물",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790737007,
+        "key": "b51dbce071522232bdd58537db45c0d7",
+        "original": "Relics",
+        "translation": "유물",
+        "stage": 1,
+        "context": null
+    }
+]

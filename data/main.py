@@ -4,8 +4,8 @@ import json
 import sys
 
 from const import CWD, TITLE_ID, TIPS_ID, DESCRIPTION_ID, QUESTS_ID
-from data.fetch_translate_data import fetch_translate_data
-from data.make_zip_file import make_zip_file
+from fetch_translate_data import fetch_translate_data
+from make_zip_file import make_zip_file
 from fetch_game_data import fetch_game_data
 from translate import translate
 

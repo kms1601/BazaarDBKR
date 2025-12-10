@@ -1,7 +1,7 @@
 import os
 import zipfile
 
-from data.const import CWD
+from const import CWD
 
 FILES = [CWD + "/../popup", CWD + "/../const.js", CWD + "/../content.js", CWD + "/../data.js", CWD + "/../icon128.png", CWD + "/../manifest.json"]
 

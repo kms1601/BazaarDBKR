@@ -14,6 +14,9 @@ const DATA = {
   "Handaxe_Item": {
     "title": "<span>Handaxe</span><span>손도끼</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Handaxe</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>손도끼</span>"
   },
+  "Playing with Fire_Skill": {
+    "title": "<span>Playing with Fire</span><span>불장난</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Playing with Fire</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>불장난</span>"
+  },
   "Zookeeper_CombatEncounter": {
     "title": "<span>Zookeeper</span><span>조련사</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Zookeeper</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>조련사</span>"
   },
@@ -57,7 +60,7 @@ const DATA = {
     "title": "<span>Business Card</span><span>명함</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Business Card</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>명함</span>"
   },
   "Add Stove_EncounterStep": {
-    "title": "<span>Add Stove</span><span>열원을 더한다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Add Stove</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>열원을 더한다</span>"
+    "title": "<span>Add Stove</span><span>열원을 설치한다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Add Stove</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>열원을 설치한다</span>"
   },
   "The Core_Item": {
     "title": "<span>The Core</span><span>핵심코어</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>The Core</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>핵심코어</span>"
@@ -157,6 +160,9 @@ const DATA = {
   },
   "[DEBUG]  Fortune Cookie_Item": {
     "title": "<span>[DEBUG]  Fortune Cookie</span><span>한국어 텍스트 누락</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>[DEBUG]  Fortune Cookie</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>한국어 텍스트 누락</span>"
+  },
+  "Playtime_Skill": {
+    "title": "<span>Playtime</span><span>놀이 시간</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Playtime</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>놀이 시간</span>"
   },
   "Dooley's Crib_EventEncounter": {
     "title": "<span>Dooley's Crib</span><span>둘리의 집</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Dooley's Crib</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>둘리의 집</span>"
@@ -259,6 +265,9 @@ const DATA = {
   },
   "Railgun_Item": {
     "title": "<span>Railgun</span><span>레일건</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Railgun</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>레일건</span>"
+  },
+  "Book of Secrets_Item": {
+    "title": "<span>Book of Secrets</span><span>비밀의 책</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Book of Secrets</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>비밀의 책</span>"
   },
   "Gastro_EventEncounter": {
     "title": "<span>Gastro</span><span>가스트로</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gastro</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>가스트로</span>"
@@ -569,6 +578,9 @@ const DATA = {
   "Coupon_Item": {
     "title": "<span>Coupon</span><span>쿠폰</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Coupon</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>쿠폰</span>"
   },
+  "Flying Pig_Item": {
+    "title": "<span>Flying Pig</span><span>하늘을 나는 돼지</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Flying Pig</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>하늘을 나는 돼지</span>"
+  },
   "Exploit_EncounterStep": {
     "title": "<span>Exploit</span><span>악용한다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Exploit</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>악용한다</span>"
   },
@@ -592,6 +604,9 @@ const DATA = {
   },
   "Holo-Disguise Generator_Item": {
     "title": "<span>Holo-Disguise Generator</span><span>홀로 위장 생성기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Holo-Disguise Generator</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>홀로 위장 생성기</span>"
+  },
+  "Denizens of the Deep_Skill": {
+    "title": "<span>Denizens of the Deep</span><span>심연의 존재</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Denizens of the Deep</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>심연의 존재</span>"
   },
   "Bountiful Harvest_EventEncounter": {
     "title": "<span>Bountiful Harvest</span><span>풍작</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Bountiful Harvest</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>풍작</span>"
@@ -1160,7 +1175,7 @@ const DATA = {
   "Powder Keg_Item": {
     "title": "<span>Powder Keg</span><span>화약통</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Powder Keg</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>화약통</span>"
   },
-  "Check Out the Night Market_EventEncounter": {
+  "Check Out the Night Market_EncounterStep": {
     "title": "<span>Check Out the Night Market</span><span>야시장을 가본다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Check Out the Night Market</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>야시장을 가본다</span>"
   },
   "Upgrade an item_EncounterStep": {
@@ -1197,7 +1212,7 @@ const DATA = {
     "title": "<span>Intrusion Countermeasures</span><span>침입 대응책</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Intrusion Countermeasures</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>침입 대응책</span>"
   },
   "Gold Garnish_Skill": {
-    "title": "<span>Gold Garnish</span><span>금 밑반찬</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gold Garnish</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>금 밑반찬</span>"
+    "title": "<span>Gold Garnish</span><span>금 고명</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gold Garnish</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>금 고명</span>"
   },
   "Admiral's Badge_Item": {
     "title": "<span>Admiral's Badge</span><span>제독의 배지</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Admiral's Badge</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>제독의 배지</span>"
@@ -1376,6 +1391,9 @@ const DATA = {
   "Skyscraper_Item": {
     "title": "<span>Skyscraper</span><span>마천루</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Skyscraper</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>마천루</span>"
   },
+  "High-Yield Investments_Skill": {
+    "title": "<span>High-Yield Investments</span><span>고수익 투자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>High-Yield Investments</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>고수익 투자</span>"
+  },
   "Elite Duelist_CombatEncounter": {
     "title": "<span>Elite Duelist</span><span>정예 결투사</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Elite Duelist</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>정예 결투사</span>"
   },
@@ -1391,11 +1409,17 @@ const DATA = {
   "Transform Reagents_EncounterStep": {
     "title": "<span>Transform Reagents</span><span>시약 변환</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Transform Reagents</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>시약 변환</span>"
   },
+  "Friend of the Sea_Skill": {
+    "title": "<span>Friend of the Sea</span><span>바다의 친구</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Friend of the Sea</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>바다의 친구</span>"
+  },
   "Hover Tech_Item": {
     "title": "<span>Hover Tech</span><span>부양 기술</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Hover Tech</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>부양 기술</span>"
   },
   "Into the Void_Skill": {
     "title": "<span>Into the Void</span><span>공허 속으로</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Into the Void</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>공허 속으로</span>"
+  },
+  "[DEBUG] Merchant All Item Cost increase_EventEncounter": {
+    "title": "<span>[DEBUG] Merchant All Item Cost increase</span><span>한국어 텍스트 누락</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>[DEBUG] Merchant All Item Cost increase</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>한국어 텍스트 누락</span>"
   },
   "Sat-Comm_Item": {
     "title": "<span>Sat-Comm</span><span>위성 통신기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Sat-Comm</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>위성 통신기</span>"
@@ -1484,6 +1508,9 @@ const DATA = {
   "Gain 10 Speed_EncounterStep": {
     "title": "<span>Gain 10 Speed</span><span>속도 10 획득</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gain 10 Speed</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>속도 10 획득</span>"
   },
+  "Frozen Secrets_Skill": {
+    "title": "<span>Frozen Secrets</span><span>얼어붙은 비밀</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Frozen Secrets</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>얼어붙은 비밀</span>"
+  },
   "Tempering_Skill": {
     "title": "<span>Tempering</span><span>단련</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Tempering</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>단련</span>"
   },
@@ -1513,6 +1540,9 @@ const DATA = {
   },
   "Octopus_Item": {
     "title": "<span>Octopus</span><span>문어</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Octopus</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>문어</span>"
+  },
+  "Flame Signal_Item": {
+    "title": "<span>Flame Signal</span><span>화염 신호</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Flame Signal</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>화염 신호</span>"
   },
   "Calico_Item": {
     "title": "<span>Calico</span><span>삼색 고양이</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Calico</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>삼색 고양이</span>"
@@ -1738,6 +1768,9 @@ const DATA = {
   },
   "Dooley_EventEncounter": {
     "title": "<span>Dooley</span><span>둘리</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Dooley</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>둘리</span>"
+  },
+  "Deadly Waters_Skill": {
+    "title": "<span>Deadly Waters</span><span>죽음의 바다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Deadly Waters</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>죽음의 바다</span>"
   },
   "Mech-Moles_Item": {
     "title": "<span>Mech-Moles</span><span>기계 두더지</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Mech-Moles</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>기계 두더지</span>"
@@ -1968,7 +2001,7 @@ const DATA = {
     "title": "<span>Meal Prep</span><span>식사를 준비한다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Meal Prep</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>식사를 준비한다</span>"
   },
   "Gingerbread Man_Item": {
-    "title": "<span>Gingerbread Man</span><span>진저브레드 맨</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gingerbread Man</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>진저브레드 맨</span>"
+    "title": "<span>Gingerbread Man</span><span>생강빵 사람</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gingerbread Man</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>생강빵 사람</span>"
   },
   "Herma_EventEncounter": {
     "title": "<span>Herma</span><span>헤르마</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Herma</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>헤르마</span>"
@@ -2091,7 +2124,7 @@ const DATA = {
     "title": "<span>Concentrated Defense</span><span>집중 방어</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Concentrated Defense</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>집중 방어</span>"
   },
   "Fiery_Skill": {
-    "title": "<span>Fiery</span><span>맹렬함</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Fiery</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>맹렬함</span>"
+    "title": "<span>Fiery</span><span>불타는</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Fiery</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>불타는</span>"
   },
   "Marbles_Item": {
     "title": "<span>Marbles</span><span>구슬</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Marbles</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>구슬</span>"
@@ -2459,6 +2492,9 @@ const DATA = {
   "Combat Core_Item": {
     "title": "<span>Combat Core</span><span>전투 코어</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Combat Core</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>전투 코어</span>"
   },
+  "Time Traveler_Skill": {
+    "title": "<span>Time Traveler</span><span>시간여행자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Time Traveler</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>시간여행자</span>"
+  },
   "Preening Duelist_CombatEncounter": {
     "title": "<span>Preening Duelist</span><span>자만한 결투사</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Preening Duelist</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>자만한 결투사</span>"
   },
@@ -2472,7 +2508,7 @@ const DATA = {
     "title": "<span>Crystal Bonsai</span><span>수정 분재</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Crystal Bonsai</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>수정 분재</span>"
   },
   "Poke_Item": {
-    "title": "<span>Poke</span><span>포크</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Poke</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>포크</span>"
+    "title": "<span>Poke</span><span>포케</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Poke</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>포케</span>"
   },
   "Healthy Heart_Skill": {
     "title": "<span>Healthy Heart</span><span>건강한 심장</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Healthy Heart</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>건강한 심장</span>"
@@ -2580,7 +2616,7 @@ const DATA = {
     "title": "<span>Weaponized Core</span><span>무기화 코어</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Weaponized Core</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>무기화 코어</span>"
   },
   "Jumbo Wok_Item": {
-    "title": "<span>Jumbo Wok</span><span>점보 웍</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Jumbo Wok</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>점보 웍</span>"
+    "title": "<span>Jumbo Wok</span><span>커다란 웍</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Jumbo Wok</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>커다란 웍</span>"
   },
   "Rice Cooker_Item": {
     "title": "<span>Rice Cooker</span><span>전기밥솥</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Rice Cooker</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>전기밥솥</span>"
@@ -2783,8 +2819,8 @@ const DATA = {
   "Pylon_Item": {
     "title": "<span>Pylon</span><span>전력탑</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Pylon</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>전력탑</span>"
   },
-  "Chaff_Item": {
-    "title": "<span>Chaff</span><span>교란 장치</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Chaff</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>교란 장치</span>"
+  "Flares_Item": {
+    "title": "<span>Flares</span><span>교란 장치</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Flares</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>교란 장치</span>"
   },
   "Haladie_Item": {
     "title": "<span>Haladie</span><span>할라디</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Haladie</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>할라디</span>"
@@ -2918,8 +2954,11 @@ const DATA = {
   "Rigged_Skill": {
     "title": "<span>Rigged</span><span>속임수</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Rigged</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>속임수</span>"
   },
+  "Ancient Toxins_Skill": {
+    "title": "<span>Ancient Toxins</span><span>고대의 독극물</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Ancient Toxins</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>고대의 독극물</span>"
+  },
   "Captain's Quarters_Item": {
-    "title": "<span>Captain's Quarters</span><span>선장 구역</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Captain's Quarters</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>선장 구역</span>"
+    "title": "<span>Captain's Quarters</span><span>선장실</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Captain's Quarters</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>선장실</span>"
   },
   "Protein Powder_Skill": {
     "title": "<span>Protein Powder</span><span>단백질 파우더</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Protein Powder</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>단백질 파우더</span>"
@@ -3021,7 +3060,7 @@ const DATA = {
     "title": "<span>IllusoRay</span><span>환영레이</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>IllusoRay</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>환영레이</span>"
   },
   "Chocolate Coin_Item": {
-    "title": "<span>Chocolate Coin</span><span>초콜릿 동전</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Chocolate Coin</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>초콜릿 동전</span>"
+    "title": "<span>Chocolate Coin</span><span>동전 초콜릿</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Chocolate Coin</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>동전 초콜릿</span>"
   },
   "Take Flight_EventEncounter": {
     "title": "<span>Take Flight</span><span>비행기 탑승</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Take Flight</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>비행기 탑승</span>"
@@ -3101,6 +3140,9 @@ const DATA = {
   "Mortal Coil_Item": {
     "title": "<span>Mortal Coil</span><span>필멸의 채찍</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Mortal Coil</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>필멸의 채찍</span>"
   },
+  "Secrets of Life_Skill": {
+    "title": "<span>Secrets of Life</span><span>생명의 비밀</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Secrets of Life</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>생명의 비밀</span>"
+  },
   "Fate's Fortunes_EncounterStep": {
     "title": "<span>Fate's Fortunes</span><span>운명적인 행운</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Fate's Fortunes</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>운명적인 행운</span>"
   },
@@ -3153,7 +3195,7 @@ const DATA = {
     "title": "<span>Capital Gains</span><span>자본 이득</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Capital Gains</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>자본 이득</span>"
   },
   "Grill_Item": {
-    "title": "<span>Grill</span><span>그릴</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Grill</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>석쇠</span>"
+    "title": "<span>Grill</span><span>석쇠</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Grill</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>석쇠</span>"
   },
   "Void Golem_CombatEncounter": {
     "title": "<span>Void Golem</span><span>공허의 골렘</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Void Golem</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>공허의 골렘</span>"
@@ -3201,7 +3243,7 @@ const DATA = {
     "title": "<span>Heavy Mettle</span><span>강철 정신</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Heavy Mettle</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>강철 정신</span>"
   },
   "Hard Shell_Skill": {
-    "title": "<span>Hard Shell</span><span>단단한 껍질</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Hard Shell</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>단단한 껍질</span>"
+    "title": "<span>Hard Shell</span><span>단단한 껍데기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Hard Shell</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>단단한 껍데기</span>"
   },
   "PenFT_Item": {
     "title": "<span>PenFT</span><span>펭FT</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>PenFT</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>펭FT</span>"
@@ -3299,6 +3341,9 @@ const DATA = {
   "Big Guns_Skill": {
     "title": "<span>Big Guns</span><span>대형 포</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Big Guns</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>대형 포</span>"
   },
+  "Pure Imagination_Skill": {
+    "title": "<span>Pure Imagination</span><span>순수한 상상</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Pure Imagination</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>순수한 상상</span>"
+  },
   "Apprentice Banehand_EncounterStep": {
     "title": "<span>Apprentice Banehand</span><span>견습 독술사</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Apprentice Banehand</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>견습 독술사</span>"
   },
@@ -3338,6 +3383,9 @@ const DATA = {
   "Full Course Meal_EncounterStep": {
     "title": "<span>Full Course Meal</span><span>풀코스 요리</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Full Course Meal</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>풀코스 요리</span>"
   },
+  "Master Sniper_Skill": {
+    "title": "<span>Master Sniper</span><span>저격의 명수</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Master Sniper</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>저격의 명수</span>"
+  },
   "The Greenheart_EventEncounter": {
     "title": "<span>The Greenheart</span><span>그린하트</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>The Greenheart</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>그린하트</span>"
   },
@@ -3358,6 +3406,9 @@ const DATA = {
   },
   "Atlatl_Item": {
     "title": "<span>Atlatl</span><span>아틀라틀</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Atlatl</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>아틀라틀</span>"
+  },
+  "Spider Fern_Item": {
+    "title": "<span>Spider Fern</span><span>거미 고사리</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Spider Fern</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>거미 고사리</span>"
   },
   "Rifle_Item": {
     "title": "<span>Rifle</span><span>소총</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Rifle</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>소총</span>"
@@ -3512,7 +3563,7 @@ const DATA = {
   "Pitchfork_Item": {
     "title": "<span>Pitchfork</span><span>쇠스랑</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Pitchfork</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>쇠스랑</span>"
   },
-  "Have a Late Night Treat_EventEncounter": {
+  "Have a Late Night Treat_EncounterStep": {
     "title": "<span>Have a Late Night Treat</span><span>야식을 먹는다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Have a Late Night Treat</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>야식을 먹는다</span>"
   },
   "Ice Cream Truck_Item": {
@@ -3558,7 +3609,7 @@ const DATA = {
     "title": "<span>One Shot, One Kill</span><span>한 발에 한 놈</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>One Shot, One Kill</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>한 발에 한 놈</span>"
   },
   "Sea Shell_Item": {
-    "title": "<span>Sea Shell</span><span>조개 껍질</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Sea Shell</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>조개 껍질</span>"
+    "title": "<span>Sea Shell</span><span>소라 껍데기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Sea Shell</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>소라 껍데기</span>"
   },
   "Mythkeeper_CombatEncounter": {
     "title": "<span>Mythkeeper</span><span>신화수호자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Mythkeeper</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>신화수호자</span>"
@@ -3627,7 +3678,7 @@ const DATA = {
     "title": "<span>Expand</span><span>확장</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Expand</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>확장</span>"
   },
   "Giant Sub_Item": {
-    "title": "<span>Giant Sub</span><span>거대 잠수함</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Giant Sub</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>거대 잠수함</span>"
+    "title": "<span>Giant Sub</span><span>거대한 샌드위치</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Giant Sub</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>거대한 샌드위치</span>"
   },
   "Microwave_Item": {
     "title": "<span>Microwave</span><span>전자레인지</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Microwave</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>전자레인지</span>"
@@ -3648,7 +3699,7 @@ const DATA = {
     "title": "<span>Azakan Stew</span><span>아자카식 스튜</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Azakan Stew</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>아자카식 스튜</span>"
   },
   "Feast_Item": {
-    "title": "<span>Feast</span><span>연회</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Feast</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>연회</span>"
+    "title": "<span>Feast</span><span>진수성찬</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Feast</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>진수성찬</span>"
   },
   "Specialist_Skill": {
     "title": "<span>Specialist</span><span>전문가</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Specialist</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>전문가</span>"
@@ -3788,8 +3839,14 @@ const DATA = {
   "Angry Balloon Bot_Item": {
     "title": "<span>Angry Balloon Bot</span><span>분노한 풍선 로봇</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Angry Balloon Bot</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>분노한 풍선 로봇</span>"
   },
+  "Long-term Investments_Skill": {
+    "title": "<span>Long-term Investments</span><span>장기 투자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Long-term Investments</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>장기 투자</span>"
+  },
   "Stove_Skill": {
     "title": "<span>Stove</span><span>열원</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Stove</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>열원</span>"
+  },
+  "Ancient Flamekeeper_Skill": {
+    "title": "<span>Ancient Flamekeeper</span><span>고대의 화염수호자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Ancient Flamekeeper</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>고대의 화염수호자</span>"
   },
   "Pal Around_EncounterStep": {
     "title": "<span>Pal Around</span><span>친구로 지내기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Pal Around</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>친구로 지내기</span>"
@@ -3914,8 +3971,14 @@ const DATA = {
   "Makeshift Plate_Skill": {
     "title": "<span>Makeshift Plate</span><span>임시 방어판</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Makeshift Plate</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>임시 방어판</span>"
   },
+  "Special Exhibit_Skill": {
+    "title": "<span>Special Exhibit</span><span>특별한 전시</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Special Exhibit</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>특별한 전시</span>"
+  },
   "Salt_Item": {
     "title": "<span>Salt</span><span>소금</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Salt</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>소금</span>"
+  },
+  "Scimitar of the Deep_Item": {
+    "title": "<span>Scimitar of the Deep</span><span>심해의 시미터</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Scimitar of the Deep</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>심해의 시미터</span>"
   },
   "Berserker_Skill": {
     "title": "<span>Berserker</span><span>광전사</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Berserker</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>광전사</span>"
@@ -3982,6 +4045,9 @@ const DATA = {
   },
   "Mr. Moo_CombatEncounter": {
     "title": "<span>Mr. Moo</span><span>음메 씨</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Mr. Moo</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>음메 씨</span>"
+  },
+  "Hate Leech_Item": {
+    "title": "<span>Hate Leech</span><span>증오의 거머리</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Hate Leech</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>증오의 거머리</span>"
   },
   "Some Like It Hot_Skill": {
     "title": "<span>Some Like It Hot</span><span>뜨거운게 좋아</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Some Like It Hot</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>뜨거운게 좋아</span>"
@@ -4536,7 +4602,7 @@ const DATA = {
     "title": "<span>Captain's Charge</span><span>선장의 돌격</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Captain's Charge</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>선장의 돌격</span>"
   },
   "Continue_EncounterStep": {
-    "title": "<span>Continue</span><span>계속</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Continue</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>계속</span>"
+    "title": "<span>Continue</span><span>계속하기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Continue</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>계속하기</span>"
   },
   "Exceed_EncounterStep": {
     "title": "<span>Exceed</span><span>초과</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Exceed</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>초과</span>"
@@ -4808,6 +4874,9 @@ const DATA = {
   "Coolant_Item": {
     "title": "<span>Coolant</span><span>냉각제</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Coolant</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>냉각제</span>"
   },
+  "Vampire Squid_Item": {
+    "title": "<span>Vampire Squid</span><span>흡혈귀 오징어</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Vampire Squid</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>흡혈귀 오징어</span>"
+  },
   "Tomb of the Ancients_Item": {
     "title": "<span>Tomb of the Ancients</span><span>고대인의 무덤</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Tomb of the Ancients</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>고대인의 무덤</span>"
   },
@@ -4837,6 +4906,9 @@ const DATA = {
   },
   "Bronze-tier Merchant_EncounterStep": {
     "title": "<span>Bronze-tier Merchant</span><span>브론즈 등급 상인</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Bronze-tier Merchant</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>브론즈 등급 상인</span>"
+  },
+  "Micro Mach_Item": {
+    "title": "<span>Micro Mach</span><span>마이크로 마하</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Micro Mach</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>마이크로 마하</span>"
   },
   "Junkyard Lance_Item": {
     "title": "<span>Junkyard Lance</span><span>고물장 창</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Junkyard Lance</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>고물장 창</span>"
@@ -5066,6 +5138,9 @@ const DATA = {
   "Temporal Navigator_Item": {
     "title": "<span>Temporal Navigator</span><span>시간 항해자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Temporal Navigator</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>시간 항해자</span>"
   },
+  "Master Diver_Skill": {
+    "title": "<span>Master Diver</span><span>잠수 전문가</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Master Diver</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>잠수 전문가</span>"
+  },
   "Steady Defender_Skill": {
     "title": "<span>Steady Defender</span><span>안정적인 수호자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Steady Defender</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>안정적인 수호자</span>"
   },
@@ -5144,7 +5219,7 @@ const DATA = {
   "Warrior_Skill": {
     "title": "<span>Warrior</span><span>전사</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Warrior</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>전사</span>"
   },
-  "Tell a Bed-time Story_Skill": {
+  "Tell a Bed-time Story_EncounterStep": {
     "title": "<span>Tell a Bed-time Story</span><span>잠자기 전 이야기를 들려준다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Tell a Bed-time Story</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>잠자기 전 이야기를 들려준다</span>"
   },
   "[DEBUG] Disenchant_Item": {
@@ -5164,6 +5239,12 @@ const DATA = {
   },
   "Equivalent Exchange_Skill": {
     "title": "<span>Equivalent Exchange</span><span>등가 교환</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Equivalent Exchange</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>등가 교환</span>"
+  },
+  "Pack Infiltrator_Skill": {
+    "title": "<span>Pack Infiltrator</span><span>무리 잠입자</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Pack Infiltrator</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>무리 잠입자</span>"
+  },
+  "Ancient Technology_Skill": {
+    "title": "<span>Ancient Technology</span><span>고대의 기술</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Ancient Technology</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>고대의 기술</span>"
   },
   "Sick Burn_Skill": {
     "title": "<span>Sick Burn</span><span>맹독 화상</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Sick Burn</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>맹독 화상</span>"
@@ -5416,6 +5497,9 @@ const DATA = {
   },
   "Beautiful Friendship_Skill": {
     "title": "<span>Beautiful Friendship</span><span>아름다운 우정</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Beautiful Friendship</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>아름다운 우정</span>"
+  },
+  "[DEBUG] Merchant Discount_EventEncounter": {
+    "title": "<span>[DEBUG] Merchant Discount</span><span>한국어 텍스트 누락</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>[DEBUG] Merchant Discount</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>한국어 텍스트 누락</span>"
   },
   "Red Gumball_Item": {
     "title": "<span>Red Gumball</span><span>빨간 사탕껌</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Red Gumball</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>빨간 사탕껌</span>"
@@ -5726,6 +5810,9 @@ const DATA = {
   "Dire Inge Reward_EventEncounter": {
     "title": "<span>Dire Inge Reward</span><span>무시무시한 잉글릿 보상</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Dire Inge Reward</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>무시무시한 잉글릿 보상</span>"
   },
+  "Debilitating Secrets_Skill": {
+    "title": "<span>Debilitating Secrets</span><span>쇠약성 비밀</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Debilitating Secrets</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>쇠약성 비밀</span>"
+  },
   "Sharpened Steel_Skill": {
     "title": "<span>Sharpened Steel</span><span>연마된 강철</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Sharpened Steel</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>연마된 강철</span>"
   },
@@ -5759,11 +5846,14 @@ const DATA = {
   "B1&B2_EventEncounter": {
     "title": "<span>B1&B2</span><span>B1&B2</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>B1&B2</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>B1&B2</span>"
   },
+  "Favorite Toy_Skill": {
+    "title": "<span>Favorite Toy</span><span>최애 장난감</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Favorite Toy</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>최애 장난감</span>"
+  },
   "Wetware_Item": {
     "title": "<span>Wetware</span><span>습식 갑옷</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Wetware</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>습식 갑옷</span>"
   },
   "Gingerbread House_Item": {
-    "title": "<span>Gingerbread House</span><span>진저브레드 하우스</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gingerbread House</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>진저브레드 하우스</span>"
+    "title": "<span>Gingerbread House</span><span>생강빵 집</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Gingerbread House</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>생강빵 집</span>"
   },
   "Bet on the Game_EncounterStep": {
     "title": "<span>Bet on the Game</span><span>게임에 돈을 건다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Bet on the Game</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>게임에 돈을 건다</span>"
@@ -5776,6 +5866,9 @@ const DATA = {
   },
   "Small Weaponry_Skill": {
     "title": "<span>Small Weaponry</span><span>소형 무기류</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Small Weaponry</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>소형 무기류</span>"
+  },
+  "Primal Rage_Skill": {
+    "title": "<span>Primal Rage</span><span>원시의 분노</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Primal Rage</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>원시의 분노</span>"
   },
   "Yeti Claw_Item": {
     "title": "<span>Yeti Claw</span><span>예티 발톱</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Yeti Claw</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>예티 발톱</span>"
@@ -5849,11 +5942,11 @@ const DATA = {
   "Sauna_Item": {
     "title": "<span>Sauna</span><span>사우나</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Sauna</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>사우나</span>"
   },
-  "Slingshot_Item": {
-    "title": "<span>Slingshot</span><span>새총</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Slingshot</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>새총</span>"
-  },
   "Flambe_EventEncounter": {
     "title": "<span>Flambe</span><span>플람베</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Flambe</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>플람베</span>"
+  },
+  "Slingshot_Item": {
+    "title": "<span>Slingshot</span><span>새총</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Slingshot</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>새총</span>"
   },
   "Buffed and Polished_Skill": {
     "title": "<span>Buffed and Polished</span><span>강화하고 광내기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Buffed and Polished</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>강화하고 광내기</span>"
@@ -5894,11 +5987,11 @@ const DATA = {
   "Transform Medium_EncounterStep": {
     "title": "<span>Transform Medium</span><span>중형 아이템을 변환한다</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Transform Medium</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>중형 아이템을 변환한다</span>"
   },
-  "Closing Speed_Skill": {
-    "title": "<span>Closing Speed</span><span>마지막 가속</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Closing Speed</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>마지막 가속</span>"
-  },
   "Thrusters_Item": {
     "title": "<span>Thrusters</span><span>추진기</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Thrusters</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>추진기</span>"
+  },
+  "Closing Speed_Skill": {
+    "title": "<span>Closing Speed</span><span>마지막 가속</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>Closing Speed</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>마지막 가속</span>"
   },
   "QA Test Monster_CombatEncounter": {
     "title": "<span>QA Test Monster</span><span>QA Test Monster</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>QA Test Monster</span><span style='opacity: 0.5; font-size: __FONT_SIZE__'>QA Test Monster</span>"

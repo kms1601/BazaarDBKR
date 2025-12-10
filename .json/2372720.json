@@ -1,0 +1,5154 @@
+[
+    {
+        "id": 756819597,
+        "key": "cbc0b24cb6f72f7ba48b02a83708b438",
+        "original": "Gain {ability.0} Strength.",
+        "translation": "{ability.0}의 힘을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819598,
+        "key": "4f92f8900081c2093bae9d0547cd4189",
+        "original": "Fight an enemy",
+        "translation": "적과 싸웁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819599,
+        "key": "f766b57e3d0c97d93874b3e1c7b48345",
+        "original": "Teaches Bronze-tier Skills",
+        "translation": "브론즈 등급 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819600,
+        "key": "566fe5d68f29d85173d317204b31087a",
+        "original": "Gain {i-%} Max Health",
+        "translation": "{i-%}의 최대 체력을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819601,
+        "key": "9930e85a8de6b28822847a911281e9ec",
+        "original": "Your Cores gain {ability.0.mod} Damage for each Weapon you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 무기 하나당 (보관함 포함) 내 코어가 {ability.0.mod}의 피해량을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819602,
+        "key": "e8564315aa8102d50cf059e583e2540c",
+        "original": "Upgrade a Bronze-tier item.",
+        "translation": "브론즈 등급 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819603,
+        "key": "3edc7ccf9e298e58951dbf052e01dbd3",
+        "original": "Teaches Ammo skills",
+        "translation": "탄약 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819604,
+        "key": "505fedd115689a1a6fb2e856874c010f",
+        "original": "(if you have a Friend) Choose 1 of 2 Skills.",
+        "translation": "(내가 친구를 가지고 있다면) 2개의 스킬 중 1개를 고릅니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819605,
+        "key": "63be6dcfa8aef932884086b1f203fff5",
+        "original": "Sells Ammo items",
+        "translation": "탄약 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819606,
+        "key": "e8b90487a167e85f05406c28b6c2068f",
+        "original": "Your journey begins here",
+        "translation": "당신의 모험이 여기서 시작됩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819607,
+        "key": "88c83183feaeb0e3630f595e1e42688d",
+        "original": "Gain {ability.0.mod} Gold for each Property you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 자산 하나당 (보관함 포함) {ability.0.mod}개의 골드를 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819608,
+        "key": "ce2de91e5c5f03c6ef65b9f907429158",
+        "original": "Journey into the Depths",
+        "translation": "깊숙한 곳으로 떠나는 모험",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819609,
+        "key": "5aeba4497a859a871e6f9a5afa10a930",
+        "original": "Sells Friend items",
+        "translation": "친구 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819610,
+        "key": "eba1210f64e32c570c0fd3ad6facb3ab",
+        "original": "Get 2 Extract (+Poison).",
+        "translation": "추출물을 2개 얻습니다(+중독 수치).",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819611,
+        "key": "453d6746b07813691bce68965cbc1268",
+        "original": "(if you are Mak) Get a Small Silver-tier Potion.",
+        "translation": "(내가 막이라면) 소형 실버 등급 물약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819612,
+        "key": "a127ea1223aab2e5fcea088711db0c6f",
+        "original": "Get {ability.0} Silver-tier Chocolate Bars.",
+        "translation": "실버 등급 초코바를 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819613,
+        "key": "b5bd6bc4347c49d0a64f3b9114b2ae31",
+        "original": "Gain {ability.0} Gold",
+        "translation": "{ability.0}개의 골드를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819614,
+        "key": "683b238674dda3fc3a47b9aeef2dd767",
+        "original": "You have successfully navigated the trap room",
+        "translation": "당신은 성공적으로 함정 방을 돌파하였습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819615,
+        "key": "e012697d37901f32753e61c4b81b59f4",
+        "original": "Enchant an item with Poison effect.",
+        "translation": "아이템에 중독 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819616,
+        "key": "d41d8cd98f00b204e9800998ecf8427e",
+        "original": "",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 756819617,
+        "key": "6b1bb00ba7bfe1dd958f814514ee9200",
+        "original": "Enchant an item with Shield effects.",
+        "translation": "아이템에 보호막 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819618,
+        "key": "acfa0fe263e084ef2ede76b62360b2ec",
+        "original": "Purchase an item from this Hero",
+        "translation": "이 영웅한테서 아이템을 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819619,
+        "key": "cd61211cbf3dbcf852f6acfda68e8a24",
+        "original": "Upgrade an item",
+        "translation": "아이템을 강화합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819620,
+        "key": "57384a03b9b1f6e1b8abbda50edaf664",
+        "original": "Get {ability.0} Gold-tier Spare Change.",
+        "translation": "골드 등급 잔돈을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819621,
+        "key": "2e848285ac3d31731be8d6a0ecdb5c6a",
+        "original": "Sells Foods",
+        "translation": "음식을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819622,
+        "key": "616eaf46ebb4d98a25be90bad7d715d0",
+        "original": "Upgrade your Cores. If it is already Diamond, reduce your Cores' Cooldown by 1 second instead.",
+        "translation": "내 코어들을 강화합니다. 이미 다이아몬드 등급이라면, 대신 내 코어들의 재사용 대기시간이 1초 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819623,
+        "key": "6c196db81a28e79cefcb379d8c4e993c",
+        "original": "Gain {ability.0.mod} Speed for each Tool you have. [{ability.0}]",
+        "translation": "내가 가진 도구 하나당 {ability.0.mod}의 속도를 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819624,
+        "key": "c3eff083951d731517b33e37c622e082",
+        "original": "Choose a free Friend Skill",
+        "translation": "무료 친구 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819625,
+        "key": "7755cf625c61a8fbe475f88d780cfe56",
+        "original": "Get a Silver-tier Potion.",
+        "translation": "실버 등급 물약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819626,
+        "key": "d1fd95a4219c267ad00ba02531d94a7e",
+        "original": "Gain 5% Max Health. [{ability.0}]",
+        "translation": "5%의 최대 체력을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819627,
+        "key": "9074744ae00e62d06d30df216ba81caf",
+        "original": "Sells items.",
+        "translation": "아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819628,
+        "key": "d4b6c076d8f6545d397ce710e1e43f25",
+        "original": "Reduce your leftmost Friend's Cooldown by {ability.0}%.",
+        "translation": "내 가장 왼쪽에 있는 친구의 재사용 대기시간이 {ability.0}% 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819629,
+        "key": "006db7b3e676ef4e281023c9e5084d0d",
+        "original": "Get a Reagent.",
+        "translation": "시약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819630,
+        "key": "07f264ab663145cd9d9598c5dcd5c7f1",
+        "original": "Your Core gains {ability.0.mod} Shield for each non-Weapon you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 비무기 아이템 하나당 (보관함 포함) 내 코어가 {ability.0.mod}의 보호막을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819631,
+        "key": "74ee329f6546e3252174330ba88a2597",
+        "original": "Sells Shield items",
+        "translation": "보호막 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819632,
+        "key": "2acade829947ffdf564df8d750ef6816",
+        "original": "Choose a free Weapon Skill",
+        "translation": "무료 무기 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819633,
+        "key": "aa337eea6f211133474ba9d18676867e",
+        "original": "Get a Gold-tier Sharpening Stone (+Damage), Extract (+Poison) and Cinders (+Burn).",
+        "translation": "골드 등급 숫돌 (+피해량), 추출물 (+중독 수치), 불씨 (+화상 수치)를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819634,
+        "key": "a40f714202bfc5cf00a2c1b8dfafbc63",
+        "original": "Get a Silver-tier Tech item.",
+        "translation": "실버 등급 테크 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819635,
+        "key": "aea491d96aaceca0eadb8060350fed6b",
+        "original": "Teaches skills unique to Vanessa",
+        "translation": "바네사만의 고유한 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819636,
+        "key": "00729c2e5820ba1c5f3e09e2a25bec02",
+        "original": "Teaches Poison skills",
+        "translation": "중독 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819637,
+        "key": "e0366db1203d9fbc7e93a1dba379fd8c",
+        "original": "Gain {ability.0} Income.",
+        "translation": "{ability.0}의 수입을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819638,
+        "key": "e6822aa86b28d1132ea278d26f842a0f",
+        "original": "Get a Silver-tier Extract.",
+        "translation": "실버 등급 추출물을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819639,
+        "key": "ff31f327434941b3b8085892c3b582fc",
+        "original": "Choose a free Heal Skill",
+        "translation": "무료 회복 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819640,
+        "key": "82c7ba57794bfb3f2fbbd18c9bcb4657",
+        "original": "Get 1 Gunpowder(+Ammo).",
+        "translation": "화약(+탄약) 1개를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819641,
+        "key": "01645bd55121e2c11efadf490330f025",
+        "original": "Get a Small Shield item.",
+        "translation": "소형 보호막 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819642,
+        "key": "c6c1ba5a980bd0ea520dac79e79ac454",
+        "original": "Teaches Weapon Skills",
+        "translation": "무기 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819643,
+        "key": "0d8de189b5a077ce6d2d632ed93a79fa",
+        "original": "Get 2 Economic items or skills",
+        "translation": "2개의 경제 아이템 또는 스킬을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819644,
+        "key": "7fac66a229bb26e7f058f42ba045c597",
+        "original": "Gain XP.",
+        "translation": "경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819645,
+        "key": "78759c480cf0a3eaa7e34dcc8898449a",
+        "original": "Get an item.",
+        "translation": "아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819646,
+        "key": "92ec9302049208205996ef54788c21ee",
+        "original": "Your Poison items gain +{ability.0} Poison.",
+        "translation": "내 중독 아이템들이 +{ability.0}의 중독 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819647,
+        "key": "1eca7e0ce795bbdaffc8e0a39610085b",
+        "original": "Your leftmost item gains {ability.0} Value.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 {ability.0}의 가치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819648,
+        "key": "0f8274bff28599f1345bd2469f26fa14",
+        "original": "Get a Diamond-tier Sharpening Stone (+Damage), Extract (+Poison) and Cinders (+Burn).",
+        "translation": "다이아몬드 등급 숫돌 (+피해량), 추출물 (+중독 수치), 불씨 (+화상 수치)를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819649,
+        "key": "4521a860eb8a413d9f5623921a6f8247",
+        "original": "Teaches Diamond-tier Skills",
+        "translation": "다이아몬드 등급 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819650,
+        "key": "dd5e0ba417f8f2ee84a758194beae41f",
+        "original": "Get a Shield item.",
+        "translation": "보호막 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819651,
+        "key": "ac430c51c49441bc798db1bb58560f28",
+        "original": "Your leftmost Heal or Regen item gains +{ability.0}% Crit Chance.",
+        "translation": "내 가장 왼쪽에 있는 회복 또는 재생 아이템이 +{ability.0}%의 치명타 확률을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819652,
+        "key": "793211d81f7a5a72de7e5ef3a90a16df",
+        "original": "Sells Slow items.",
+        "translation": "둔화 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819653,
+        "key": "4b68f4f013df3f78bd56b1f96f310ee5",
+        "original": "(if you have an Astrolabe)\nGain {ability.0} Gold and {ability.1} XP.",
+        "translation": "(내가 천체의를 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819654,
+        "key": "f26bb9c655fd92cf24b139099dccb0d0",
+        "original": "Get a Gold-tier Gunpowder (+Ammo).",
+        "translation": "골드 등급 화약을 (+탄약) 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819655,
+        "key": "a421ca8670f92c240159da9ea6458f11",
+        "original": "Get a Diamond-tier Ammo item.",
+        "translation": "다이아몬드 등급 탄약 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819656,
+        "key": "dafc613a5ab32df1ab675ddab1f55a96",
+        "original": "Gain {ability.0} XP.",
+        "translation": "{ability.0}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819657,
+        "key": "d22d74ecde390c612f9dc36682672ea3",
+        "original": "Gain Toughness {ability.0}.",
+        "translation": "{ability.0}의 강인함을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819658,
+        "key": "cfb1da7e9e8f9a4110cd5353d6dfda48",
+        "original": "Get a Bronze-tier item.",
+        "translation": "브론즈 등급 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819659,
+        "key": "32b8ede42468769d86b2c5753cb1a722",
+        "original": "You rush back to camp to nurse your wounds.",
+        "translation": "캠프로 돌아가 상처를 치료합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819660,
+        "key": "c1753d55d6a1af2487d562d63ef86cff",
+        "original": "Gain {ability.0} Gold.",
+        "translation": "{ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819661,
+        "key": "68b5c04f39b6b652cea3dbe08b065264",
+        "original": "Get {ability.0} Chocolate Bars or Gumballs.",
+        "translation": "초코바 또는 사탕껌을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819662,
+        "key": "24264631c4f089dbe543ead9fce18375",
+        "original": "Get {ability.0} Sharpening Stone (+Damage).",
+        "translation": "{ability.0}개의 숫돌을(+피해량) 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819663,
+        "key": "778e89546e35eb5ab1547d9b879fe2f5",
+        "original": "Gain {ability.0} Income",
+        "translation": "{ability.0}의 수입을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819664,
+        "key": "2f3ab344c4101e09d28c53853bf0d6f1",
+        "original": "Gain {ability.0} Toughness.",
+        "translation": "{ability.0}의 강인함을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819665,
+        "key": "7215ee9c7d9dc229d2921a40e899ec5f",
+        "original": " ",
+        "translation": "",
+        "stage": -1,
+        "context": null
+    },
+    {
+        "id": 756819666,
+        "key": "41c5b43c875e9b028be4f79f254eb568",
+        "original": "Get {ability.0} Spare Change.",
+        "translation": "잔돈을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819667,
+        "key": "c011c37b0d9fc2312229ff5f44f144ca",
+        "original": "Get a Diamond-tier Gunpowder (+Ammo).",
+        "translation": "다이아몬드 등급 화약을 (+탄약) 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819668,
+        "key": "1c3a64b7f0d6c8c467404b086abda8a7",
+        "original": "Gain 2 to 4 XP",
+        "translation": "2에서 4 사이의 경험치를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819669,
+        "key": "b7c884c93a15f2e3a7d7fcf1a7e37d44",
+        "original": "Gain Gold",
+        "translation": "골드 획득",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819670,
+        "key": "13ab7d1d5cfa7b100c17047d6ad253a0",
+        "original": "Your Weapons gain {ability.0} Damage for the rest of the day.",
+        "translation": "내 무기들이 남은 하루 동안 {ability.0}의 피해량을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819671,
+        "key": "52b007b23ffdeac4c4b4800c74761ce1",
+        "original": "Enchant an item with Freeze, Slow and Destroy reduction effects",
+        "translation": "아이템에 빙결, 둔화, 파괴 감소 효과를 마법 부여합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819672,
+        "key": "c48a75ef31fc3cf5d6f0d3fa5b1d5bb2",
+        "original": "Get an Expedition Ticket",
+        "translation": "탐험 티켓을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819673,
+        "key": "e57c3143bcc1eed33211a81163f8853b",
+        "original": "Sells Crit items",
+        "translation": "치명타 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819674,
+        "key": "66924982e2db0399d2237005217fbad2",
+        "original": "Spend all of your Gold. Gain {ability.0.mod} Max Health for each Gold spent. [{ability.0}]",
+        "translation": "내 모든 골드를 소모합니다. 소모한 골드당 {ability.0.mod}의 최대 체력을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819675,
+        "key": "11d9a15199cdc5ad899dd64f9af64272",
+        "original": "Your leftmost Burn item gains +{ability.0} Burn.",
+        "translation": "내 가장 왼쪽에 있는 화상 아이템이 +{ability.0}의 화상 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819676,
+        "key": "cb4a136772fcec1c1d79591afbeaca6a",
+        "original": "Gain {ability.0} Speed.",
+        "translation": "{ability.0}의 속도를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819677,
+        "key": "69639ae1c62c54bafbfbbda49fef685f",
+        "original": "Enchant an item with Burn effects.",
+        "translation": "아이템에 화상 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819678,
+        "key": "371722d05bf5162653ec48b1d7c3a138",
+        "original": "Double your Income.",
+        "translation": "수입을 두 배로 늘립니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819679,
+        "key": "7c42aceae83b90df219f87ef51288d40",
+        "original": "Get a Small Friend.",
+        "translation": "소형 친구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819680,
+        "key": "100bd2fb1694bca7b7cad49a28da81a3",
+        "original": "Get a Gold-tier Aquatic item.",
+        "translation": "골드 등급 수중 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819681,
+        "key": "74fa33588421f4f9494cf85e7a6773fd",
+        "original": "Risky! Anything could happen here.",
+        "translation": "위험! 여기서는 무슨 일이든 일어날 수 있습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819682,
+        "key": "9a1850a6a89e84ee18bdf832e44b17ce",
+        "original": "Sells Health and Shield items",
+        "translation": "체력과 보호막 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819683,
+        "key": "2c59aa300fc44414e9c56b28c04a5841",
+        "original": "Get a Gumball. [Gumballs Remaining: 8]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 8]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819684,
+        "key": "55fd8360fedd70765cace084539d1e6f",
+        "original": "Your leftmost Weapon gains +{ability.0} Damage.",
+        "translation": "내 가장 왼쪽에 있는 무기가 +{ability.0}의 피해량을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819685,
+        "key": "c8a4e11f189fba7589a041633b307dbd",
+        "original": "Your leftmost Poison item gains +{ability.0} Poison.",
+        "translation": "내 가장 왼쪽에 있는 중독 아이템이 +{ability.0}의 중독 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819686,
+        "key": "cef697eeb7328fea86a0bc63436911d0",
+        "original": "Sells non-Weapon items.",
+        "translation": "비무기 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819687,
+        "key": "f8d05cedfd03838ddff2bf2194621e8c",
+        "original": "Teaches Haste and Charge skills",
+        "translation": "가속과 충전 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819688,
+        "key": "b0b47c857a67f059b7c03eb6bf10290b",
+        "original": "Fight a Monster",
+        "translation": "몬스터와 전투합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819689,
+        "key": "27b744f4b3c22fc15ba599e21e7d4412",
+        "original": "(if you have a Business Card)\nGain {ability.0} XP.",
+        "translation": "(내가 명함을 가지고 있다면)\n{ability.0}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819690,
+        "key": "8781c65318e933215fc6ef0f74a0e61e",
+        "original": "Your Ammo items gain +{ability.0} Max Ammo.",
+        "translation": "내 탄약 아이템들이 +{ability.0}의 최대 탄약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819691,
+        "key": "172e9702e8328b456508b5d986d65315",
+        "original": "Work at the Docks to earn some coin",
+        "translation": "부두에서 일해 돈을 법니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819692,
+        "key": "f3f8a1233d7edb23dcfd7b6190402f9f",
+        "original": "Get a Small item",
+        "translation": "소형 아이템을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819693,
+        "key": "3c83c97f04cf2fadad1cfc0fab1ee702",
+        "original": "Sells Toys from any Hero",
+        "translation": "모든 영웅의 장난감을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819694,
+        "key": "002f218d539d6a55f97bba06d4ecf85a",
+        "original": "Get 3 Diamond-tier Loot items",
+        "translation": "다이아몬드 등급 전리품 아이템을 3개 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819695,
+        "key": "8235b54683117cc7e27b9b6e36f15b0e",
+        "original": "Gain {ability.1} Gold and {ability.0} XP.",
+        "translation": "{ability.1}개의 골드와 {ability.0}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819696,
+        "key": "012e62b50d550c55a6404465e28f79a1",
+        "original": "Upgrade an item.",
+        "translation": "아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819697,
+        "key": "757d1a8bfb72329346800a0f0dd41797",
+        "original": "Get a Scrap (+Shield).",
+        "translation": "고철을(+보호막 수치) 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819698,
+        "key": "8ea8b133be9ed9f0a83978720a7d2dfc",
+        "original": "Your Burn items gain +{ability.0} Burn.",
+        "translation": "내 화상 아이템들이 +{ability.0}의 화상 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819699,
+        "key": "fd3fc6bc421f0a4431c01b71f6cf5c78",
+        "original": "Teaches Shield skills",
+        "translation": "보호막 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819700,
+        "key": "329d40671d3ef71160be3a56e3727cf6",
+        "original": "Lose 50% Max Health [{ability.0}] and Enchant your leftmost Weapon with Obsidian (Lifesteal).",
+        "translation": "최대 체력을 50% 잃고 [{ability.0}] 내 가장 왼쪽에 있는 아이템에 흑요석의(생명력흡수) 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819701,
+        "key": "6a5ae9379dcb6473d92101f73afa5bf5",
+        "original": "Get {ability.0} Small Reagents, then transform your Small Reagents.",
+        "translation": "소형 시약을 {ability.0}개 얻고, 내 소형 시약들을 변환합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819702,
+        "key": "7942e1d066938d894307b6b90039ce16",
+        "original": "Enchant an item with Slow effects.",
+        "translation": "아이템에 둔화 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819703,
+        "key": "64921bd45cf9d914dc1004dbf8a05b62",
+        "original": "Get {ability.0} Loot items.",
+        "translation": "전리품 아이템 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819704,
+        "key": "8d5491278f53ea17da0a54c54c0891a3",
+        "original": "Give your items +{ability.0} value, not including Stash.",
+        "translation": "보관함을 제외한 내 아이템들에 +{ability.0}의 가치를 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819705,
+        "key": "522c723982e04e3935bbb493a7a92542",
+        "original": "Gain {ability.1} Max Health.\nFor each Tool you have (including Stash), gain an additional {ability.0.mod} Max Health. [{ability.0}]",
+        "translation": "{ability.1}의 최대 체력을 얻습니다.\n내가 가진 도구 하나당 (보관함 포함), {ability.0.mod}의 추가 최대 체력을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819706,
+        "key": "e01127fb7c17ca78ae1b0170d6b0ff3f",
+        "original": "Make a Large investment.",
+        "translation": "대규모 투자를 합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819707,
+        "key": "d0cc110509e65bfe22e825e9ab0de87c",
+        "original": "Teaches skills unique to Dooley",
+        "translation": "둘리만의 고유한 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819708,
+        "key": "fcdf2368aef860ff7ab9f3bad4cac82f",
+        "original": "Choose a free Friend",
+        "translation": "무료 친구를 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819709,
+        "key": "faec3484484a743e812d021d9c24a773",
+        "original": "Choose a free Shield Skill",
+        "translation": "무료 보호막 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819710,
+        "key": "6d861cffbf4e6bd3f6da63a51ddfe116",
+        "original": "Run away!",
+        "translation": "도망칩니다!",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819711,
+        "key": "fbf65c1cb8e5389fe13747dfc04a2f04",
+        "original": "Enchant an item with Damage Effects.",
+        "translation": "아이템에 피해 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819712,
+        "key": "1dd4e20e437b13b5cf9b3775d1b58c40",
+        "original": "Get a Gumball. [Gumballs Remaining: 3]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 3]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819713,
+        "key": "dd6afc64c703474171538c0781630d3d",
+        "original": "Upgrade your leftmost Burn item.",
+        "translation": "내 가장 왼쪽에 있는 화상 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819714,
+        "key": "c8ceb7536855e6fd541dec49a3e82fc8",
+        "original": "Gain a Small or Medium Weapon",
+        "translation": "소형 또는 중형 무기를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819715,
+        "key": "b913e8144d712bdfa16dd11d9fd3e502",
+        "original": "(if you are Dooley or Stelle) Get a Small Silver-tier Tool from any Hero.",
+        "translation": "(내가 둘리 또는 스텔이라면) 임의의 영웅에게서 소형 실버 등급 도구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819716,
+        "key": "a0a246b3446c564f19d8faebed69bd2f",
+        "original": "Claim your 3 Wishes",
+        "translation": "3개의 소원을 빕니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819717,
+        "key": "631df576938454fd7a26f6c40463ee0a",
+        "original": "Get a copy of any item on your board.",
+        "translation": "내 보드 위 임의의 아이템의 복제본을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819718,
+        "key": "496388c8f26af0a286268160b765ac82",
+        "original": "Get {ability.0} Diamond-tier Spare Change.",
+        "translation": "다이아몬드 등급 잔돈을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819719,
+        "key": "f9ba7c06c1e0a9bfa7d6f2393c75e323",
+        "original": "(if you have a Food) Choose 1 of 2 Skills.",
+        "translation": "(내가 음식을 가지고 있다면) 2개의 스킬 중 1개를 고릅니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819720,
+        "key": "c97c5081507c3f43c0a514ba9a94f432",
+        "original": "Sells Medium and Large items. Buys your Small items at +{aura.0} Value.",
+        "translation": "중형과 대형 아이템을 판매합니다. 소형 아이템을 +{aura.0} 가치로 매입합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819721,
+        "key": "b3008c2670cb4480a16abc08259ecc9a",
+        "original": "Enchant an item.",
+        "translation": "아이템에 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819722,
+        "key": "48601ff428f882f182d3ce45998d0b68",
+        "original": "Transform the Small Reagents on your board.",
+        "translation": "내 보드 위 소형 시약들을 변환합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819723,
+        "key": "01813888bd03ee9895a79a4ed69f96c9",
+        "original": "Get a Slow item.",
+        "translation": "둔화 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819724,
+        "key": "d7da3fc87a98a09e032af0f063ac1236",
+        "original": "Get a Diamond-tier Tech item.",
+        "translation": "다이아몬드 등급 테크 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819725,
+        "key": "7f1569fc7077ea47740df7a9284cf630",
+        "original": "Grab everything from the vault",
+        "translation": "금고에서 모든 것을 가져갑니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819726,
+        "key": "d59b15ba4f0a0a2a293487fa953c5534",
+        "original": "Boost your stats with tasty treats.",
+        "translation": "맛있는 간식으로 능력치를 향상시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819727,
+        "key": "94fd1a41e2e95a6a932c5b5717e21316",
+        "original": "Get a Silver-tier Aquatic item.",
+        "translation": "실버 등급 수중 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819728,
+        "key": "3fddf258e2e50fd8905987a3475d1f19",
+        "original": "You are overwhelmed with cosmic visions! Return home to ponder these mysteries.",
+        "translation": "우주적 환영이 당신을 압도합니다! 집으로 돌아가 그 신비를 곱씹어 봅니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819729,
+        "key": "bb0ccc7ba230b05fe8b38025432e0f14",
+        "original": "Teaches Gold-tier Skills",
+        "translation": "골드 등급 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819730,
+        "key": "19d2479293f3b90a495143e284f06f76",
+        "original": "(if you are Pygmalien) Gain {ability.0} Income.",
+        "translation": "(내가 피그말리엔이면) {ability.0}의 수입을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819731,
+        "key": "56c3ce0197e6369aebb7be3f1a34e2d2",
+        "original": "Get a Diamond item.",
+        "translation": "다이아몬드 등급 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819732,
+        "key": "787bff6d0c306e52bf42bbc7234f3a12",
+        "original": "Get a Heal or Regen item.",
+        "translation": "회복 또는 재생 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819733,
+        "key": "6eb76a3576a5ef99b9f90d6c9a4c2fd0",
+        "original": "Upgrade your leftmost Heal or Regen item.",
+        "translation": "내 가장 왼쪽에 있는 회복 또는 재생 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819734,
+        "key": "210c9b1d2f2a546f4eb0adb27192b2e8",
+        "original": "Gain {ability.0} Speed",
+        "translation": "{ability.0}의 속도를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819735,
+        "key": "b33ab947433c0d43013cdf0ee2e74a8d",
+        "original": "Get {ability.0} Bronze-tier Monster Loot items",
+        "translation": "브론즈 등급 몬스터 전리품을 {ability.0}개 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819736,
+        "key": "403b9985a09bb8713b054f41b646be7e",
+        "original": "Get a Gumball. [Gumballs Remaining: 6]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 6]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819737,
+        "key": "3cc3f2cc515dd05fa5710d014ac43439",
+        "original": "Choose a free Crit Skill",
+        "translation": "무료 치명타 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819738,
+        "key": "ae1649e4ad0f110b465decf7d1aa5176",
+        "original": "Get a starter skill",
+        "translation": "기본 스킬을 획득합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819739,
+        "key": "7bd3983e2fbef72a0a992a938581867f",
+        "original": "Sells Heal or Shield items",
+        "translation": "회복과 보호막 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819740,
+        "key": "737f8e61f168e7653de1bc1e2085865f",
+        "original": "Look for opportunities in the Financial District.",
+        "translation": "금융 지구에서 기회를 찾아봅니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819741,
+        "key": "9fa5024fc223cdb08f41deb4a3425c32",
+        "original": "Get some Chocolate Bars.",
+        "translation": "초코바를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819742,
+        "key": "463dd6a591901a3c22df2d9a738a64b2",
+        "original": "Get {ability.0} Bronze-tier Spare Change.",
+        "translation": "브론즈 등급 잔돈을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819743,
+        "key": "bb3a1b542c93f45128f3ae509e09494c",
+        "original": "Enchant an item with Haste effects.",
+        "translation": "아이템에 가속 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819744,
+        "key": "7a7cc746b8c591ea8e5cfb61d0888f2a",
+        "original": "Enchant an item with Freeze effects.",
+        "translation": "아이템에 빙결 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819745,
+        "key": "ee45179e9229145c43c648626ee1a8a9",
+        "original": "Get 5 Gumballs. [Gumballs Remaining: 8]",
+        "translation": "사탕껌을 5개 얻습니다. [남은 사탕껌: 8]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819746,
+        "key": "b764dd5be9a7698854fcf0e80918aa2b",
+        "original": "Teaches Slow skills",
+        "translation": "둔화 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819747,
+        "key": "e75461b5654f69e5c22f7d1af385ac41",
+        "original": "Lose 30% Max Health [{ability.0}] and get a Diamond-tier Runic Double Bow.",
+        "translation": "최대 체력을 30% 잃고 [{ability.0}] 다이아몬드 등급 룬 이중궁을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819748,
+        "key": "422f97194400a33d5801e09e3f89ce85",
+        "original": "Claim your prize!",
+        "translation": "상품을 수령합니다!",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819749,
+        "key": "3723eeb8794d929ab195c057798603d6",
+        "original": "Enchant your leftmost Poison item.",
+        "translation": "내 가장 왼쪽에 있는 중독 아이템에 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819750,
+        "key": "109b51e392c5464e83e494d4eabccca1",
+        "original": "Get {ability.0} Gold-tier Chocolate Bars.",
+        "translation": "골드 등급 초코바를 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819751,
+        "key": "7d98227ed5e350b4d717e392199248b8",
+        "original": "Your leftmost Poison item gains +{ability.0}% Crit Chance.",
+        "translation": "내 가장 왼쪽에 있는 중독 아이템이 +{ability.0}%의 치명타 확률을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819752,
+        "key": "42922fc891909994d027146909371d16",
+        "original": "Gain {ability.0.mod} Gold for each Friend you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 친구 하나당 (보관함 포함) {ability.0.mod}개의 골드를 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819753,
+        "key": "e7d924ed1f7767de66445def328b7647",
+        "original": "Get a Bronze-tier Tool.",
+        "translation": "브론즈 등급 도구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819754,
+        "key": "543ed8997bb30803176ea271cbfede42",
+        "original": "Gain 5 to 10 Gold",
+        "translation": "5에서 10개의 골드를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819755,
+        "key": "5775c2e3067d7a87a29f0fe94273e4c5",
+        "original": "Burn items to the right of Your Core gain +{ability.0} Burn.",
+        "translation": "나의 코어 오른쪽에 있는 화상 아이템들이 +{ability.0}의 화상 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819756,
+        "key": "acb4d6e457714a394f6b1946c8ffeaf6",
+        "original": "Your leftmost Shield item gains +{ability.0}% Crit Chance.",
+        "translation": "내 가장 왼쪽에 있는 보호막 아이템이 +{ability.0}%의 치명타 확률을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819757,
+        "key": "6ec00306623a7b2afd0f88002425f1b2",
+        "original": "Your Properties gain {ability.0} Value.",
+        "translation": "내 자산들이 {ability.0}의 가치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819758,
+        "key": "9e48f665beacc3226bd80f2c6081a7ea",
+        "original": "Get a Silver-tier Tool.",
+        "translation": "실버 등급 도구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819759,
+        "key": "48322cddda79b39cda4cd09c35602dc5",
+        "original": "Sells Economic items",
+        "translation": "경제 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819760,
+        "key": "807c3f4636f3e0ac601908eac7b6ef3e",
+        "original": "Gain {ability.0} XP",
+        "translation": "{ability.0}의 경험치를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819761,
+        "key": "e00c5307232c2354319e5fcc838df683",
+        "original": "Sells Haste, Slow and Cooldown items.",
+        "translation": "가속, 둔화, 재사용 대기시간 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819762,
+        "key": "b21c56a6f1df51281375b7fe08fcd7b8",
+        "original": "Get an Economic item or skill.",
+        "translation": "경제 아이템 또는 스킬을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819763,
+        "key": "e90817b812edede0671da7df4dea4908",
+        "original": "Get a Diamond-tier item.",
+        "translation": "다이아몬드 등급 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819764,
+        "key": "d1cc961098bd4f90816ab66da6fb858c",
+        "original": "Get a Silver-tier item.",
+        "translation": "실버 등급 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819765,
+        "key": "d49d7dafdf933a276ff3f65de696028f",
+        "original": "Get +{ability.0} Income and a Vehicle.",
+        "translation": "탈것과 +{ability.0}의 수입을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819766,
+        "key": "a6b702fd3d750f7460508202d4fada73",
+        "original": "Reduce your Core's Cooldown by {ability.0}%.",
+        "translation": "내 코어의 재사용 대기시간이 {ability.0}% 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819767,
+        "key": "31f9848de77e37deaa493932405f4440",
+        "original": "Get a Cinders (+Burn).",
+        "translation": "불씨를(+화상 수치) 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819768,
+        "key": "5c9cc0a9f82d97d1dd398b63e862788c",
+        "original": "Get 5 Gumballs. [Gumballs Remaining: 9]",
+        "translation": "사탕껌을 5개 얻습니다. [남은 사탕껌: 9]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819769,
+        "key": "2c0cea13b8c0dbe8ba3ac1c2331fa1fc",
+        "original": "Aid the Convoys in navigating the dangerous Mountain Pass.",
+        "translation": "위험한 산길을 통과하는 호송대를 도와줍니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819770,
+        "key": "679ac6739b5b5a2dab3e2f5d8be47ec2",
+        "original": "Teaches Burn skills",
+        "translation": "화상 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819771,
+        "key": "55e8603c62fe9e9e90d84461e99ac458",
+        "original": "Get {ability.0} Bronze Chocolate Bars.",
+        "translation": "브론즈 등급 초코바를 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819772,
+        "key": "eadbf030643c6eaf7e08dec52564de9c",
+        "original": "Improve your Shield items.",
+        "translation": "보호막 아이템을 개선합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819773,
+        "key": "6c296f17aecc4bfb50382697d3db7878",
+        "original": "Get a Gold-tier item.",
+        "translation": "골드 등급 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819774,
+        "key": "b30864f05e10ee9ce856e301f1202981",
+        "original": "Teaches Silver-tier Skills",
+        "translation": "실버 등급 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819775,
+        "key": "167c1839c6d1eabf0c490ceca98b9c88",
+        "original": "Dig for a free item. It could be anything, but you can only keep one!",
+        "translation": "무료 아이템을 발굴합니다. 아무거나 얻을 수 있지만, 하나만 가져갈 수 있습니다!",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819776,
+        "key": "7543fc4432b0ed4a465a79ed5f92f9fd",
+        "original": "Get 3 Monster Loot.",
+        "translation": "몬스터 전리품을 3개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819777,
+        "key": "89bfca69fdd259d64b529b7c726451c2",
+        "original": "Teaches Crit skills",
+        "translation": "치명타 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819778,
+        "key": "ef7911489ee47bf06fded8c6f9505341",
+        "original": "Get {ability.0} Diamond-tier Chocolate Bars.",
+        "translation": "다이아몬드 등급 초코바를 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819779,
+        "key": "c99ca1053265b2acd2ee80e60bba283b",
+        "original": "Buy out the circus.",
+        "translation": "서커스를 매수합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819780,
+        "key": "92bf0df0a9d37a3df21ce069b7e5ca19",
+        "original": "Get a Bronze-tier Friend.",
+        "translation": "브론즈 등급 친구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819781,
+        "key": "01381263360752eaa31d3d468f110ea6",
+        "original": "Sells Heal and Regen items",
+        "translation": "회복과 재생 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819782,
+        "key": "af9f10c5c29f80a16eb1298c89f87df6",
+        "original": "Enter the Temple Vault",
+        "translation": "사원 금고에 들어갑니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819783,
+        "key": "9d528829fb74f68d38f24e174f307342",
+        "original": "Improve your Poison items.",
+        "translation": "중독 아이템들을 개선합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819784,
+        "key": "6ee68a1d7a96f3f60d03bffc6ac2a626",
+        "original": "Sells Skills",
+        "translation": "스킬을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819785,
+        "key": "4522f4bf9c7ed8e225061e9185ef5bf7",
+        "original": "Upgrade your leftmost Bronze-tier or Silver-tier item.",
+        "translation": "내 가장 왼쪽에 있는 브론즈 등급 또는 실버 등급 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819786,
+        "key": "a1af9a9efef7f764b930a65b7329694d",
+        "original": "Double the effects of the offered options.",
+        "translation": "제시된 선택지들의 효과가 두 배가 됩니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819787,
+        "key": "c7c870ea889eeac809092ab6390e902b",
+        "original": "Get {ability.0} Chocolate Bars, then upgrade all your Chocolate Bars.",
+        "translation": "초코바를 {ability.0}개 얻고, 내 모든 초코바를 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819788,
+        "key": "8de2eab8908f2fc2e4493fe7ecd894c3",
+        "original": "Upgrade your leftmost Poison item.",
+        "translation": "내 가장 왼쪽에 있는 중독 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819789,
+        "key": "d7244a27e2a3bda999ce15ce2914fc00",
+        "original": "Gain {ability.0} Gold and a Shield item.",
+        "translation": "보호막 아이템과 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819790,
+        "key": "127bf92e9eb7d50b2a5facade78476f0",
+        "original": "Get {ability.0} Gold and a Diamond-tier Loot item.",
+        "translation": "다이아몬드 등급 전리품 아이템과 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819791,
+        "key": "1b37aa8483d640a8b80b836612eb949a",
+        "original": "Lose 10% Max Health. Your Weapons gain +{ability.0} Damage and gain +{ability.1}% Crit Chance.",
+        "translation": "최대 체력을 10% 잃습니다. 내 무기들이 +{ability.0}의 피해량과 +{ability.1}%의 치명타 확률을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819792,
+        "key": "f11773794566b7658b9b148fd478ced8",
+        "original": "Eat at Finn's to get Max Health.",
+        "translation": "핀의 가게에서 식사를 해 최대 체력을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819793,
+        "key": "32a0167ca4bc7d0905e7a8175b37e910",
+        "original": "Get {ability.0} Silver-tier Spare Change.",
+        "translation": "실버 등급 잔돈을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819794,
+        "key": "005a90e12820a59ffe92b7bb2417ad0c",
+        "original": "Reduce your leftmost Tool's Cooldown by {ability.0}%.",
+        "translation": "내 가장 왼쪽에 있는 도구의 재사용 대기시간이 {ability.0}% 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819795,
+        "key": "1c0add8a0da3d289291c135873997c1a",
+        "original": "Get 5 Gumballs. [Gumballs Remaining: 6]",
+        "translation": "사탕껌을 5개 얻습니다. [남은 사탕껌: 6]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819796,
+        "key": "5c90973190da62fda741bd25b0a516dd",
+        "original": "Get a Silver-tier Cinders.",
+        "translation": "실버 등급 불씨를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819797,
+        "key": "ee87bf785ee62f865876a7044ecfa0e6",
+        "original": "Upgrade Your Core and gain +10% Max Health.",
+        "translation": "내 코어를 강화하고 +10%의 최대 체력을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819798,
+        "key": "63ff9961ed8bbb84088ec978ebacafdd",
+        "original": "Get 2 Cinders (+Burn).",
+        "translation": "불씨를 2개 얻습니다. (+화상 수치).",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819799,
+        "key": "e06d1283d1c68449e041f3458d6b70a8",
+        "original": "Improve your Weapons.",
+        "translation": "무기를 개선합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819800,
+        "key": "8bc5291d45576299c0af48e8f9f9d3a1",
+        "original": "Get a Heal item.",
+        "translation": "회복 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819801,
+        "key": "0a4ac5a0abae4d685a9871e6688414cf",
+        "original": "Brave the path of flames",
+        "translation": "불꽃의 길을 용감히 나아가세요",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819802,
+        "key": "b03bdd15c80b5d7546b3d07b4e8ad47c",
+        "original": "Buy experience for the right price.",
+        "translation": "적절한 가격에 경험을 구매합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819803,
+        "key": "f4bb5a8bfd4599547c0e696718a71c57",
+        "original": "Sells Small and Large items. Buys your Medium items at +{aura.0} value.",
+        "translation": "소형과 대형 아이템을 판매합니다. 중형 아이템을 +{aura.0} 가치로 매입합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819804,
+        "key": "20a68f4fe17ec76e4a8ef1c01fb9ff19",
+        "original": "You have failed Qomatz’s test. Is there darkness in your heart?",
+        "translation": "당신은 코마츠의 시험에 떨어졌습니다. 당신의 마음에 어둠이 있나요?",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819805,
+        "key": "120494c5aec924677953a0e8fe8286f7",
+        "original": "Get {ability.0} Gold and a Bronze-tier Loot item.",
+        "translation": "브론즈 등급 전리품 아이템과 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819806,
+        "key": "60784fd19f0ffa60689f64daaf21c1e1",
+        "original": "Get a Friend.",
+        "translation": "친구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819807,
+        "key": "1a9690525259bfb5764aa7900ea368ec",
+        "original": "Upgrade your leftmost Ammo item.",
+        "translation": "내 가장 왼쪽에 있는 탄약 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819808,
+        "key": "199a2444f3b435c19fe85b6855144819",
+        "original": "Your leftmost Weapon gains {ability.0} Damage. If you have a Tool, it gains an additional {ability.0} Damage.",
+        "translation": "내 가장 왼쪽에 있는 무기가 {ability.0}의 피해량을 얻습니다. 내가 도구를 가지고 있다면, 추가적으로 {ability.0}의 피해량을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819809,
+        "key": "ea00d19a3d6f0703b5419edcdd253106",
+        "original": "Your leftmost Weapon gains {ability.0.mod} Damage per Level. [{ability.0}]",
+        "translation": "내 가장 왼쪽에 있는 무기가 내 레벨당 {ability.0.mod}의 피해량을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819810,
+        "key": "ca85943cad476f1956c00661de036577",
+        "original": "Get a Gumball. [Gumballs Remaining: 10]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 10]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819811,
+        "key": "0637bc269578fa2b1fe2a7c244bc10f3",
+        "original": "Get an Aquatic item.",
+        "translation": "수중 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819812,
+        "key": "b00061189ce24515632616a75b304ac7",
+        "original": "Get a Small Tool.",
+        "translation": "소형 도구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819813,
+        "key": "97b9ffb5f3ff7acdee383ae6e9e5dfef",
+        "original": "Get a Gold-tier Tech item.",
+        "translation": "골드 등급 테크 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819814,
+        "key": "22735b250d462bfbc619824b044f8e8e",
+        "original": "The Monster returns and sniffed you out.",
+        "translation": "몬스터가 돌아와 당신을 찾아냈습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819815,
+        "key": "0c0ba9aa7592f61ec29f801682803549",
+        "original": "Upgrade your leftmost Bronze-tier item.",
+        "translation": "내 가장 왼쪽에 있는 브론즈 등급 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819816,
+        "key": "161f70fd231be08c4540d577f63ae563",
+        "original": "Gain a Small or Medium item",
+        "translation": "소형 또는 중형 아이템을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819817,
+        "key": "d8d5e6d516af1766a64ccc43d6a7be5d",
+        "original": "Transform your leftmost item into another item of the same size and tier.",
+        "translation": "내 가장 왼쪽에 있는 아이템을 같은 크기와 등급의 다른 아이템으로 변환합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819818,
+        "key": "0936963a2e591acb112dd33805478211",
+        "original": "Get a Medium item",
+        "translation": "중형 아이템을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819819,
+        "key": "3a8e8fef295078f91c32abec7845446c",
+        "original": "Upgrade your leftmost Shield item.",
+        "translation": "내 가장 왼쪽에 있는 보호막 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819820,
+        "key": "6dc4290275b322f70308ea31e82d2415",
+        "original": "Gain an Enchanted item",
+        "translation": "마법 부여된 아이템을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819821,
+        "key": "1351de9fe3ccd6032fe25a9b5875c01d",
+        "original": "Sells Medium items",
+        "translation": "중형 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819822,
+        "key": "62356b4a5ed57f4a3b17294669e90bf0",
+        "original": "Enchant an item with Heal effects.",
+        "translation": "아이템에 회복 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819823,
+        "key": "93ce6f4a9bb47d01c7a42d5f967da50d",
+        "original": "Lose 10% Max Health [{ability.0}] and gain +{ability.1} Regen.",
+        "translation": "최대 체력을 10% [{ability.0}] 잃고 +{ability.1}의 재생을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819824,
+        "key": "0484bf7fcea13293bb2d1c4815255eb8",
+        "original": "Get a Silver-tier Loot item.",
+        "translation": "실버 등급 전리품 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819825,
+        "key": "01774403116c319fdba3b54a9818c80e",
+        "original": "Get a Diamond-tier item from the Bazaar.",
+        "translation": "바자르에서 다이아몬드 등급 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819826,
+        "key": "ad27994479bea69fab42c08763069c7f",
+        "original": "Get {ability.0} Bronze-tier Monster Loot.",
+        "translation": "브론즈 등급 몬스터 전리품을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819827,
+        "key": "3fc4cb9f72f87458e59c90d44ba01def",
+        "original": "Some of the Bazaar's most remarkable technology has been collected here",
+        "translation": "바자르의 놀라운 기술들이 여기에 모여 있습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819828,
+        "key": "11a5375f88386f264f82b473b0f48ac9",
+        "original": "Sells items. Buys your Bronze-tier items at +{aura.0} Gold.",
+        "translation": "아이템을 판매합니다. 브론즈 등급 아이템을 +{aura.0} 골드에 매입합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819829,
+        "key": "b69effcee0d9fac035e81792130a0287",
+        "original": "Get a Gumball. [Gumballs Remaining: 2]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 2]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819830,
+        "key": "f0cccfbbbd96f8cac240907908c2dee0",
+        "original": "The Tyrant's agents have found you!",
+        "translation": "폭군의 요원들이 당신을 찾았습니다!",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819831,
+        "key": "0945274b03acc491094be2fddf6407b4",
+        "original": "Get 3 Small items from the Bazaar.",
+        "translation": "바자르에서 소형 아이템을 3개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819832,
+        "key": "6f4db5cc9de322b7fef1d55a447e4ecd",
+        "original": "Enchant your leftmost Weapon.",
+        "translation": "내 가장 왼쪽에 있는 아이템에 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819833,
+        "key": "1044118e68d468eec4d4b8a7543f599c",
+        "original": "Your leftmost Ammo item gains +{ability.0}% Crit Chance.",
+        "translation": "내 가장 왼쪽에 있는 탄약 아이템이 +{ability.0}%의 치명타 확률을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819834,
+        "key": "9552f48bc96e26eb96a5fa8a950c48c1",
+        "original": "Upgrade a Silver or lower tier item",
+        "translation": "실버 등급 이하의 아이템을 강화합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819835,
+        "key": "8724253a14afe1a1f7c41b4c3379684d",
+        "original": "Sells Silver-tier items",
+        "translation": "실버 등급 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819836,
+        "key": "fcf8fe5d9e59de713ec003670c54b762",
+        "original": "Get a Bronze-tier Potion.",
+        "translation": "브론즈 등급 물약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819837,
+        "key": "e43fabc161e5a795cc141a6ac5a46584",
+        "original": "Choose a free Loot item",
+        "translation": "무료 전리품 아이템을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819838,
+        "key": "9c36706db16ba0459018692c2904edf3",
+        "original": "Get 5 Silver Chocolate Bars.",
+        "translation": "실버 등급 초코바를 5개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819839,
+        "key": "b2e45f4c35341f39444d3d1577c19a78",
+        "original": "The mighty Guardian has sealed the temple. Return to the Bazaar.",
+        "translation": "위대한 수호자가 사원을 봉인했습니다. 바자르로 돌아가십시오.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819840,
+        "key": "fa16704252fa74e123f6b4591a3f7207",
+        "original": "Get {ability.0} Gold-tier Monster Loot items",
+        "translation": "골드 등급 몬스터 전리품 아이템을 {ability.0}개 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819841,
+        "key": "080ab46f4051c20962e02be943708121",
+        "original": "Recover {ability.0} Prestige.",
+        "translation": "{ability.0}의 명성을 복구합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819842,
+        "key": "45d67feee49b2f01e05ee0f7ef4ccb55",
+        "original": "Gain Speed",
+        "translation": "속도를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819843,
+        "key": "3397bfdba9e42ed4bc92a5531330dcb8",
+        "original": "Your Shield items gain {ability.0} Shield.",
+        "translation": "내 보호막 아이템들이 {ability.0}의 보호막 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819844,
+        "key": "f537240f375dd582300ffeedb50a358c",
+        "original": "Sells Diamond-tier items",
+        "translation": "다이아몬드 등급 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819845,
+        "key": "c1b686b45fd5fbfa289161983c1a91f4",
+        "original": "Gain a Neutral item",
+        "translation": "중립 아이템을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819846,
+        "key": "7dfd44ca8d5a4edcd016ac67d5cd66d2",
+        "original": "Sells Skill upgrades",
+        "translation": "스킬 강화를 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819847,
+        "key": "21e059826f25b7cd4be4939a68cc59ff",
+        "original": "Upgrade all your Bronze-tier items.",
+        "translation": "내 모든 브론즈 등급 아이템들을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819848,
+        "key": "0ad254ab4d77573585dc9c2afcb64626",
+        "original": "Spin the wheel for a prize!",
+        "translation": "룰렛을 돌려 상품을 얻습니다!",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819849,
+        "key": "7b9a67f39f936c1afb52a80299f4adde",
+        "original": "Gain {ability.0} Gold and a Crit Skill.",
+        "translation": "치명타 스킬과 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819850,
+        "key": "f854733f4674f1658ed2cde789dd6d50",
+        "original": "Teaches skills unique to Stelle",
+        "translation": "스텔만의 고유한 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819851,
+        "key": "6fc928054f5968087da964947ce17700",
+        "original": "Get a Diamond-tier Flying item.",
+        "translation": "다이아몬드 등급 비행 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819852,
+        "key": "bb50500654ed6b9e50c392eaaf37c83e",
+        "original": "Choose a free Tool Skill",
+        "translation": "무료 도구 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819853,
+        "key": "83738de7554a88154e7b7491cecbd98c",
+        "original": "Gain {ability.0} Scrap (+Shield).",
+        "translation": "고철(+보호막 수치)을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819854,
+        "key": "e96dad7f1f1e85873e3e96bcf098deb5",
+        "original": "Teaches Jules Skills",
+        "translation": "줄스 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819855,
+        "key": "696af7743371589c2954f621ffd9abc4",
+        "original": "Your Shield items gain +{ability.0} Shield.",
+        "translation": "내 보호막 아이템들이 +{ability.0}의 보호막 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819856,
+        "key": "77d74fc11f697b31257f6e854cde0b48",
+        "original": "Sells Poison items.",
+        "translation": "중독 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819857,
+        "key": "afdf147f64c4889083eb065abe95cbdc",
+        "original": "Get a Bronze-tier Aquatic item.",
+        "translation": "브론즈 등급 수중 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819858,
+        "key": "f7fbe3abf81a6a97276a04c919844a98",
+        "original": "Sells Bronze-tier Neutral items.",
+        "translation": "브론즈 등급 중립 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819859,
+        "key": "a96c57a07ffe82581580b6035442378d",
+        "original": "Transform all your items and Enchant them.",
+        "translation": "내 모든 아이템들을 변환한 뒤 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819860,
+        "key": "697dbd172fadd68e9c6472bd050d19c1",
+        "original": "Your Weapons gain {ability.0} Damage.",
+        "translation": "내 무기들이 {ability.0}의 피해량을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819861,
+        "key": "152fedb2675c295e45c872c1e6f24619",
+        "original": "Get a Gold-tier Ammo item.",
+        "translation": "골드 등급 탄약 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819862,
+        "key": "f601f0e5f746eb1e67f2ad28090848a8",
+        "original": "You find a strange mushroom in the Greenheart.",
+        "translation": "그린하트에서 이상한 버섯을 발견했습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819863,
+        "key": "0855a0e83b4259493a8a9dfac127abbb",
+        "original": "Get a Gold-tier Friend.",
+        "translation": "골드 등급 친구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819864,
+        "key": "9be80d0e0190e0392e1b88e4c2f9e721",
+        "original": "Enter the Thieves Guild",
+        "translation": "도둑 길드에 입장합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819865,
+        "key": "29d519fce98e05bc1153a8ab6e67d464",
+        "original": "Gain an item",
+        "translation": "아이템 얻기",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819866,
+        "key": "3395dc088cb41e27a7750629d26f73e8",
+        "original": "Get a Gold-tier Cinders.",
+        "translation": "골드 등급 불씨를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819867,
+        "key": "c58909d5dc16ddf57727db0c09dbb498",
+        "original": "Get a Bronze-tier Ammo item.",
+        "translation": "브론즈 등급 탄약 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819868,
+        "key": "c466e8b77f51bb1f744626c2d0063342",
+        "original": "Gain {ability.0} Income. If you have at least 25 Gold, gain an additional {ability.1}.",
+        "translation": " {ability.0}의 수입을 얻습니다. 만약 내가 25개 이상의 골드를 가지고 있다면, {ability.1}의 수입을 추가로 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819869,
+        "key": "e68bb190c16df9020cf1b973b75113b0",
+        "original": "Get a Gold-tier Potion.",
+        "translation": "골드 등급 물약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819870,
+        "key": "e3a85809f091d7b407c89c993728b769",
+        "original": "Transform your leftmost Small item.",
+        "translation": "내 가장 왼쪽에 있는 소형 아이템을 변환합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819871,
+        "key": "dac8f127170222a0fbd438238e963fdd",
+        "original": "Spin the wheel!",
+        "translation": "룰렛을 돌립니다!",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819872,
+        "key": "84a3a7c61cb24ed6f64da90085c25b2c",
+        "original": "Get 5 Gumballs. [Gumballs Remaining: 10]",
+        "translation": "사탕껌을 5개 얻습니다. [남은 사탕껌: 10]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819873,
+        "key": "8ff50ce7704404f3d7135c4eff4c5f79",
+        "original": "Enchant an item with Crit Chance effects.",
+        "translation": "아이템에 치명타 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819874,
+        "key": "d7d59e973cdfdf00b770ca05aa87d30d",
+        "original": "Gain 10% of your Max Health for the rest of the day. [{ability.0}]",
+        "translation": "남은 하루 동안 내 최대 체력의 10%를 얻습니다. [{ability.0}]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819875,
+        "key": "5b2aa284b4687209ef445a0a69ee517d",
+        "original": "You can travel almost anywhere! (infinite rerolls)",
+        "translation": "어디든지 갈 수 있습니다! (무제한 새로고침)",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819876,
+        "key": "f18615722afb437d258f93a45862f1bd",
+        "original": "Get {ability.0} Gold and a Gold-tier Loot item.",
+        "translation": "골드 등급 전리품 아이템과 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819877,
+        "key": "0c44a747230e324fd323e1aebda52641",
+        "original": "Enchant your leftmost Heal or Regen item.",
+        "translation": "내 가장 왼쪽에 있는 회복 또는 재생 아이템에 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819878,
+        "key": "3e050c09f7906a5444b779448a39db5c",
+        "original": "Get a non-Weapon item.",
+        "translation": "비무기 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819879,
+        "key": "3ee60d4c0a27e9ea86bc90daa88bc027",
+        "original": "Sells Potions",
+        "translation": "물약을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819880,
+        "key": "20d1603f43bfa7c73dc404a88e00f6b8",
+        "original": "Get a Diamond-tier Potion.",
+        "translation": "다이아몬드 등급 물약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819881,
+        "key": "8d42aebc657b76e7f26af988d570c87b",
+        "original": "Gain {ability.0.mod} Gold for each Tool you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 도구 하나당 (보관함 포함) {ability.0.mod}개의 골드를 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819882,
+        "key": "63c31aacdabfd6f2925d69899ee70458",
+        "original": "Lose {ability.0} Income and gain {ability.1} Gold",
+        "translation": "{ability.0}의 수입을 잃고 {ability.1}개의 골드를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819883,
+        "key": "5ac64c219c0a05cb963c4e621ebfa3bd",
+        "original": "Get a Silver-tier Gunpowder (+Ammo).",
+        "translation": "실버 등급 화약을 (+탄약) 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819884,
+        "key": "585e8fe8951449264d3b64271597aebc",
+        "original": "Enchant an item with Freeze, Slow and Destroy reduction effects.",
+        "translation": "아이템에 빙결, 둔화, 파괴 감소 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819885,
+        "key": "56d80d7d007af1b1404d1973aec3dbb2",
+        "original": "Sells Gold-tier items",
+        "translation": "골드 등급 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819886,
+        "key": "69182372eeca0078c96a8fcc4a411135",
+        "original": "Gain 10% Max Health. [{ability.0}]",
+        "translation": "10%의 최대 체력을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819887,
+        "key": "b19f9b37e2a8459fbd26704171fd3557",
+        "original": "Explore the exotic wilds of the Greenheart",
+        "translation": "그린하트의 이국적인 야생을 탐험합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819888,
+        "key": "35632a6f85aa357d886ea90cdb5a018e",
+        "original": "Get a Diamond-tier Cinders.",
+        "translation": "다이아몬드 등급 불씨를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819889,
+        "key": "0552b6d2ab117ff520f385f8bd433791",
+        "original": "(if you are Mak) Get a Silver-tier Reagent.",
+        "translation": "(내가 막이라면) 실버 등급 시약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819890,
+        "key": "3e9ea931ac29936702c0376d04a7b351",
+        "original": "Leave the encounter",
+        "translation": "조우를 떠납니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819891,
+        "key": "a61d3ccec6c4fc387f0b082ba5b30ad1",
+        "original": "Get a Burn item.",
+        "translation": "화상 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819892,
+        "key": "788cfc306baa42d554264666f36c2d50",
+        "original": "Gain a Diamond-tier skill.",
+        "translation": "다이아몬드 등급 스킬을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819893,
+        "key": "3dd1c0c93dc450239893676bcf34d9fb",
+        "original": "Get a Gold-tier Weapon.",
+        "translation": "골드 등급 무기를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819894,
+        "key": "c9936658beb28a330649965badf7f827",
+        "original": "Study the Merchant in the front of his shop, mingling with the customers.",
+        "translation": "그의 가게 앞에서 손님들과 어울리는 상인을 살펴봅니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819895,
+        "key": "a870e97c94a017920a41701cabeffcd3",
+        "original": "Sells Tech items",
+        "translation": "테크 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819896,
+        "key": "dd2d231d4ca5e1f8f1b0ad00b7702e81",
+        "original": "Gain {ability.0} Gold and a Weapon.",
+        "translation": "무기와 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819897,
+        "key": "04a8ff730fbf5f82d3490e61a013b1cf",
+        "original": "Get a Bronze-tier Reagent.",
+        "translation": "브론즈 등급 시약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819898,
+        "key": "d02ed81b40022472139b6898d975527f",
+        "original": "This is an Event Template.",
+        "translation": "이벤트 템플릿입니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819899,
+        "key": "d7d1b7f8493bbafc06894e23a6b24071",
+        "original": "Upgrade your leftmost item.",
+        "translation": "내 가장 왼쪽에 있는 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819900,
+        "key": "32fe3810ae877aa690bed517c2590fba",
+        "original": "Sells Weapons",
+        "translation": "무기를 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819901,
+        "key": "8696cb125e459ea386ea8a46f58cc7e1",
+        "original": "Teaches skills unique to Mak",
+        "translation": "막만의 고유한 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819902,
+        "key": "ac2b87344f859e6a36483a2bb7732da3",
+        "original": "Teaches Joy skills",
+        "translation": "기쁨 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819903,
+        "key": "5be5c1e220a9b22b8709d54846fa38e1",
+        "original": "Improve your Heal and Regen items.",
+        "translation": "회복과 재생 아이템을 개선합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819904,
+        "key": "50019a43ebb1f27e396c15e2fb9a2ad0",
+        "original": "Get {ability.0} Economic items or skills",
+        "translation": "{ability.0}개의 경제 아이템 또는 스킬을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819905,
+        "key": "453393bb3a97bc04dc19db333be6e959",
+        "original": "Gain {ability.0.mod} Gold for each Weapon you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 무기 하나당 (보관함 포함) {ability.0.mod}개의 골드를 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819906,
+        "key": "17e3646e5540252b8d4aee6cdc148ceb",
+        "original": "(if you have a Bushel) Your Bushel gains +{ability.0} Heal.",
+        "translation": "(내가 과일 바구니를 가지고 있다면) 내 과일 바구니가 +{ability.0}의 회복량을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819907,
+        "key": "ad3cfa2d81cfc8b029a8a95a0be29844",
+        "original": "You learned a lot in your seminar.",
+        "translation": "세미나에서 많은 것을 배웠습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819908,
+        "key": "1e0b22bf91670e71e403f8b746e6fa8c",
+        "original": "Sells Property items",
+        "translation": "자산 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819909,
+        "key": "4bafdb64abe7a5a93b777cc706183f31",
+        "original": "Get a Gumball. [Gumballs Remaining: 4]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 4]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819910,
+        "key": "857e502e1c69a2e1decc2911844e05c5",
+        "original": "Get a Bronze-tier Sharpening Stone (+Damage), Extract (+Poison) and Cinders (+Burn).",
+        "translation": "브론즈 등급 숫돌 (+피해량), 추출물 (+중독 수치), 불씨 (+화상 수치)를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819911,
+        "key": "b483de144bc5ead9914b5b94f4fbe6d7",
+        "original": "Get a Gold-tier Property.",
+        "translation": "골드 등급 자산을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819912,
+        "key": "35c4800e0b88f453fdf07150df50b1ff",
+        "original": "A Weapon gains {ability.0} Damage.",
+        "translation": "무기가 {ability.0}의 피해량을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819913,
+        "key": "2e76f9587832e66ca321bf192e7a9088",
+        "original": "Gain {ability.0} Regen",
+        "translation": "{ability.0}의 재생을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819914,
+        "key": "8b9f705d2946bfbe2d7f068f3c438695",
+        "original": "Choose a free Burn Skill",
+        "translation": "무료 화상 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819915,
+        "key": "242da9a3fd928451eebe640c28410d14",
+        "original": "You gain 5% Max Health [{ability.0}] and {ability.1} Regen.",
+        "translation": "5%의 최대 체력을 [{ability.0}] 얻고 +{ability.1}의 재생을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819916,
+        "key": "914573ea3651c75139daa4293b7e04e4",
+        "original": "Your leftmost Ammo item gains double Max Ammo.",
+        "translation": "내 가장 왼쪽에 있는 탄약 아이템이 두 배의 최대 탄약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819917,
+        "key": "168258378e7eb2d119c9694c68142347",
+        "original": "Get a Diamond-tier Weapon.",
+        "translation": "다이아몬드 등급 무기를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819918,
+        "key": "2dc1bd8cdd5c017640d4589a117039b8",
+        "original": "Enchant your leftmost Shield item.",
+        "translation": "내 가장 왼쪽에 있는 보호막 아이템에 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819919,
+        "key": "e6b8b89cd383ef20f95e71aa36e4d0ca",
+        "original": "Enchant your leftmost Weapon with Shiny.",
+        "translation": "내 가장 왼쪽에 있는 무기에 반짝이는 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819920,
+        "key": "ee6ce122dee947e95b1958258c0f6c6d",
+        "original": "Get an Extract (+Poison).",
+        "translation": "추출물을 얻습니다 (+중독 수치).",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819921,
+        "key": "c8f8e4bf3ff13e98dd483d65964d06d4",
+        "original": "(if you have Flagship or Submarine) Gain {ability.0} XP.",
+        "translation": "(내가 기함이나 잠수함을 가지고 있다면) {ability.0}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819922,
+        "key": "30ecd60a14abf5112b12ed3c01edc8f8",
+        "original": "Get a Silver-tier Reagent.",
+        "translation": "실버 등급 시약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819923,
+        "key": "8df48d598cd8a2a6eee90f5e69d6dedd",
+        "original": "Get {ability.0} Small treats",
+        "translation": "소형 간식을 {ability.0}개 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819924,
+        "key": "4547f392ea607bd0a62ccb6b45fdb22f",
+        "original": "Upgrade your leftmost Heal item.",
+        "translation": "내 가장 왼쪽에 있는 회복 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819925,
+        "key": "d751b64de056d2b487a71a48fda3c9cd",
+        "original": "Get a Diamond-tier Tool.",
+        "translation": "다이아몬드 등급 도구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819926,
+        "key": "411098238200d20a4e90381bfc6fc938",
+        "original": "Start your next fight with 100 Shield per Level. [{ability.0}]",
+        "translation": "내 레벨당 100의 보호막을 얻은 채로 다음 전투를 시작합니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819927,
+        "key": "87e5ab8c7ed1eace52fc9a7e9027dd72",
+        "original": "Return home and get back into shape.",
+        "translation": "집으로 돌아가 휴식합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819928,
+        "key": "b6495f0d5180f6b4eb93a521e8b3a4c4",
+        "original": "Gain 5% Max Health [{ability.0}].",
+        "translation": "5%의 최대 체력을 얻습니다 [{ability.0}].",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819929,
+        "key": "145779af029a95b37ef8954b2931392d",
+        "original": "Choose 1 of 5 Cores.",
+        "translation": "5개의 코어 중 1개를 고릅니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819930,
+        "key": "c3d1269d8b3a56806e647afae31139eb",
+        "original": "Your Heal items gain +{ability.0} Heal.\nYour Regen items gain +{ability.1} Regen.",
+        "translation": "내 회복 아이템들이 +{ability.0}의 회복량을 얻습니다.\n내 재생 아이템들이 +{ability.1}의 재생 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819931,
+        "key": "9d33a0b16b10800385197a83c34e58e5",
+        "original": "Select 1 of 2 Enchantment locations.",
+        "translation": "2개의 마법 부여 장소 중 1개를 고릅니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819932,
+        "key": "90895968743b264aec9939596b5f0413",
+        "original": "Get {ability.0} Feather (reduces Cooldown).",
+        "translation": "깃털을 {ability.0}개 얻습니다 (재사용 대기시간 감소).",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819933,
+        "key": "195b82cdc573a53bfca4bae64cb5a637",
+        "original": "Get a Bronze-tier Property.",
+        "translation": "브론즈 등급 자산을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819934,
+        "key": "b5837616fbbf9a79b05783c9ff6903ce",
+        "original": "Sells Flying items",
+        "translation": "비행 아이템을 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819935,
+        "key": "1593bc0bb07929617f63d8f03720db29",
+        "original": "Get one of Dooley's Friends.",
+        "translation": "둘리의 친구 중 하나를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819936,
+        "key": "c5302634a93c9f270c68e80d7a7a328a",
+        "original": "You find abandoned ruins in the jungle.",
+        "translation": "정글에서 버려진 폐허를 발견했습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819937,
+        "key": "40d3ee78cce37dd2b73421de23e8facb",
+        "original": "Get a Silver-tier Friend.",
+        "translation": "실버 등급 친구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819938,
+        "key": "1ac23b3f0c899002c399538f92006172",
+        "original": "Get a Potion.",
+        "translation": "물약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819939,
+        "key": "34336616729529186ec42aeb1df4be3c",
+        "original": "Sells Max Health items.",
+        "translation": "최대 체력 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819940,
+        "key": "25f74663ff9d2c2e4ef9e3aefbaf7bbc",
+        "original": "Sells sports equipment.",
+        "translation": "운동 장비를 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819941,
+        "key": "a9797255742aaf176533cb881fa97599",
+        "original": "Get a Skill",
+        "translation": "스킬을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819942,
+        "key": "8993b3b1ee12bfb00c158b1d91c5a429",
+        "original": "Sells Small items",
+        "translation": "소형 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819943,
+        "key": "248e1a7f98d79f9d199a6e6500c8ad6f",
+        "original": "Get a Gumball. [Gumballs Remaining: 1]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 2]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819944,
+        "key": "31c2e26b839aa4eccb2a38f60dd18a56",
+        "original": "Enchant an item with Damage effects.",
+        "translation": "아이템에 피해 효과를 마법 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819945,
+        "key": "e87b2ed3da31dd4a0e740d09b3edadeb",
+        "original": "You own the circus! What do you want to do with it?",
+        "translation": "서커스를 소유했습니다! 이걸로 무엇을 하고 싶나요?",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819946,
+        "key": "1d1405296692ed75f25453313fac3dbc",
+        "original": "Sells Apparel from any Hero",
+        "translation": "모든 영웅의 의류를 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819947,
+        "key": "079fd69ad2eef68d746c5934357cdcbe",
+        "original": "Get {ability.0} Diamond-tier Chocolate Bar or Gumballs.",
+        "translation": "다이아몬드 등급 초코바 또는 사탕껌을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819948,
+        "key": "d4cf85008c328876366792b98576509d",
+        "original": "Get a Small Weapon.",
+        "translation": "소형 무기를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819949,
+        "key": "c5ad0547f2100d223d980f9230ebbeb4",
+        "original": "Gain 200 to 600 Max Health.",
+        "translation": "200에서 600 사이의 최대 체력을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819950,
+        "key": "b1ffcc747315492c35d2c947b3f7fc59",
+        "original": "Aid a caravan descending the Great Plateau.",
+        "translation": "대고원을 내려가는 캐러밴을 돕습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819951,
+        "key": "1b52e7da106339c099f4b6e8b684882a",
+        "original": "Gain Gold and XP",
+        "translation": "골드와 경험치를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819952,
+        "key": "7a4100a67ceab86ae492c6ee0db7b1fc",
+        "original": "Gain {ability.0} Gold and a Tool.",
+        "translation": "도구와 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819953,
+        "key": "1226fe7a4b38b870be865aeeef93aeb9",
+        "original": "Enchant your leftmost Burn item.",
+        "translation": "내 가장 왼쪽에 있는 화상 아이템에 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819954,
+        "key": "3f6cf6a5cd60da7e228f40e444296470",
+        "original": "Sells Small and Medium items. Buys your Large items at +{aura.0} value.",
+        "translation": "소형과 중형 아이템을 판매합니다. 대형 아이템을 +{aura.0} 가치로 매입합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819955,
+        "key": "a470a3ae33d41739600250321daf4824",
+        "original": "The craftsman at the Artisan Dunes offers a variety of ways to enchance your offensive items.",
+        "translation": "장인의 사구에서 장인이 당신의 공격 아이템을 다양한 방법으로 향상해줍니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819956,
+        "key": "e8975e07baa15b26a741a3e7bfb9116a",
+        "original": "This is not the end.",
+        "translation": "이것이 끝이 아닙니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819957,
+        "key": "0101b4081f557d0e8d6cd7c0dc41f555",
+        "original": "Fight Mr. Moo",
+        "translation": "음메 씨와 싸웁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819958,
+        "key": "2ef082a3feb31bae8be21c4bec1e6633",
+        "original": "Get a Medkit (+Heal).",
+        "translation": "의료 키트(+회복량)를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819959,
+        "key": "46f516e0c2b3d8250fa6c81369ab68fe",
+        "original": "Gain a Weapon skill.",
+        "translation": "무기 스킬을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819960,
+        "key": "d4000466a40c49fe6ae88d5a13da605b",
+        "original": "Get a Diamond-tier Extract.",
+        "translation": "다이아몬드 등급 추출물을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819961,
+        "key": "fd7a428c161683b0cb3d2c96e6240eee",
+        "original": "Upgrade your leftmost Weapon.",
+        "translation": "내 가장 왼쪽에 있는 무기를 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819962,
+        "key": "989ec197c6025cc61687cd0b6ab597f9",
+        "original": "This is an Encounter Step Template.",
+        "translation": "조우 단계 템플릿입니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819963,
+        "key": "615408404b6e4bccedf9136f043e2bed",
+        "original": "Next, choose an skill",
+        "translation": "다음으로, 스킬을 선택하세요",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819964,
+        "key": "2ab0db4c644fd6b4db709e10641e51d0",
+        "original": "A cute but mysterious creature",
+        "translation": "귀엽지만 정체를 알 수 없는 생물",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819965,
+        "key": "865d4ee8acddb86925421a42402b1f20",
+        "original": "Upgrade a Bronze-tier item",
+        "translation": "브론즈 등급 아이템을 강화합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819966,
+        "key": "2e39736b5ed3cd62ea73ef2ccc905204",
+        "original": "Get a Silver-tier Property.",
+        "translation": "실버 등급 자산을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819967,
+        "key": "889999cbb99f21e2c4837ed59e82023e",
+        "original": "Get a Gold-tier Tool.",
+        "translation": "골드 등급 도구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819968,
+        "key": "7c7ea350186575ff5c65f603574ebaaa",
+        "original": "Sells Tools",
+        "translation": "도구를 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819969,
+        "key": "23e7dc79250cbad915f178814b8b6ef9",
+        "original": "Gain a Toughness or Shield skill",
+        "translation": "강인함 또는 보호막 스킬을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819970,
+        "key": "f4e76492d7c6df14efd71b63373528be",
+        "original": "Get {ability.0} Bronze-tier Chocolate Bars.",
+        "translation": "브론즈 등급 초코바를 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819971,
+        "key": "d46465452773aae95e7ed1bab786fd75",
+        "original": "The wallet was full of Gold.",
+        "translation": "지갑이 골드로 가득찼습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819972,
+        "key": "2c895aee959658f7854cd89547b423fb",
+        "original": "Get a Property.",
+        "translation": "자산을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819973,
+        "key": "fb1cac8faee547a8081e5f4cfb3d1978",
+        "original": "Transform your items into something new.",
+        "translation": "아이템을 새로운 무언가로 변환합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819974,
+        "key": "1b3162e40b31b1e0a712cd6836747899",
+        "original": "Sells Aquatic items",
+        "translation": "수중 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819975,
+        "key": "8588f2e689486130ba251a0be26fd00a",
+        "original": "Get a Silver-tier Weapon.",
+        "translation": "실버 등급 무기를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819976,
+        "key": "038c0dacd44d2e976e43afbbcc7e6949",
+        "original": "Get a Gumball. [Gumballs Remaining: 5]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 5]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819977,
+        "key": "c2babbab7f59783ebd8a54892b272f32",
+        "original": "Upgrade your leftmost Friend.",
+        "translation": "내 가장 왼쪽에 있는 친구를 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819978,
+        "key": "e8bca2780c2b702ba4c4ea18133ea4bc",
+        "original": "Get a Dinosaur.",
+        "translation": "공룡을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819979,
+        "key": "74efdff37a81a27a847de0b37dda657c",
+        "original": "Get a Gumball. [Gumballs Remaining: 9]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 9]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819980,
+        "key": "049784000e31e7fc2ac70c057fefcdd4",
+        "original": "You find an abandoned chest.",
+        "translation": "버려진 상자를 발견했습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819981,
+        "key": "c068eb123153fec792c3ae6282ba3aa8",
+        "original": "Get a Bronze-tier Flying item.",
+        "translation": "브론즈 등급 비행 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819982,
+        "key": "fd6b836175a33dc8b3611d702ed50324",
+        "original": "Transform your leftmost Large item into another item of the same size and tier.",
+        "translation": "내 가장 왼쪽에 있는 대형 아이템을 같은 크기와 등급의 다른 아이템으로 변환합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819983,
+        "key": "b8bfd21a0bba8fb3d0fd212e3466ffd5",
+        "original": "Enchant your leftmost Weapon",
+        "translation": "내 가장 왼쪽에 있는 무기에 마법을 부여합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819984,
+        "key": "ac110bdcf3ac9580d103f1e4f4a27c06",
+        "original": "(if you have a Toy) Choose 1 of 2 Skills.",
+        "translation": "(내가 장난감을 가지고 있다면) 2개의 스킬 중 1개를 고릅니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819985,
+        "key": "286982d1890b2924aeca8be6d3164690",
+        "original": "Attend an Economic Seminar",
+        "translation": "경제 강연에 참석합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819986,
+        "key": "3b2477187b3095d7a3ff02f9296ccf9b",
+        "original": "Stand your ground and fight for your freedom",
+        "translation": "자리를 지키고 자유를 위해 싸웁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819987,
+        "key": "036869d8b013cb246734381d768afe85",
+        "original": "Explore the Greenheart's mysterious jungle temple",
+        "translation": "그린하트의 불가사의한 정글 사원을 탐방합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819988,
+        "key": "6fa3219431508e703f111810420039f7",
+        "original": "(if you are Dooley) Get a Small Silver-tier Friend.",
+        "translation": "(내가 둘리라면) 소형 실버 등급 친구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819989,
+        "key": "6f915a299079b612974d7d220ee306d4",
+        "original": "Get a Haste item.",
+        "translation": "가속 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819990,
+        "key": "715f77f989714f02730d4b6a87d13ba5",
+        "original": "Continue on your day (this would give 1 exp)",
+        "translation": "다음 날로 넘어갑니다 (1의 경험치를 줍니다)",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756819991,
+        "key": "58b80281e337870e84be5833cd3f0652",
+        "original": "Your leftmost Weapon gains +{ability.0} Multicast.",
+        "translation": "내 가장 왼쪽에 있는 무기가 +{ability.0}의 다중시전을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819992,
+        "key": "2d93e30790056fa6ad3a0461db98c559",
+        "original": "Take a chance on a rare event or Merchant",
+        "translation": "희귀한 이벤트나 상인을 노립니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819993,
+        "key": "f6d3057e2f702fff40c5fa17b6c32c5b",
+        "original": "Your leftmost Weapon gains {ability.0.mod} Damage for each Weapon you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 도구 하나당 (보관함 포함) 내 가장 왼쪽에 있는 무기가 {ability.0.mod}의 피해량을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819994,
+        "key": "89ee55a26ff853bdad5a6a80eaaab239",
+        "original": "Trade Health for power",
+        "translation": "체력을 대가로 힘을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819995,
+        "key": "388aefb45b3fef3ffaf382edf0a6b77a",
+        "original": "Sells Enchanted items",
+        "translation": "마법 부여된 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819996,
+        "key": "f7caf16b440f1a7060a8fde1298416a9",
+        "original": "Get {ability.0} Silver-tier Chocolate Bar or Gumballs.",
+        "translation": "실버 등급 초코바 또는 사탕껌을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819997,
+        "key": "193aedc247b3b08b6ce8e48344d6fd3c",
+        "original": "(if you have an Ice Cream Truck)\nGain {ability.0} Gold and {ability.1} XP.",
+        "translation": "(내가 아이스크림 트럭을 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819998,
+        "key": "ebc60104e7bfd6335f2e8c0f747322b9",
+        "original": "Get a Diamond-tier Aquatic item.",
+        "translation": "다이아몬드 등급 수중 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756819999,
+        "key": "344238f002f1bfd6510b7ca8302ab20d",
+        "original": "Visit one of 3 Diamond-tier Merchants",
+        "translation": "다이아몬드 등급 상인 3명 중 한 명을 방문합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820000,
+        "key": "3b128a5a0148bb338692715d4de823aa",
+        "original": "Upgrade your leftmost Property.",
+        "translation": "내 가장 왼쪽에 있는 자산을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820001,
+        "key": "4e99bf0740eb6dab0dc2ea969edff1c6",
+        "original": "Get a Relic from any hero.",
+        "translation": "임의의 영웅에게서 유물을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820002,
+        "key": "6faa315bd90cc5310f9254d68a5b15aa",
+        "original": "Get 5 Gumballs. [Gumballs Remaining: 7]",
+        "translation": "사탕껌을 5개 얻습니다. [남은 사탕껌: 7]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820003,
+        "key": "c9e7c11b3aae460e1d93d42bf2434a75",
+        "original": "Visit one of 3 Hero Merchants",
+        "translation": "영웅 상인 3명 중 한 명을 방문합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820004,
+        "key": "bce9a22118f2f2b678ff07e1d8c7794d",
+        "original": "Sells Haste items.",
+        "translation": "가속 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820005,
+        "key": "bc00c004ee16615541026a3a6cd138da",
+        "original": "Get a Gumball. [Gumballs Remaining: 7]",
+        "translation": "사탕껌을 얻습니다. [남은 사탕껌: 7]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820006,
+        "key": "6be594882dd1ff83d5368f4e4e9cb39a",
+        "original": "Get gumballs",
+        "translation": "사탕껌을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820007,
+        "key": "3fcd784eb835fc8e9cfc70aa94215aa3",
+        "original": "Get a Small non-Weapon item.",
+        "translation": "소형 비무기 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820008,
+        "key": "4a6d4ead895c13df2ca59957c0e9d69e",
+        "original": "Upgrade item",
+        "translation": "아이템을 강화합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820009,
+        "key": "05c96c581cb9f9f6916dae606b8e8dd2",
+        "original": "Get a Bronze-tier Tech item.",
+        "translation": "브론즈 등급 테크 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820010,
+        "key": "f6e70064d2f964d1e12edfbc615b1255",
+        "original": "Your Weapon Friends gain +{ability.0} Damage.\nYour Heal Friends gain {ability.1} Heal.\nYour Shield Friends gain {ability.2} Shield.",
+        "translation": "내 무기 친구들이 +{ability.0}의 피해량을 얻습니다.\n내 회복 친구들이 +{ability.1}의 회복량을 얻습니다.\n내 보호막 친구들이 +{ability.2}의 보호막 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820011,
+        "key": "351739b17731add2a7ea4f92410364a0",
+        "original": "Get a Freeze item.",
+        "translation": "빙결 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820012,
+        "key": "18c743877b5bc86778baabef4e4ce217",
+        "original": "Get 3 citrus or coconut.",
+        "translation": "감귤류 또는 코코넛을 3개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820013,
+        "key": "accd24b707aebe3f30cc3b34e28f7f52",
+        "original": "Get a Diamond-tier Reagent.",
+        "translation": "다이아몬드 등급 시약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820014,
+        "key": "ff50eed66051a1825f6a38d3d9ee5019",
+        "original": "Get 5 Gumballs. [Gumballs Remaining: 5]",
+        "translation": "사탕껌을 5개 얻습니다. [남은 사탕껌: 5]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820015,
+        "key": "2b2711f832bee7ac09857e5849e090ff",
+        "original": "Get a Sharpening Stone (+Damage).",
+        "translation": "숫돌을(+피해량) 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820016,
+        "key": "c670210fbf709cf6ffb2288a0b522254",
+        "original": "Sells Burn items.",
+        "translation": "화상 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820017,
+        "key": "839b64ab18abd99c6530c3de61addef5",
+        "original": "Enchant your leftmost Ammo item.",
+        "translation": "내 가장 왼쪽에 있는 탄약 아이템에 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820018,
+        "key": "5ae030abec9a9a0f3d107114d2acbb8f",
+        "original": "Upgrade 2 items.",
+        "translation": "2개의 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820019,
+        "key": "7e62cf679bfc7806351abd0524b37012",
+        "original": "Get {ability.0} Gold-tier Monster Loot.",
+        "translation": "골드 등급 몬스터 전리품을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820020,
+        "key": "311c49a5a94174e66e4935223b9c56cb",
+        "original": "Gain {ability.0} Max Health.",
+        "translation": "{ability.0}의 최대 체력을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820021,
+        "key": "3d67c04d0f96fa1ea07d24ed5cb1b742",
+        "original": "Get a Small Aquatic item.",
+        "translation": "소형 수중 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820022,
+        "key": "871432889b76fc207f71720682e46781",
+        "original": "Gain a temporary boost",
+        "translation": "일시적 향상을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820023,
+        "key": "e0b7c667ea677220fc76627d09d3a08b",
+        "original": "Get 3 Loot items",
+        "translation": "전리품 아이템 3개를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820024,
+        "key": "ced68bf11d479db4dbb6756e4c58d1b0",
+        "original": "Get a Tool.",
+        "translation": "도구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820025,
+        "key": "3074e53f9face1df67a14860b9551e9d",
+        "original": "Reduce your Burn items' Cooldowns by {ability.0}%.",
+        "translation": "내 화상 아이템들의 재사용 대기시간이 {ability.0}% 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820026,
+        "key": "ad76eaa6baba00b70980bf8de32ab2b3",
+        "original": "Upgrade your Bronze-tier and Silver-tier items to Gold.",
+        "translation": "내 브론즈 등급과 실버 등급 아이템들을 골드 등급으로 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820027,
+        "key": "998691327ef5986283cbd33b50b45bb4",
+        "original": "Choose a free Poison Skill",
+        "translation": "무료 중독 스킬을 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820028,
+        "key": "e6a495f4347c817a61f2b07dad73633a",
+        "original": "Your leftmost Burn item gains +{ability.0}% Crit Chance.",
+        "translation": "내 가장 왼쪽에 있는 화상 아이템이 +{ability.0}%의 치명타 확률을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820029,
+        "key": "1aa5f95d4b90b9ae163944f2d1870660",
+        "original": "Teaches skills unique to Pygmalien",
+        "translation": "피그말리엔만의 고유한 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820030,
+        "key": "493da40160a7ae983f293f71303bc5f6",
+        "original": "Visit one of 3 Gold-tier Merchants",
+        "translation": "골드 등급 상인 3명 중 한 명을 방문합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820031,
+        "key": "732fcbed9470a174c287361a066d06bf",
+        "original": "Get a Silver-tier Flying item.",
+        "translation": "실버 등급 비행 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820032,
+        "key": "d93044c29ac43ac537123f714e72c30e",
+        "original": "Get a Gold-tier Extract.",
+        "translation": "골드 등급 추출물을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820033,
+        "key": "40dacbff9882b073d5052c3519e874c6",
+        "original": "Get a Silver-tier Ammo item.",
+        "translation": "실버 등급 탄약 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820034,
+        "key": "40358cfbcf4466fb1fc5c1082a1fc0c7",
+        "original": "Survive the toxic fumes",
+        "translation": "독성 연기에서 살아남으세요",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820035,
+        "key": "c21fca4aed77d393b89b9bf871d3e8df",
+        "original": "Get a Weapon.",
+        "translation": "무기를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820036,
+        "key": "db778a02008b4d32cf36f393a95e1c24",
+        "original": "Get {ability.0} Silver-tier Monster Loot items",
+        "translation": "실버 등급 몬스터 전리품 아이템을 {ability.0}개 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820037,
+        "key": "cef586bbffb8f1f98aa0c217993c41a1",
+        "original": "Teaches Freeze skills",
+        "translation": "빙결 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820038,
+        "key": "dba6663d2c1e222ffd3f305ff2a8d0ca",
+        "original": "Sells Vehicles",
+        "translation": "탈것을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820039,
+        "key": "2e93472b2e8fe9c7cfb1ec2e3906b919",
+        "original": "Choose 1 of 3 Legendary Relics",
+        "translation": "3개의 전설 등급 유물 중 1개를 고릅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820040,
+        "key": "05d51ba6b0d536d9fda093ebd7839cab",
+        "original": "Have a glimpse of what the future holds",
+        "translation": "미래에 일어날 일을 엿봅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820041,
+        "key": "6a12f0b953172c7d9755c022e9cbad7f",
+        "original": "Get an Economy item.",
+        "translation": "경제 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820042,
+        "key": "de133474019aa33244644f9db2a59819",
+        "original": "Get {ability.0} Enchanted Potions.",
+        "translation": "마법 부여된 물약을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820043,
+        "key": "63ca1e81454eeee8bda154416d30a7ce",
+        "original": "Sells Freeze items.",
+        "translation": "빙결 아이템을 판매합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820044,
+        "key": "2e141bc2181aeec2fbe7964721959c1d",
+        "original": "Double your Income",
+        "translation": "수입을 두 배로 늘립니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820045,
+        "key": "8224ac07384fe7c406ffa4a14cfdae55",
+        "original": "Visit the Artist.",
+        "translation": "화가를 방문합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820046,
+        "key": "f2fcc260fd82a8c1ae5b2fe60986386a",
+        "original": "Get {ability.0} Gold-tier Chocolate Bar or Gumballs.",
+        "translation": "골드 등급 초코바 또는 사탕껌을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820047,
+        "key": "0b795716b8d53a8ab744dbf1e52aab60",
+        "original": "You gain 5% Max Health [{ability.0}] and your Heal items gain {ability.1} Heal.",
+        "translation": "5%의 최대 체력을 [{ability.0}] 얻고 내 회복 아이템들이 {ability.1}의 회복량을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820048,
+        "key": "2e04df22625e6e5fe590b01dac095792",
+        "original": "You gain 5% Max Health [{ability.0}] and your Shield items gain {ability.1} Shield.",
+        "translation": "5%의 최대 체력을 [{ability.0}] 얻고 내 보호막 아이템들이 {ability.1}의 보호막 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820049,
+        "key": "1dbf87a255644711af5f620ab651c99d",
+        "original": "Get a Diamond-tier Property.",
+        "translation": "다이아몬드 등급 자산을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820050,
+        "key": "a32a24a969ca8d1b3996b698a4cdb1a4",
+        "original": "Get a Small Burn item.",
+        "translation": "소형 화상 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820051,
+        "key": "9bb4b8153c6e715f24ea78e1b255422a",
+        "original": "Get {ability.0} Piggles, then upgrade all your Piggles.",
+        "translation": "피글스를 {ability.0}개 얻고, 내 모든 피글스를 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820052,
+        "key": "3407087f668cd4e3f700c3b926928e76",
+        "original": "Sells Health, Speed, Strength and Toughness items",
+        "translation": "체력, 속도, 근력, 강인함 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820053,
+        "key": "a088f93cf48e1bc5fcdfe21eb47bed62",
+        "original": "Get a Bronze-tier Extract.",
+        "translation": "브론즈 등급 추출물을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820054,
+        "key": "124fcc19052e30e6e7b0df6ad47ce0c3",
+        "original": "Get a Diamond-tier Friend.",
+        "translation": "다이아몬드 등급 친구를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820055,
+        "key": "32dfe2f0b30514f54bc59b0377b3760e",
+        "original": "Stelle's sister shows up to get her to come home.",
+        "translation": "스텔의 언니가 스텔을 집으로 데려오려고 모습을 드러냈습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820056,
+        "key": "9dab424fd007ad9b23d6e708dbe71788",
+        "original": "Dare to risk some coin?",
+        "translation": "돈을 걸어볼 용기가 있습니까?",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820057,
+        "key": "42735e6ca2287d966f9243a2c89014b4",
+        "original": "Sells Burn, Poison, Freeze, and Slow items",
+        "translation": "화상, 중독, 빙결, 둔화 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820058,
+        "key": "f18d5da6861947538b0105c3757722ed",
+        "original": "Gain {ability.0.mod} Max Health per Level. [{ability.0}]",
+        "translation": "레벨당 {ability.0.mod}의 최대 체력을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820059,
+        "key": "7e829e4176a41dbdda06f018324912cb",
+        "original": "Lose 5% Max Health [{ability.0}].",
+        "translation": "5%의 최대 체력을 잃습니다 [{ability.0}].",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820060,
+        "key": "6ab505e71f0f7512e326951c0b3023a1",
+        "original": "(if you have Star Chart)\nGain {ability.0} Gold and {ability.1} XP.",
+        "translation": "(내가 별자리 지도를 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820061,
+        "key": "ad51f5f99aa291be08d353410302ccfa",
+        "original": "Get {ability.0} Silver-tier Monster Loot.",
+        "translation": "실버 등급 몬스터 전리품을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820062,
+        "key": "bdd82103e1be03905f18014c953e105c",
+        "original": "Improve your Ammo items.",
+        "translation": "내 탄약 아이템을 개선합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820063,
+        "key": "2c6c6241ad1e36d66bf0cafa31c1dbf3",
+        "original": "Gain a Gold-tier skill.",
+        "translation": "골드 등급 스킬을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820064,
+        "key": "aff687fff38230c7887c7ef46f7cef6a",
+        "original": "Test your build against the Sparring Partner.",
+        "translation": "스파링 상대와 장비를 시험합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820065,
+        "key": "32ae1da6c0116daf7221cd349d38cb63",
+        "original": "Lose 20% Max Health [{ability.0}] and Enchant your leftmost Weapon with Deadly (Crit Chance).",
+        "translation": "최대 체력을 20% 잃고 [{ability.0}] 내 가장 왼쪽에 있는 무기에 치명적인(치명타 확률) 마법을 부여합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820066,
+        "key": "ce1eafcfd7be0bb9ab6f38314f27b0dd",
+        "original": "Get {ability.0} Eagle Talisman (+Crit Chance).",
+        "translation": "독수리의 부적을 (+치명타 확률) {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820067,
+        "key": "93976743e30ebb6ccb1cce90fa18b4eb",
+        "original": "Study the blacksmith working silently in the back of their shop.",
+        "translation": "상점 뒤쪽에서 조용히 일하는 대장장이를 관찰합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820068,
+        "key": "db6a4fa71aad2c3411dbe653354c6d85",
+        "original": "Endure the trial of pain",
+        "translation": "고통의 길을 견뎌내세요",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820069,
+        "key": "618a9390ee2313298441a1655eb0669a",
+        "original": "Get a Small Heal or Regen item.",
+        "translation": "소형 회복 또는 재생 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820070,
+        "key": "ea0242ee46149f14863abfe8f8de8c46",
+        "original": "Get a Bronze-tier Weapon.",
+        "translation": "브론즈 등급 무기를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820071,
+        "key": "24076ee319cfde4953729a579fb4d5c6",
+        "original": "Return to the Bazaar and purge the toxins.",
+        "translation": "바자르로 돌아가 독소를 제거합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820072,
+        "key": "5f1fe4edb2f0dc0e4e1eab268c98cd84",
+        "original": "Get {ability.0} Gold and a Silver-tier Loot item.",
+        "translation": "실버 등급 전리품 아이템과 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820073,
+        "key": "eb04eca086d7cf1c7ab9d2a76a5a5830",
+        "original": "Get an item",
+        "translation": "아이템을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820074,
+        "key": "1e6141e7e8b8b43446a63865333a364c",
+        "original": "Gain {ability.0} Medkit (Healing).",
+        "translation": "의료 키트(+회복량) {ability.0}개를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820075,
+        "key": "8663e626d6fe6ac077936db223103741",
+        "original": "See all that the Bazaar has to offer",
+        "translation": "바자르에서 판매하는 것을 둘러봅니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820076,
+        "key": "03173013f68c68c6951ca5eff097feaf",
+        "original": "Sells Relics from any Hero",
+        "translation": "모든 영웅의 유물을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820077,
+        "key": "167a896cedf9aa069eff8dd106ef2edb",
+        "original": "Sells Monster Skills",
+        "translation": "몬스터 스킬을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820078,
+        "key": "3b55173573549012e3d1db6f6e483d41",
+        "original": "Thanks for the investment!",
+        "translation": "투자해 주셔서 감사합니다!",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820079,
+        "key": "e0922bd8ff77464ba1a212311a0ad37e",
+        "original": "Gain {ability.1} Gold and {ability.0} XP",
+        "translation": "{ability.1}개의 골드와 {ability.0}의 경험치를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820080,
+        "key": "3f799852522bd39ff7dae8d061eae2c3",
+        "original": "(if you have a Solar Farm)\nGain {ability.0} Gold and {ability.1} XP.",
+        "translation": "(내가 태양광 발전소를 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820081,
+        "key": "6414634593f06bf7b612daf87270a6ab",
+        "original": "Get {ability.0} Bronze-tier Chocolate Bar or Gumballs.",
+        "translation": "브론즈 등급 초코바 또는 사탕껌을 {ability.0}개 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820082,
+        "key": "631c999379cf11aed697f846b62d2167",
+        "original": "An echo of the past. A vision of the future.",
+        "translation": "과거의 메아리. 미래의 시야.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820083,
+        "key": "0dfb607221ae45f6fc905b24d9c4fd9c",
+        "original": "Gain Regen equal to twice your level. [{ability.0}]",
+        "translation": "내 레벨의 두 배만큼 재생을 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820084,
+        "key": "7b3a051a7cbb139d181333c3b75bc558",
+        "original": "Get a Ritual Dagger.",
+        "translation": "의식용 단검을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820085,
+        "key": "898d3db199b4ae35be468423742f7f11",
+        "original": "(if you are Vanessa) Get a Small Silver-tier Weapon or Apparel from any Hero.",
+        "translation": "(내가 바네사라면) 임의의 영웅에게서 소형 실버 등급 무기 또는 의류를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820086,
+        "key": "09187b48f676b9a01ab7c289aab42fd3",
+        "original": "Your Heal items gain {ability.0} Heal for the rest of the day.",
+        "translation": "내 회복 아이템들이 남은 하루 동안 {ability.0}의 회복량을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820087,
+        "key": "b7ab0ac71b1ec6729793854f55934996",
+        "original": "Teaches Heal and Regen skills",
+        "translation": "회복과 재생 스킬을 가르칩니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820088,
+        "key": "415e207e3f4184c1831c388da045d95a",
+        "original": "Improve your Burn items.",
+        "translation": "화상 아이템을 개선합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820089,
+        "key": "2abfa0553e242434cbda336ec9af6755",
+        "original": "Get a Poison item.",
+        "translation": "중독 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820090,
+        "key": "4454cb1dbb33e13174b1854856ec405c",
+        "original": "Transform your leftmost Medium item into another item of the same size and tier.",
+        "translation": "내 가장 왼쪽에 있는 중형 아이템을 같은 크기와 등급의 다른 아이템으로 변환합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820091,
+        "key": "c534a342fba01c25e0173dffd6b9388e",
+        "original": "Your leftmost Weapon gains +{ability.0}% Crit Chance.",
+        "translation": "내 가장 왼쪽에 있는 무기가 +{ability.0}%의 치명타 확률을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820092,
+        "key": "b8a50a6ded6ec164e194653991141b09",
+        "original": "Make a pitch for a financial boost",
+        "translation": "재정 지원을 위한 제안을 합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820093,
+        "key": "ae2a084a909e430d4fbfbcab43248c4d",
+        "original": "Get a Gold-tier Reagent.",
+        "translation": "골드 등급 시약을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820094,
+        "key": "c78b0bd74515c199b6a862d26a6403fd",
+        "original": "Get a Truffle.",
+        "translation": "트러플을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820095,
+        "key": "d5e596622e6c087815ec177aadca3948",
+        "original": "Get a Silver-tier Sharpening Stone (+Damage), Extract (+Poison) and Cinders (+Burn).",
+        "translation": "실버 등급 숫돌 (+피해량), 추출물 (+중독 수치), 불씨 (+화상 수치)를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820096,
+        "key": "c21274e5029fc468b6408e8ebe04bdfe",
+        "original": "Your leftmost Shield item gain {ability.0.mod} Shield per Level. [{ability.0}]",
+        "translation": "내 가장 왼쪽에 있는 보호막 아이템이 내 레벨당 {ability.0.mod}의 보호막 수치를 얻습니다. [{ability.0}]",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820097,
+        "key": "37d4d37d4288722abd69d64dbfb1abb3",
+        "original": "Get a Gold-tier Flying item.",
+        "translation": "골드 등급 비행 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820098,
+        "key": "183dce716e0ab8fd7fb39be8581f5836",
+        "original": "Get a Gold or Diamond-tier item.",
+        "translation": "골드 또는 다이아몬드 등급 아이템을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820099,
+        "key": "73dd984cc18db0df0aca902febc208ca",
+        "original": "Upgrade Your Core.",
+        "translation": "내 코어를 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820100,
+        "key": "2141fcea92f4b8d8d11447763a23c2d1",
+        "original": "Get {ability.0} Gold and a Gold-tier or Diamond-tier Loot item.",
+        "translation": "골드 또는 다이아몬드 등급 전리품 아이템과 {ability.0}개의 골드를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820101,
+        "key": "faf213560d39766eb3855776d26b53e6",
+        "original": "Sells Large items",
+        "translation": "대형 아이템을 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820102,
+        "key": "0fcbd61448a6695fbd84be48b12a5a60",
+        "original": "Gain 2 Income. If you have a Property, gain an additional 2 Income.",
+        "translation": "2의 수입을 얻습니다. 내가 자산을 갖고 있다면, 2의 추가 수입을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820103,
+        "key": "47aae84d3aa13ab9f660560c77f5f8fb",
+        "original": "Next, choose a Starting Package",
+        "translation": "다음으로, 시작 패키지를 선택하세요",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 756820104,
+        "key": "739ff41e8acf12a2f397c9d2638659cb",
+        "original": "Keep the wallet for yourself.",
+        "translation": "지갑을 가져갑니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820105,
+        "key": "c93ceac4c6a42c67fe2c339c9a26d4f9",
+        "original": "Recover {ability.0} Prestige",
+        "translation": "{ability.0}의 명성을 복구합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 756820106,
+        "key": "7a620388718cf3dfad6e09db2dc2ad31",
+        "original": "Reduce your Aquatic items' Cooldowns by {ability.0}%.",
+        "translation": "내 수중 아이템들의 재사용 대기시간이 {ability.0}% 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834938,
+        "key": "f2027e553ab6e79b6b8f79745a5f515d",
+        "original": "Your leftmost item gains the Relic type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 유물 타입을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834939,
+        "key": "76f9604e6ec996905132cb88ad0af7b8",
+        "original": "Gain {ability.0} Gold and {ability.1} XP.",
+        "translation": "{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834940,
+        "key": "cd10cc771b6dea8696df7152799dd064",
+        "original": "Roughtown Kyvers: {aura.3}\nRiver District Rogues: {aura.4}",
+        "translation": "러프타운의 카이버들: {aura.3}\n강가의 도적들: {aura.4}",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834941,
+        "key": "b2752f03461a67278b91ba876c8468ee",
+        "original": "Purchase an item from this Hero (no rerolls)",
+        "translation": "이 영웅한테서 아이템을 구매합니다 (새로고침 없음)",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834942,
+        "key": "9ea89b09286740880808503f7efccf2f",
+        "original": "Your leftmost item gains the Vehicle type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 탈것 타입을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834943,
+        "key": "476e64516f64d4dbc481ffba46dc7d1e",
+        "original": "Destroy all your non-Legendary items and get Gold equal to their value, then collect your membership items.",
+        "translation": "내 모든 비전설 등급의 아이템들을 파괴하고 해당 가치와 동일한 골드를 얻은 뒤, 멤버십의 아이템들을 수집합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834944,
+        "key": "f257d93cb23ea0387244c2cb43f76e94",
+        "original": "Gain 2 XP.",
+        "translation": "2의 경험치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834945,
+        "key": "e924a8269452284b0f1bd0c987835943",
+        "original": "Your leftmost item gains the Food type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 음식 타입을 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834946,
+        "key": "ece34fd1fb8f9652562d59abad81e81e",
+        "original": "Randomizes and upgrade all your items",
+        "translation": "내 모든 아이템들을 무작위로 바꾸고 강화합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834947,
+        "key": "acc7ff7c4f3f8f731484d21336c722e2",
+        "original": "Gain {ability.0} XP and +10% Max Health. [{ability.1}]",
+        "translation": "{ability.0}의 경험치를 얻고 +10%의 최대 체력을 얻습니다. [{ability.1}]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834948,
+        "key": "168a2b6f1863a8f293849abdac9d2fbb",
+        "original": "(if you have Gatling Gun)\nGive your weapons +{ability.0} damage and you gain {ability.1} XP.",
+        "translation": "(내가 게틀링 건을 가지고 있다면)\n내 무기들에 +{ability.0}의 피해량을 부여하고 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834949,
+        "key": "20a6c89d67ce6f2f9eff1f6fba19e727",
+        "original": "Pick a Chest containing up to 30 Gold",
+        "translation": "최대 30골드가 들어 있는 상자를 선택한다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834950,
+        "key": "f626cb5f78ca7a1cab63300fc8dcd261",
+        "original": "Sells Crit items from any Hero",
+        "translation": "모든 영웅의 치명타 아이템을 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834951,
+        "key": "ba3865312c4074e094de3407f7e8d7dc",
+        "original": "Your Weapons gain +{ability.0} Damage.",
+        "translation": "내 무기들이 +{ability.0}의 피해량을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834952,
+        "key": "e55931d77a186024b2202e3c538179d1",
+        "original": "Purchase an item from this Hero (no reroll)",
+        "translation": "이 영웅한테서 아이템을 구매합니다 (새로고침 없음)",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834953,
+        "key": "e4ca1bd093860f63ed12696892e1402e",
+        "original": "(if you have Space Laser)\nReduce the Space Laser's cooldown by {ability.0} seconds.",
+        "translation": "(내가 우주 레이저를 가지고 있다면)\n우주 레이저의 재사용 대기시간이 {ability.0}초 감소합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834954,
+        "key": "854cc9b0f384e40f902074fb7b5614b8",
+        "original": "Get {ability.0} Reagents, then transform your Reagents.",
+        "translation": "시약을 {ability.0}개 얻고, 내 시약들을 변환합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834955,
+        "key": "7fdecbbef4dcf0480535d3dbe6841710",
+        "original": "Get a Tech item.",
+        "translation": "테크 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834956,
+        "key": "32cd56497636d69f3564fb8ddbdc5edb",
+        "original": "Your leftmost item gains the Apparel type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 의류타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834957,
+        "key": "61db7acbc9b7a9ddb5ebb0f422c766fa",
+        "original": "FREE for Cult Members!\nPick a Chest containing a Legendary item",
+        "translation": "광신도라면 무료!\n전설 등급 아이템이 들어있는 상자를 선택하세요",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834958,
+        "key": "b3f4530b7d5dfc588d41503a1bc264bc",
+        "original": "Large item spawning test",
+        "translation": "대형 아이템 생성 실험",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834959,
+        "key": "55258edeb4e9d00eee916762198d9c21",
+        "original": "Pick a Chest containing up to 3 XP",
+        "translation": "최대 3 경험치가 들어 있는 상자를 선택한다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834960,
+        "key": "076ca7d832a046d9d635556a0afe63b8",
+        "original": "Gain {ability.0} Income and {ability.1} XP",
+        "translation": "{ability.0}의 수입과 {ability.1}의 경험치를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834961,
+        "key": "f6815a5830c627a234d819890f285b3d",
+        "original": "Your leftmost item gains the Property type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 자산 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834962,
+        "key": "1f932e276783d2fc83da6d423de6bab6",
+        "original": "Your leftmost item gains the Dinosaur type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 공룡 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834963,
+        "key": "d72603b23bd9619ae20f3773faa569bc",
+        "original": "Your leftmost item gains the Tool type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 도구 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834964,
+        "key": "e87b58551f44a17910ecc6b80d68f7df",
+        "original": "Get an enchanted small Bronze-tier item.",
+        "translation": "마법 부여된 소형 브론즈 등급 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834965,
+        "key": "1c5ed26d2d9d18dbe1295f88e72e1438",
+        "original": "Get a Small Tech item.",
+        "translation": "소형 테크 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834966,
+        "key": "e925083bc43c1d5861784e0b6fba544c",
+        "original": "Be all that you can be with Sergeant Suds (Give Types to your items)",
+        "translation": "서즈 하사와 함께 당신이 할 수 있는 최선을 다하세요 (내 아이템들에 타입을 부여합니다)",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834967,
+        "key": "2c0070ff77cb76d5efacc178909c2e21",
+        "original": "Get 3 Small Enchanted items from the Bazaar.",
+        "translation": "바자르에서 3개의 마법 부여된 소형 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834968,
+        "key": "8553d8d685904d721ba1f2fc39e4c77a",
+        "original": "(if you have Vending Machine)\nGain {ability.0} Gold.",
+        "translation": "(내가 자판기를 가지고 있다면)\n{ability.0}개의 골드를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834969,
+        "key": "252455b32bb301534ee1b2625585c6ca",
+        "original": "See the hometown Roughtown Kyvers take on the River District Rogues",
+        "translation": "홈팀 러프타운의 카이버들과 강가의 도적들이 맞붙습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834970,
+        "key": "2ebb86e655e216e49a72e8de309261ce",
+        "original": "(if you have Marbles)\nGain {ability.0} XP.",
+        "translation": "(내가 구슬을 가지고 있다면)\n{ability.0}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834971,
+        "key": "fcbea23b8ef249f9e7c396d652312e0e",
+        "original": "Get {ability.0} Gold and a Catalyst.",
+        "translation": "{ability.0}개의 골드와 촉매제를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834972,
+        "key": "d91e6aad775d25541b834bfc8cfb97f9",
+        "original": "Choose this Chest",
+        "translation": "이 상자를 고른다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834973,
+        "key": "13c9ff4463bbb168019052cd5fae1b1f",
+        "original": "(if you have Billboard)\nGain {ability.0} Income and {ability.1} XP.",
+        "translation": "(내가 광고판을 가지고 있다면)\n{ability.0}의 수입과 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834974,
+        "key": "f5c84b7fa218c4ab3da2533603d0fb41",
+        "original": "Gain 5% Max Health [{ability.0}] and {ability.1} XP.",
+        "translation": "5%의 최대 체력 [{ability.0}]과 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834975,
+        "key": "df78b1e84a3a52161ecf82304a1c7f41",
+        "original": "Get an Apparel item",
+        "translation": "의류 아이템을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834976,
+        "key": "4ebe78abc2f07aecad3bdb4ff2d3629e",
+        "original": "Attend a Bazball Game with Bex",
+        "translation": "벡스와 함께 바즈볼 경기를 관람합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834977,
+        "key": "dbdedec0cca9ed63c4fa3df8bccd112d",
+        "original": "Get an enchanted item.",
+        "translation": "마법 부여된 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834978,
+        "key": "d573013e7cc614d9ca47d93d5a8082f3",
+        "original": "Your leftmost item gains the Ray type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 레이 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834979,
+        "key": "2f473feb2027eb4d7e2b4bf05dc30ead",
+        "original": "You win if the hometown Roughtown Kyvers wins",
+        "translation": "홈팀 러프타운의 카이버들이 승리하면 당신도 승리합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834980,
+        "key": "43252fc501f37332b64c94318fef6989",
+        "original": "Pick a Chest containing a Legendary item",
+        "translation": "전설 등급 아이템이 들어있는 상자를 선택한다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834981,
+        "key": "90c0620aed6789f5b3757e793f32cb8c",
+        "original": "Gain {ability.0} Regen and {ability.1} XP",
+        "translation": "{ability.0}의 재생과 {ability.1}의 경험치를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834982,
+        "key": "d75b020b0235816b85f41c949d32c075",
+        "original": "Your leftmost item gains the Drone type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 드론 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834983,
+        "key": "c4747fc3836a512515d66884362b6cdc",
+        "original": "Fill your hand and board with SMGs",
+        "translation": "내 손과 보드를 SMG로 가득 채웁니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834984,
+        "key": "3c6919923ec936f0055852613dceb798",
+        "original": "Get a Food item",
+        "translation": "음식 아이템을 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834985,
+        "key": "1e76a005978bddfc72930baecbaf02fe",
+        "original": "The Kyvers defeat the Rogues {aura.3}-{aura.4}!\nYou bet {aura.5} and win {ability.1} gold, {ability.0} XP and some free merch.",
+        "translation": "카이버들이 도적들에게 {aura.3}-{aura.4}으로 이겼습니다!\n{aura.5}개의 골드를 걸어서, {ability.1}개의 골드와 {ability.0}의 경험치, 무료 기념품을 획득했습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834986,
+        "key": "813f921ca853d9c2595fa6a10db9a0ef",
+        "original": "Gain {ability.0} XP and 2 Catalyst",
+        "translation": "{ability.0}의 경험치와 2개의 촉매제를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834987,
+        "key": "2b80523e45c3ccd4a640cbdcefa1b41e",
+        "original": "(if you have a Toy or Drone) Choose 1 of 2 Skills.",
+        "translation": "(내가 장난감 또는 드론을 가지고 있다면) 2개의 스킬 중 1개를 고릅니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834988,
+        "key": "cfb9790a39daf0d5d1080c8e35712886",
+        "original": "Gain {ability.0} Income and {ability.1} XP.",
+        "translation": "{ability.0}의 수입과 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834989,
+        "key": "a9dab7eaa856d5d1bf5f811b963a20c2",
+        "original": "Take a chance on a Gold-tier or higher Encounter",
+        "translation": "골드 등급 이상의 조우를 노립니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834990,
+        "key": "b7fd0bf75c08d407ae28ab6f16677266",
+        "original": "Renounce your worldly possessions, and step into the embrace of the Cult",
+        "translation": "세속적인 것을 모두 버리고, 광신도 집단의 품에 들어갑니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834991,
+        "key": "d8645cc8bf26b2e5420b3953791df328",
+        "original": "(if you have Security Drone)\nGain {ability.0} Gold and {ability.1} XP.",
+        "translation": "(내가 보안 드론을 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834992,
+        "key": "639fa413bcd601bd88b87c4838161d5a",
+        "original": "Your leftmost item gains the Toy type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 장난감 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834993,
+        "key": "2a88cd662c714cebc7fc1423d45384c3",
+        "original": "Your leftmost item gains the Weapon type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 무기 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834994,
+        "key": "bb169b7e9131800e2eea2f69d4ce0cc4",
+        "original": "Get 5 Loot items",
+        "translation": "전리품 아이템 5개를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834995,
+        "key": "347ec68efc508c966a5c74c1737c343c",
+        "original": "The Kyvers defeat the Rogues {aura.3}-{aura.4}!\nGain {ability.0} XP.",
+        "translation": "카이버들이 도적들에게 {aura.3}-{aura.4}으로 이겼습니다!\n{ability.0}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834996,
+        "key": "399bf01bef922bf4b4e017342940b8fd",
+        "original": "Your leftmost item gains the Tech type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 테크 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834997,
+        "key": "15efef6e4459fc7e7ac1007bcd1379fa",
+        "original": "Knowledge, Wealth, or Power. Which do you seek?",
+        "translation": "지식, 부 또는 권력. 무엇을 원하는가?",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834998,
+        "key": "a3ef6db35df864269dc6d55e00dc5e37",
+        "original": "The Kyvers fall to the Rogues {aura.4}-{aura.3}!\nYou lost your bet of {aura.5} Gold.\nYou still gain {ability.0} XP.",
+        "translation": "카이버들이 도적들에게 {aura.4}-{aura.3}으로 패배했습니다!\n내기에 건 {aura.5}개의 골드를 잃습니다.\n그래도 {ability.0}의 경험치는 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764834999,
+        "key": "30d5c7fa9bf3fe3868e4c8fa22f8ef6c",
+        "original": "(if you have Darkwater Angler)\nYou gain 5% Max Health [{ability.0}] and gain {ability.1} XP.",
+        "translation": "(내가 심해의 아귀를 가지고 있다면)\n5%의 최대 체력을 [{ability.0}] 얻고 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764835000,
+        "key": "b112686db5493350fe0246b9f2800675",
+        "original": "Your leftmost item gains the Aquatic type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 수중 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764835001,
+        "key": "f030ff970ed2c02bae5660f039d5e954",
+        "original": "Your leftmost item gains the Friend type.",
+        "translation": "내 가장 왼쪽에 있는 아이템이 친구 타입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764835002,
+        "key": "4aa57f31bc3436894719a2efa7b108a6",
+        "original": "(if you have Powder Keg or The Big One)\nGain {ability.0} Gold and gain {ability.1} XP.",
+        "translation": "(내가 화약통이나 빅 원을 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764835003,
+        "key": "940a43633b69abc04c88d33b852210ae",
+        "original": "Transform and upgrade all your non-Legendary items into items from any Hero",
+        "translation": "내 모든 비전설 등급 아이템들을 임의의 영웅의 아이템으로 변형하고 강화합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764835004,
+        "key": "507dedf1e1cdef29dfc0f85e54b19325",
+        "original": "The Kyvers fall to the Rogues {aura.4}-{aura.3}!\nBut at least you got something to eat.",
+        "translation": "카이버들이 도적들에게 {aura.4}-{aura.3}으로 패배했습니다!\n그래도 먹을 건 좀 얻을 수 있겠네요.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 764835005,
+        "key": "094f8f26b23e0fe52b0fb3e26e39b264",
+        "original": "Browse the Merchant stalls",
+        "translation": "상인 노점을 둘러봅니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 765052093,
+        "key": "7ed7fe44f393cb387fdc783cabfefe8f",
+        "original": "Choose an enchanted small Bronze-tier item.",
+        "translation": "마법 부여된 소형 브론즈 등급 아이템을 고릅니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093819,
+        "key": "a7592747000998cc44970df0b72e5024",
+        "original": "(if you have a Friend) Choose a Skill.",
+        "translation": "(내가 친구를 가지고 있다면) 스킬을 고릅니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093820,
+        "key": "d5873bc694092d1d8ceed4161acfc641",
+        "original": "Get {ability.0} Extract (+Poison).",
+        "translation": "추출물을 {ability.0}개 얻습니다(+중독 수치).",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093821,
+        "key": "aff8ec5b0a0a9439566e118aa0e82f8c",
+        "original": "Upgrade your Cores. If it is already Diamond, reduce your Cores' Cooldown by {ability.0} second instead.",
+        "translation": "내 코어들을 강화합니다. 이미 다이아몬드 등급이라면, 대신 내 코어들의 재사용 대기시간이 {ability.0}초 감소합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093822,
+        "key": "1abf9dbb4012f77afa5a3aa8fd3da4b6",
+        "original": "Get a Gunpowder(+Ammo).",
+        "translation": "화약을 (+탄약) 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093823,
+        "key": "e731fcdd5b41a8c8e45111b3131d1fad",
+        "original": "(if you have a Food) Choose a Skill.",
+        "translation": "(내가 음식을 가지고 있다면) 스킬을 고릅니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093824,
+        "key": "88751cb0d5f77f044163f2aea99c4937",
+        "original": "Get {ability.0} Gumballs. [Gumballs Remaining: 8]",
+        "translation": "사탕껌을 {ability.0}개 얻습니다. [남은 사탕껌: 8]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093825,
+        "key": "dc5b9d0557d4a64829fae3df6a4098b2",
+        "original": "Get {ability.0}  Gumballs. [Gumballs Remaining: 9]",
+        "translation": "사탕껌을 {ability.0}개 얻습니다. [남은 사탕껌: 9]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093826,
+        "key": "a47b2c2ed8f297ffc53f68c6a9c0610a",
+        "original": "Get {ability.0} Gumballs. [Gumballs Remaining: 6]",
+        "translation": "사탕껌을 {ability.0}개 얻습니다. [남은 사탕껌: 6]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093827,
+        "key": "dc5f7e4716aead4b4e45cd7ca93f26b4",
+        "original": "Get {ability.0} Gumballs. [Gumballs Remaining: 10]",
+        "translation": "사탕껌을 {ability.0}개 얻습니다. [남은 사탕껌: 10]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093828,
+        "key": "42b36db733d1556e879f8507ac51f663",
+        "original": "Choose a Core",
+        "translation": "코어를 고릅니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093829,
+        "key": "2d6a08ddd1b69c96482c74e843ae14ce",
+        "original": "Select an Enchantment location.",
+        "translation": "마법 부여 장소 1개를 고릅니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093830,
+        "key": "48dc2502a731c77c4a8727735b27da17",
+        "original": "(if you have a Toy or Drone) Choose a Skill.",
+        "translation": "(내가 장난감 또는 드론을 가지고 있다면) 스킬을 고릅니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093831,
+        "key": "adf6f429d86a27c51a31dfa61e968e05",
+        "original": "Renounce your worldly possessions, and step into the embrace of the Cult\n(There is no turning back from this)",
+        "translation": "세속적인 것을 모두 버리고, 광신도 집단의 품에 들어갑니다\n(들어가면 돌이킬 수 없습니다!)",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093832,
+        "key": "2d83ec5a62421d36a06c3c0466ca4d61",
+        "original": "Get {ability.0}  Gumballs. [Gumballs Remaining: 7]",
+        "translation": "사탕껌을 {ability.0}개 얻습니다. [남은 사탕껌: 7]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093833,
+        "key": "e6e9bec512aff5c8aebaa12f10f7e07a",
+        "original": "Get {ability.0} citrus or coconut.",
+        "translation": "감귤류 또는 코코넛을 {ability.0}개 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093834,
+        "key": "acd1ac03b61580905c219032afee08eb",
+        "original": "Get {ability.0}  Gumballs. [Gumballs Remaining: 5]",
+        "translation": "사탕껌을 {ability.0}개 얻습니다. [남은 사탕껌: 5]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093835,
+        "key": "72be964e9fd29dbaca1b4337cbd9cb7f",
+        "original": "Upgrade {ability.0.targets} items.",
+        "translation": "아이템을 {ability.0.targets}개 강화합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093836,
+        "key": "00bc1f903dd2bc56c24c0c408293d7f1",
+        "original": "Get {ability.0}  Loot items",
+        "translation": "전리품 아이템 {ability.0}개를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093837,
+        "key": "5d23e82aafac6144c849b66100a1b15f",
+        "original": "Choose a Legendary Relic",
+        "translation": "전설 등급 유물 1개를 고릅니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093838,
+        "key": "d6d8e0c9852280e2043735bbc204706e",
+        "original": "Bet on the hometown Roughtown Kyvers to win against the River District Rogues",
+        "translation": "홈팀 러프타운의 카이버들이 강가의 도적들을 이긴다에 건다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093839,
+        "key": "9f4ab6b20d7f9fe3df15edf078074367",
+        "original": "Gain {ability.0} Income. If you have a Property, gain an additional {ability.1} Income.",
+        "translation": "{ability.0}의 수입을 얻습니다. 내가 자산을 갖고 있다면, {ability.1}의 추가 수입을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 771888866,
+        "key": "f819cc5b0d3ce62e39a1efed61540596",
+        "original": "Double the effects of the Artisans' options.",
+        "translation": "장인의 선택지들의 효과가 두 배가 됩니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736546,
+        "key": "cebb8ff990d70bac5cacc973b7ad44e8",
+        "original": "One of your slots becomes a Stove (The items here is Heated)",
+        "translation": "내 슬롯 중 하나가 열원이 됩니다(이곳에 있는 아이템들이 가열됩니다)",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736547,
+        "key": "24cec4a421a77359ec863ab097cc00d1",
+        "original": "Gives you {ability.0} Gold and teaches Bronze-tier Skills.",
+        "translation": "{ability.0}개의 골드를 얻고 브론즈 등급 스킬을 가르칩니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736548,
+        "key": "e7554ce0602c39c1f3e6c0e05e8647bc",
+        "original": "Comfort Laurel",
+        "translation": "로렐을 위로합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736549,
+        "key": "6419ac4556eed8201c3b928bbc8072f3",
+        "original": "Get an Food item.",
+        "translation": "음식 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736550,
+        "key": "b9c3d47d103150b139ac31eb02ef1961",
+        "original": "(if you have a Weakpoint Detector)\nGain {ability.0} XP.",
+        "translation": "(내가 약점 탐지기를 가지고 있다면)\n{ability.0}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736551,
+        "key": "3164d1bae44333632f9ba0c56bfadb6d",
+        "original": "Pick a Chest containing up to {aura.9} Gold",
+        "translation": "최대 {aura.9}개의 골드가 들어있는 상자를 선택한다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736552,
+        "key": "29d497c6d6e5127a4dbcabe1e2c430d1",
+        "original": "(if you have a Riceballer)\nGain {ability.1} Cinders and {ability.0} XP.",
+        "translation": "(내가 주먹밥 튀김기를 가지고 있다면)\n{ability.1}개의 불씨와 {ability.0}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736553,
+        "key": "ed44fabb6a2698ffd51d8c43440dca6b",
+        "original": "(if you have Space Laser)\nIncrease the Space Laser's Crit Chance by {ability.0}%.",
+        "translation": "(내가 우주 레이저를 가지고 있다면)\n우주 레이저의 치명타 확률이 {ability.0}% 증가합니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736554,
+        "key": "8844dd0c833c39a31a48cc54cd51d9e7",
+        "original": "Try one of Likit's new treats",
+        "translation": "리키트의 새로운 간식을 먹어본다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736555,
+        "key": "ea0d16e0f2f273636469ba3721b37691",
+        "original": "Pick a Chest containing up to {aura.9} XP",
+        "translation": "최대 {aura.9}의 경험치가 들어있는 상자를 선택한다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736556,
+        "key": "2d8561af8d301b7566fd40f28ac910bd",
+        "original": "Return to the previous options",
+        "translation": "이전 선택지로 돌아간다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736557,
+        "key": "007f4d76374b9cbc91b8ec88376d6273",
+        "original": "Get a Gold-tier Food.",
+        "translation": "골드 등급 음식을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736558,
+        "key": "5d077af888c7204d680aa0ae72f26bb6",
+        "original": "Choose to add a Stove or Cooler to your board",
+        "translation": "열원 또는 냉원을 보드에 설치하기 위해 고릅니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736559,
+        "key": "444c9b86ef27896a8fbd7acd6eea9a32",
+        "original": "One of your slots becomes a Cooler (The item here is Chilled)",
+        "translation": "내 슬롯 중 하나가 냉원이 됩니다(이곳에 있는 아이템이 냉각됩니다)",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736560,
+        "key": "db414e1b7930a82e59eec8698cb2353f",
+        "original": "Get a consultation to improve your kitchen",
+        "translation": "주방을 개선하기 위해 상담을 받습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736561,
+        "key": "0b900c38cbd03ca6b2b13b380d6badf0",
+        "original": "Get a Diamond-tier Food.",
+        "translation": "다이아몬드 등급 음식을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736562,
+        "key": "dd337a631fe95962d3ee027f40dbfdad",
+        "original": "Sells Tech items from any Hero",
+        "translation": "모든 영웅의 테크 아이템을 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736563,
+        "key": "9e0efe56a25f71df5239832ea9ac201c",
+        "original": "Gain {ability.0.mod} Gold for each Food you have (including Stash). [{ability.0}]",
+        "translation": "내가 가진 음식 하나당 (보관함 포함) {ability.0.mod}개의 골드를 얻습니다. [{ability.0}]",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736564,
+        "key": "b8b47e6911211c8021b787de3ea5229c",
+        "original": "Get {ability.0} Diamond-tier Food items",
+        "translation": "{ability.0}개의 다이아몬드 등급 음식을 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736565,
+        "key": "a11d692ad6a2f56c31feaa9706684fc7",
+        "original": "Get an enchanted item and {ability.0} XP.",
+        "translation": "마법 부여된 아이템과 {ability.0}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736566,
+        "key": "92c7f0432ea6b868605886e248ed8c1f",
+        "original": "One of your slots becomes a Stove (The item here is Heated)",
+        "translation": "내 슬롯 중 하나가 열원이 됩니다 (이곳에 있는 아이템이 가열됩니다)",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736567,
+        "key": "7f23537c8ae6e2d010582b6d5220aefa",
+        "original": "(if you have a Giant Lollipop) Progress the quests on your Giant Lollipop by {ability.0}.",
+        "translation": "(내가 거대한 막대사탕을 가지고 있다면) 내 거대한 막대사탕의 퀘스트들의 진행도가 {ability.0}만큼 진행됩니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736568,
+        "key": "2302ec40a029db75f58b906faee91a5c",
+        "original": "(if you have a Basket) Your Basket gains +{ability.0} Shield and progresses {ability.1} on its Quests.",
+        "translation": "(내가 바구니를 가지고 있다면) 내 바구니가 +{ability.0}의 보호막 수치를 얻고 퀘스트들의 진행도가 {ability.1}만큼 진행됩니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736569,
+        "key": "bc160cb184624b9f87d0159539104e37",
+        "original": "Get a Silver-tier Food.",
+        "translation": "실버 등급 음식을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736570,
+        "key": "fc6903209c760dec683b7eb6b38a8d05",
+        "original": "(if you have an Ice Cream Truck or Pastry Cart)\nGain {ability.0} Gold and {ability.1} XP.",
+        "translation": "(내가 아이스크림 트럭이나 제과 카트를 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736571,
+        "key": "4625bbdb132cf89970c74080534ffd20",
+        "original": "Check out Jules' famous cafe for a temporary boost or get inspired",
+        "translation": "일시적인 향상을 얻거나 영감을 받기 위해 줄스의 유명한 카페를 들른다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736572,
+        "key": "c241fafc9f4519e67821f3cc1078bf8e",
+        "original": "(if you have Farmer's Market)\nYou gain 5% Max Health [{ability.0}] and gain {ability.1} Gold.",
+        "translation": "(내가 농부 시장을 가지고 있다면)\n5%의 최대 체력을 [{ability.0}] 얻고 {ability.1}개의 골드를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736573,
+        "key": "d0652efcd80a98512a83b464912b0d82",
+        "original": "Get {ability.1} Loot items and {ability.0} XP",
+        "translation": "{ability.1}개의 전리품 아이템을 얻고 {ability.0}의 경험치를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736574,
+        "key": "590fd34e500a8ebd55730af01eddcc50",
+        "original": "Your Stove slots become Cooler slots",
+        "translation": "내 열원 슬롯이 냉원 슬롯이 됩니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736575,
+        "key": "8940d4836c6403a769f48501751b6516",
+        "original": "(if you are Jules) Get a Medium Bronze-tier Food from any Hero.",
+        "translation": "(내가 줄스라면) 임의의 영웅에게서 중형 브론즈 등급 음식을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736576,
+        "key": "842e2a2b8a7a7f4d2b8129514b400982",
+        "original": "(if you have Powder Keg or the Big One)\nGain {ability.0} Gold and gain {ability.1} XP.",
+        "translation": "(내가 화약통이나 빅 원을 가지고 있다면)\n{ability.0}개의 골드와 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736577,
+        "key": "d37382372777156079e5580cececa9bf",
+        "original": "(if you have a Sat-Comm)\nGain {ability.0} Income and {ability.1} XP.",
+        "translation": "(내가 위성 통신기를 가지고 있다면)\n{ability.0}의 수입과 {ability.1}의 경험치를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736578,
+        "key": "a679661700549d5b1076712f90c8d054",
+        "original": "Get a Small Food item.",
+        "translation": "소형 음식 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736579,
+        "key": "21dcccea9b41c0d2d1a6c7e1dd3b5f40",
+        "original": "Teaches Health, Heal and Regen skills",
+        "translation": "체력, 회복, 재생 스킬을 가르칩니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 791910642,
+        "key": "218612baa434e330c9323a027ad86523",
+        "original": "Purchase an item from this Hero  ",
+        "translation": "이 영웅한테서 아이템을 구매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 791910643,
+        "key": "44cded21124946f6eb6f42d5f6e49468",
+        "original": "Get a Food item.",
+        "translation": "음식 아이템을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 791910644,
+        "key": "6b5d654ea32b70184169f3273d454e7a",
+        "original": "(if you have a Weakpoint Detector)\nGet 3 new options.",
+        "translation": "(내가 약점 탐지기를 가지고 있다면)\n새로운 3개의 선택지를 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 816968535,
+        "key": "35c372db3e335abc401c02905f0944d2",
+        "original": "Get an Economic item or skill from any Hero.",
+        "translation": "임의의 영웅에게서 경제 아이템 또는 스킬을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 816968536,
+        "key": "79fe0278422310c3b7698d12c7033151",
+        "original": "Gain {ability.0} Gold and a Shield item from any Hero",
+        "translation": "{ability.0}개의 골드를 얻고 임의의 영웅에게서 보호막 아이템을 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 816968537,
+        "key": "e9758f58e78bb869f12639b0d691ef41",
+        "original": "Jules teaches you how to use Heated or Chilled items",
+        "translation": "줄스로부터 가열되거나 냉각된 아이템을 사용하는 법을 배웁니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 816968538,
+        "key": "0f06d63174277dde1626a6d40e6b8230",
+        "original": "Gain {ability.0} Gold and a Weapon from any Hero",
+        "translation": "{ability.0}개의 골드를 얻고 임의의 영웅에게서 무기를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 816968539,
+        "key": "f64a4f3393d774adae516da022e23e57",
+        "original": "Gain {ability.0} Gold and a Tool from any Hero",
+        "translation": "{ability.0}개의 골드를 얻고 임의의 영웅에게서 도구를 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 816968540,
+        "key": "080b9387ce7d9a2a8b162f3df870e61f",
+        "original": "Get {ability.0} Economic items or skills from any Hero",
+        "translation": "임의의 영웅에게서 {ability.0}개의 경제 아이템 또는 스킬을 얻습니다",
+        "stage": 1,
+        "context": null
+    }
+]

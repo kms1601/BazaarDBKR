@@ -1,0 +1,858 @@
+[
+    {
+        "id": 757284279,
+        "key": "e0c2c509bce045d5f904bfbacb7bf241",
+        "original": "Buy 8 Tech items",
+        "translation": "테크 아이템을 8번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284280,
+        "key": "f4edb7607ee1790d6668710fe83b13fe",
+        "original": "Slow 10 times",
+        "translation": "둔화를 10번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284281,
+        "key": "44b344bf270c01dbc223f5f1819be19d",
+        "original": "When you Slow, this gains +{ability.q1} Damage and +{ability.q2} Burn for the fight.",
+        "translation": "내가 둔화를 걸 때, 이번 전투 동안 이 아이템이 +{ability.q1}의 피해량과 +{ability.q2}의 화상 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284282,
+        "key": "2cd7a6cd2f0eb3de016fc0ec3d702ec1",
+        "original": "Haste 10 times",
+        "translation": "가속을 10번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284283,
+        "key": "25e68500a5515bae95df5c056a10d3d2",
+        "original": "When you Haste, this gains +{ability.q3} Damage and +{ability.q4} Burn for the fight.",
+        "translation": "내가 가속을 걸 때, 이번 전투 동안 이 아이템이 +{ability.q3}의 피해량과 +{ability.q4}의 화상 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284284,
+        "key": "e563e4ab5876e9e5a93547dd714e8879",
+        "original": "Buy 4 Freeze items",
+        "translation": "빙결 아이템을 4번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284285,
+        "key": "749e597ba34bd04205cf14723a50528d",
+        "original": "This has +1 Multicast.",
+        "translation": "이 아이템이 +1의 다중시전을 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284286,
+        "key": "3468f5961648d798831c0eabc715a7bd",
+        "original": "Buy 5 Relics",
+        "translation": "유물을 5번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284287,
+        "key": "c59266e7c7253f5d47a34701cb69a90b",
+        "original": "When you use an adjacent Relic, Charge this {ability.q2} second(s).",
+        "translation": "내가 인접한 유물을 사용할 때, 이 아이템을 {ability.q2}초 충전합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284288,
+        "key": "627b9f838fe0eecbc957f47386c39c40",
+        "original": "Buy 6 Burn items",
+        "translation": "화상 아이템을 6번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284289,
+        "key": "f23669d30fa4c5d6012c82f1ddf429ba",
+        "original": "When you Burn, this gains {ability.q1} Burn for the fight.",
+        "translation": "내가 화상을 걸 때, 이번 전투 동안 이 아이템이 {ability.q1}의 화상 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284290,
+        "key": "81e77252416882274c85ae0a3da7d8af",
+        "original": "Have 75+ Burn on this item.",
+        "translation": "이 아이템이 75+ 화상 수치를 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284291,
+        "key": "720b811c238f0fca4a9adb42e415fbf8",
+        "original": "Buy 10 Tools",
+        "translation": "도구를 10번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284292,
+        "key": "4569b08c68ba7fac763bff746bf7e11b",
+        "original": "When you sell this, upgrade your leftmost item.",
+        "translation": "내가 이 아이템을 판매할 때, 내 가장 왼쪽에 있는 아이템을 강화합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284293,
+        "key": "b1f802f1d344167dfdd02770d8ff9f8f",
+        "original": "Buy 6 Tool or Tech items",
+        "translation": "도구 또는 테크 아이템을 6번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284294,
+        "key": "6da7c25ccaa4105d802fe378feb12ddb",
+        "original": "Sell 25 Food or Toys",
+        "translation": "음식 또는 장난감을 25번 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284295,
+        "key": "8b54741020ea6d8abef38ac880c639ac",
+        "original": "This has +{aura.q1} Damage",
+        "translation": "이 아이템이 +{aura.q1}의 피해량을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284296,
+        "key": "86a3ca3cf0e1d732ae2ee7c437fd4472",
+        "original": "Sell 50 Food or Toys",
+        "translation": "음식 또는 장난감을 50번 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284297,
+        "key": "e727d04ca3ebe43dd8999ae56ec10d80",
+        "original": "This has +{aura.q2} Multicast",
+        "translation": "이 아이템이 +{aura.q2}의 다중시전을 가집니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284298,
+        "key": "f9649801559aed03a60fb0d452b8e6d2",
+        "original": "Sell 75 Food or Toys",
+        "translation": "음식 또는 장난감을 75번 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284299,
+        "key": "1eabac2bf6570179ffaf017f4da0ec0e",
+        "original": "This item's Cooldown is reduced by {aura.q3} seconds",
+        "translation": "이 아이템의 재사용 대기시간이 {aura.q3}초 감소합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284300,
+        "key": "b803c7e4b5f8346d0fef328d00ea225a",
+        "original": "Buy 8 Poison items",
+        "translation": "중독 아이템을 8번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284301,
+        "key": "2545fd4f53572a86103b449553423eda",
+        "original": "Poison {ability.q1}",
+        "translation": "{ability.q1}의 중독을 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284302,
+        "key": "e7647747719f220645326d68e5cdaa3a",
+        "original": "Buy 8 Burn items",
+        "translation": "화상 아이템을 8번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284303,
+        "key": "cb545882963d515821697e385f2de5d7",
+        "original": "Burn {ability.q2}",
+        "translation": "{ability.q2}의 화상을 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284304,
+        "key": "b60827277cc000e9dff879fb881750a4",
+        "original": "Buy 4 Slow items",
+        "translation": "둔화 아이템을 4번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284305,
+        "key": "983e77cc78eac077008e8b21e1d4bd27",
+        "original": "Slow {ability.q3.targets} items for {ability.q3} second(s)",
+        "translation": "{ability.q3.targets}개의 아이템을 {ability.q3}초 동안 둔화시킵니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284306,
+        "key": "dfffcdabac09dd1914528493e0f624f9",
+        "original": "Freeze {ability.q4.targets} items for {ability.q4} second(s)",
+        "translation": "{ability.q4.targets}개의 아이템을 {ability.q4}초 동안 빙결시킵니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284307,
+        "key": "70e1434a40364ee4469d5101c0ebb083",
+        "original": "Poison 50 times",
+        "translation": "중독을 50번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284308,
+        "key": "00305657624bf7dd162445aceeec5259",
+        "original": "Gain Regen 40 times",
+        "translation": "재생을 40번 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284309,
+        "key": "6fad9791748969ec7e2e6ded975d29d3",
+        "original": "Gain {ability.q2} Regen for the fight",
+        "translation": "이번 전투 동안 {ability.q2}의 재생을 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284310,
+        "key": "a034697276b2f5c9d44c67d862c54aac",
+        "original": "Burn 30 times",
+        "translation": "화상을 30번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284311,
+        "key": "36a6f088dd33979a58c8db910fee18f5",
+        "original": "Burn {ability.q3}",
+        "translation": "{ability.q3}의 화상을 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284312,
+        "key": "d6591e4824c9835a1f435391873cc6dc",
+        "original": "Slow 20 times",
+        "translation": "둔화를 20번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284313,
+        "key": "9842450d1b165a659b9b68bdac725941",
+        "original": "Slow {ability.q4.targets} items for {ability.q4} second(s)",
+        "translation": "{ability.q4.targets}개의 아이템을 {ability.q4}초 동안 둔화시킵니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284314,
+        "key": "17b5e337302b11d600004391530afab5",
+        "original": "Freeze 10 times",
+        "translation": "빙결을 10번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284315,
+        "key": "a0eb79ff408c57057a4b8745c56f335d",
+        "original": "Freeze {ability.q5.targets} items for {ability.q5} second(s)",
+        "translation": "{ability.q5.targets}개의 아이템을 {ability.q5}초 동안 빙결시킵니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284316,
+        "key": "aadea40db60819e5c937f4e3fef3f534",
+        "original": "Make 150 items Fly.",
+        "translation": "아이템을 150번 비행시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284317,
+        "key": "c6cd4f6f847b97b5aa8053d8f39ad70e",
+        "original": "When you sell this, Enchant your leftmost Small item of the same or lower tier with Shiny.",
+        "translation": "내가 이 아이템을 판매할 때, 내 가장 왼쪽에 있는 같거나 낮은 등급의 소형 아이템에 반짝이는 마법을 부여합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284318,
+        "key": "9e187d16f8c3cc1cddc6088f8a38a0dd",
+        "original": "Buy 12 Weapons",
+        "translation": "무기를 12번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284319,
+        "key": "429ed383178db9e7db37b93507c8df59",
+        "original": "Buy 10 Apparel",
+        "translation": "의류를 10번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284320,
+        "key": "a6f3d814ff96c280a4d24fa2ab6f2cda",
+        "original": "This has +Damage equal to 10% of your Max Health",
+        "translation": "이 아이템이 내 최대 체력의 10%만큼 피해량을 가집니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284321,
+        "key": "550c24c219cc6ab6bbbe9bb7049c32f2",
+        "original": "Buy 8 Properties",
+        "translation": "자산을 8번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284322,
+        "key": "f90ea0a4e7ed9848fa7e4aacf38c50bb",
+        "original": "This has +Damage equal to the value of your items",
+        "translation": "이 아이템이 내 아이템들의 가치와 동일한 피해량을 가집니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284323,
+        "key": "f32b506f840c88ec72a535b865f7e95f",
+        "original": "Make 50 items Fly.",
+        "translation": "아이템을 50번 비행시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284324,
+        "key": "9fb58d6bca21ec36b2afdf02a9f7719e",
+        "original": "This has double Max Health gain.",
+        "translation": "이 아이템이 두 배의 최대 체력 증가량을 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284325,
+        "key": "0d09632f4efcecfc1988b6c39f6302bf",
+        "original": "Sell 30 Bronze Small items",
+        "translation": "소형 브론즈 아이템을 30번 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284326,
+        "key": "bd9a33b0b36fffd32f0630883fd12a2e",
+        "original": "This has +{aura.q1} Shield",
+        "translation": "이 아이템이 +{aura.q1}의 보호막 수치를 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284327,
+        "key": "2c0a6ca4786667003bba27d16047d5bc",
+        "original": "Sell 20 Silver Small items",
+        "translation": "소형 실버 아이템을 20번 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284328,
+        "key": "3a136dcf0091ff8be087e8871042dcae",
+        "original": "Sell 10 Gold Small items",
+        "translation": "소형 골드 아이템을 10번 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284329,
+        "key": "fd0b540e1c778ea0a0ae0698da63ed12",
+        "original": "Make Weapons Fly 10 times.",
+        "translation": "무기를 10번 비행시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284330,
+        "key": "30dc57fe1107b6cfe77870ded95638d4",
+        "original": "Your Flying Weapons have +1 Multicast.",
+        "translation": "내 비행 중인 무기들이 +1의 다중시전을 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284331,
+        "key": "e13794be336c15e08a418fc78881d774",
+        "original": "Make Shield items Fly 10 times.",
+        "translation": "보호막 아이템을 10번 비행시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284332,
+        "key": "5f411c79c2f10f93090124f555b19ec6",
+        "original": "Your Flying Shield items have +1 Multicast.",
+        "translation": "내 비행 중인 보호막 아이템들이 +1의 다중시전을 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284333,
+        "key": "8f15ea66816d765cb581bddbda8fb6ca",
+        "original": "Make Burn items Fly 10 times.",
+        "translation": "화상 아이템을 10번 비행시킵니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284334,
+        "key": "0d8b4a04c80eb70fd9a58aebdff1a315",
+        "original": "Your Flying Burn items have +1 Multicast.",
+        "translation": "내 비행 중인 화상 아이템들이 +1의 다중시전을 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284335,
+        "key": "22742cc0cf6afe70677d9fc3c516d2ce",
+        "original": "Complete 1 quest on another item",
+        "translation": "다른 아이템의 퀘스트를 1번 완료합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284336,
+        "key": "7c786cc6247ee10e1929f138ad3a62fc",
+        "original": "Complete 2 quests on other items",
+        "translation": "다른 아이템들의 퀘스트를 2번 완료합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284337,
+        "key": "ff594491de039ea540009f27c8df5c60",
+        "original": "Freeze {ability.q2.targets} items for {ability.q2} second(s)",
+        "translation": "{ability.q2.targets}개의 아이템을 {ability.q2}초 동안 빙결시킵니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284338,
+        "key": "dc3f46c4b1856a3f0a68d524aa8fe9cd",
+        "original": "A Weapon is used 50 times",
+        "translation": "무기를 50번 사용합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284339,
+        "key": "2d0efba9720c5d0b3739e6ca71d44756",
+        "original": "This Enchants a second item.",
+        "translation": "이 아이템이 또 다른 아이템에 마법 부여를 합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284340,
+        "key": "a670d953cd63b6bd7bffff691a7a8949",
+        "original": "Buy 6 Slow items",
+        "translation": "둔화 아이템을 6번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284341,
+        "key": "243c537e12f2bafe2c8685dfe12a59b5",
+        "original": "This item's Cooldown is reduced by {aura.q2} second.",
+        "translation": "이 아이템의 재사용 대기시간이 {aura.q2}초 감소합니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284342,
+        "key": "d4ac85ff079ac0de623da1b12cf64d89",
+        "original": "When you Poison, this gains {ability.q1} Poison for the fight.",
+        "translation": "내가 중독을 걸 때, 이번 전투 동안 이 아이템이 {ability.q1}의 중독 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284343,
+        "key": "cdc54d55cbcf14e216e99f487c70d20e",
+        "original": "Have 75+ Poison on this item.",
+        "translation": "이 아이템이 75+ 중독 수치를 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284344,
+        "key": "8f2e6b9aaeb6bbf791e4f449833b500e",
+        "original": "Buy 8 Regen items",
+        "translation": "재생 아이템을 8번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284345,
+        "key": "60edcbfa29bf808b0fa2cfab88ee38b4",
+        "original": "When you Regen, this gains {ability.q1} Regen for the fight.",
+        "translation": "내가 재생을 얻을 때, 이번 전투 동안 이 아이템이 {ability.q1}의 재생 수치를 얻습니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 757284346,
+        "key": "502e7f04181ef33d6a37db6f3330fdc9",
+        "original": "Have 75+ Regen on this item.",
+        "translation": "이 아이템이 75+ 재생 수치를 가집니다.",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834927,
+        "key": "508029cc129e6fc9d5ed160b98e18001",
+        "original": "Buy 6 Tech items",
+        "translation": "테크 아이템을 6번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834928,
+        "key": "0b14dcc59006159606f6e1c649e68006",
+        "original": "Buy 6 Poison items",
+        "translation": "중독 아이템을 6번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834929,
+        "key": "9f0d8d10288c13d56fa469bcbdf82bfb",
+        "original": "Buy 3 Slow items",
+        "translation": "둔화 아이템을 3번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834930,
+        "key": "e43cb60ccd2f56af35a8922178735054",
+        "original": "Buy 3 Freeze items",
+        "translation": "빙결 아이템을 3번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834931,
+        "key": "a114a149c93ca2e94c51db73bd4e607f",
+        "original": "Poison 30 times",
+        "translation": "중독을 30번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834932,
+        "key": "eab94b31c61e7a0cf4c31b04aca8b0c1",
+        "original": "Gain Regen 25 times",
+        "translation": "재생을 25번 얻습니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834933,
+        "key": "c8eefc8047456d547afc9eb31d6e2d8d",
+        "original": "Burn 20 times",
+        "translation": "화상을 20번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834934,
+        "key": "a5b9362315b1f9d99f56a9118526a357",
+        "original": "Slow 15 times",
+        "translation": "둔화를 15번 겁니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834935,
+        "key": "3afabd8b0a3d04ab8ef9e29f8b480bcc",
+        "original": "Buy 10 Weapons",
+        "translation": "무기를 10번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834936,
+        "key": "5febae45ceb6f97811d24658fca3d119",
+        "original": "Buy 8 Apparel",
+        "translation": "의류를 8번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 764834937,
+        "key": "b43925ff88862df000d3cf1aa7756c7a",
+        "original": "Buy 6 Properties",
+        "translation": "자산을 6번 구매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 767093815,
+        "key": "bd2d17348f176397f4a546f967406d43",
+        "original": "This has +{aura.e1} Multicast.",
+        "translation": "이 아이템이 +1의 다중시전을 가집니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093816,
+        "key": "dfac09ce0758745473de8fda439ba201",
+        "original": "Gain Regen 2{aura.e2.mod} times",
+        "translation": "재생을 25번 얻습니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093817,
+        "key": "bf98d9623b15dd1fb4e9e4364b33ec73",
+        "original": "Slow 1{aura.e2.mod} times",
+        "translation": "둔화를 15번 겁니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 767093818,
+        "key": "6d49de78975a8f5911ea3f6750d6f6f4",
+        "original": "Complete a quest on another item",
+        "translation": "다른 아이템의 퀘스트를 완료합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 771888867,
+        "key": "eb1481a248a7d4ab2fc93cd6e3844643",
+        "original": "This has +{aura.q1} Multicast.",
+        "translation": "이 아이템이 +{aura.q1}의 다중시전을 가집니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 771888868,
+        "key": "e96ffc1bb0c292fd12c8a86daa0fc6d8",
+        "original": "This has +{aura.q2} Multicast.",
+        "translation": "이 아이템이 +{aura.q2}의 다중시전을 가집니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736525,
+        "key": "0bc64aba42b4eb3fa0d530c79dd1173a",
+        "original": "Buy 4 Relics",
+        "translation": "유물을 4번 구매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736526,
+        "key": "c514e7bceaaa4787124a78a57bbd47e9",
+        "original": "Use 60 Food",
+        "translation": "음식을 60번 사용합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736527,
+        "key": "eb021d7bf19048fba000fbaabd41d24b",
+        "original": "Sell 20 Food or Toys",
+        "translation": "음식 또는 장난감을 20번 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736528,
+        "key": "84698d0005ba98792981c923fa20d48a",
+        "original": "Sell 40 Food or Toys",
+        "translation": "음식 또는 장난감을 40번 판매합니다",
+        "stage": 5,
+        "context": null
+    },
+    {
+        "id": 790736529,
+        "key": "a68e924c5ba2b46eada70b3d6d8ae6d3",
+        "original": "Sell 60 Food or Toys",
+        "translation": "음식 또는 장난감을 60번 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736530,
+        "key": "ea4fe20ee209188056cf4b87f91aa844",
+        "original": "Make 100 items Fly.",
+        "translation": "아이템을 100번 비행시킵니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736531,
+        "key": "3cd3214e9cee2ea6b0af2ec56194ac66",
+        "original": "Sell 12 Food",
+        "translation": "음식을 12번 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736532,
+        "key": "8bd71b3457049a66b6eadda312b5aade",
+        "original": "This has +{aura.q1}% Crit Chance",
+        "translation": "이 아이템이 +{aura.q1}%의 치명타 확률을 가집니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736533,
+        "key": "ab5b2b2db7fc3fb78b0401fa7e5fee4d",
+        "original": "Sell 24 Food",
+        "translation": "음식을 24번 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736534,
+        "key": "6ecdc0ee508c0d23272375da0fd9d41b",
+        "original": "Sell 48 Food",
+        "translation": "음식을 48번 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736535,
+        "key": "b2a5515016338543ab9ec35b2f63052c",
+        "original": "Sell 20 Food",
+        "translation": "음식을 20번 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736536,
+        "key": "3c76cea6c237b4a834a76afce5c552c1",
+        "original": "This item's Cooldown is reduced by {aura.q1} seconds",
+        "translation": "이 아이템의 재사용 대기시간이 {aura.q1}초 감소합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736537,
+        "key": "82e7abc913f5d9d55357b9ade5ca502b",
+        "original": "Sell 40 Food",
+        "translation": "음식을 40번 판매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736538,
+        "key": "340245a792c0b314a3ba1c0afd5d1234",
+        "original": "Your Flying Weapons have +{aura.q1} Multicast.",
+        "translation": "내 비행 중인 무기들이 +{aura.q1}의 다중시전을 가집니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736539,
+        "key": "efa65d2b6d2b590aec426a6d207ab9fe",
+        "original": "Your Flying Shield items have +{aura.q2} Multicast.",
+        "translation": "내 비행 중인 보호막 아이템들이 +{aura.q2}의 다중시전을 가집니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736540,
+        "key": "016843e49b962e8b2a98695ded9fa53a",
+        "original": "Your Flying Burn items have +{aura.q3} Multicast.",
+        "translation": "내 비행 중인 화상 아이템들이 +{aura.q3}의 다중시전을 가집니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736541,
+        "key": "1381d84c1727a0ce8faab1d364b6b978",
+        "original": "Use 100 Food",
+        "translation": "음식을 100번 사용합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736542,
+        "key": "32548cd79da6f0259bf346b53f8d463f",
+        "original": "This has +Damage equal to 5% of your Max Health",
+        "translation": "이 아이템이 내 최대 체력의 5%만큼 피해량을 가집니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736543,
+        "key": "bbac3f9136c1605a063542ce03e7e42e",
+        "original": "Slow 80 times",
+        "translation": "둔화를 80번 겁니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736544,
+        "key": "ea124830b5232f82c6eccaf523d12bc6",
+        "original": "When you sell this, gain a random Skill.",
+        "translation": "내가 이 아이템을 판매할 때, 무작위 스킬을 얻습니다.",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 790736545,
+        "key": "62961c8474a73e095bb3f9fc62d5ef97",
+        "original": "Buy 5 Slow items",
+        "translation": "둔화 아이템을 5번 구매합니다",
+        "stage": 1,
+        "context": null
+    },
+    {
+        "id": 816968676,
+        "key": "08d119103a1ccca9c14535a9fd81c62a",
+        "original": "Sell 15 Silver Small items",
+        "translation": "소형 실버 등급 아이템을 15번 판매합니다",
+        "stage": 1,
+        "context": null
+    }
+]
